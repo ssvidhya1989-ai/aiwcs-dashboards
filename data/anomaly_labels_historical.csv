@@ -1,0 +1,58 @@
+anomaly_id,anomaly_type,table,record_ref,job_no,detail,source,outcome
+ANM0001,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2025/0171,~204 extra hours booked in Body shop,Costing section review,Justified
+ANM0002,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2024/0095,~138 extra hours booked in Body shop,Accounts Inspection,Justified
+ANM0003,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2023/0160,~234 extra hours booked in Body shop,Costing section review,Corrected
+ANM0004,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2024/0079,~66 extra hours booked in Bogie shop,Accounts Inspection,Justified
+ANM0005,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2024/0164,~276 extra hours booked in Bogie shop,Internal Audit,Recovered
+ANM0006,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2024/0107,~228 extra hours booked in Body shop,Accounts Inspection,Corrected
+ANM0007,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2025/0034,~204 extra hours booked in Body shop,Accounts Inspection,Justified
+ANM0009,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2024/0004,~240 extra hours booked in Body shop,Costing section review,Justified
+ANM0010,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2023/0048,~222 extra hours booked in Bogie shop,Accounts Inspection,Recovered
+ANM0011,Excess labour hours on coach-shop,labour_bookings,shop 6,JOB/2025/0133,~156 extra hours booked in Electrical & Furnishing shop,Accounts Inspection,Corrected
+ANM0012,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2023/0091,~252 extra hours booked in Bogie shop,Costing section review,Corrected
+ANM0014,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2025/0039,~294 extra hours booked in Bogie shop,Accounts Inspection,Corrected
+ANM0015,Hours booked while on leave,labour_bookings,LB0132893,JOB/2023/0003,STF0172 on leave 2026-02-02,Costing section review,Corrected
+ANM0017,Hours booked while on leave,labour_bookings,LB0132895,JOB/2025/0050,STF0151 on leave 2025-03-15,Accounts Inspection,Justified
+ANM0018,Hours booked while on leave,labour_bookings,LB0132896,JOB/2024/0045,STF0125 on leave 2024-12-03,Internal Audit,Corrected
+ANM0019,Hours booked while on leave,labour_bookings,LB0132897,JOB/2024/0084,STF0154 on leave 2023-12-07,Accounts Inspection,Corrected
+ANM0020,Hours booked while on leave,labour_bookings,LB0132898,JOB/2025/0031,STF0194 on leave 2026-01-22,Internal Audit,Justified
+ANM0021,Hours booked while on leave,labour_bookings,LB0132899,JOB/2025/0063,STF0098 on leave 2024-10-04,Costing section review,Corrected
+ANM0023,Hours booked while on leave,labour_bookings,LB0132901,JOB/2023/0099,STF0103 on leave 2026-05-25,Accounts Inspection,Corrected
+ANM0024,Hours booked while on leave,labour_bookings,LB0132902,JOB/2023/0170,STF0060 on leave 2024-05-10,Costing section review,Corrected
+ANM0027,Hours booked while on leave,labour_bookings,LB0132905,JOB/2023/0005,STF0129 on leave 2024-05-27,Costing section review,Recovered
+ANM0028,Hours booked while on leave,labour_bookings,LB0132906,JOB/2023/0061,STF0012 on leave 2024-09-17,Internal Audit,Corrected
+ANM0029,Hours booked while on leave,labour_bookings,LB0132907,JOB/2023/0149,STF0150 on leave 2025-02-18,Internal Audit,Justified
+ANM0030,Hours booked while on leave,labour_bookings,LB0132908,JOB/2024/0009,STF0115 on leave 2026-03-04,Internal Audit,Corrected
+ANM0033,Hours booked while on leave,labour_bookings,LB0132911,JOB/2023/0170,STF0065 on leave 2023-04-27,Internal Audit,Recovered
+ANM0034,Hours booked while on leave,labour_bookings,LB0132912,JOB/2025/0071,STF0100 on leave 2023-07-10,Costing section review,Recovered
+ANM0036,Hours booked while on leave,labour_bookings,LB0132914,JOB/2023/0123,STF0138 on leave 2023-05-13,Costing section review,Corrected
+ANM0038,Hours booked while on leave,labour_bookings,LB0132916,JOB/2023/0149,STF0013 on leave 2025-05-29,Internal Audit,Corrected
+ANM0039,Hours booked while on leave,labour_bookings,LB0132917,JOB/2025/0057,STF0081 on leave 2025-11-29,Accounts Inspection,Corrected
+ANM0040,Repeated drawal of same item (excess over need),material_issues,PL10010008,JOB/2025/0003,2 extra issues of PL10010008,Accounts Inspection,Corrected
+ANM0041,Repeated drawal of same item (excess over need),material_issues,PL10050002,JOB/2023/0035,2 extra issues of PL10050002,Costing section review,Corrected
+ANM0042,Repeated drawal of same item (excess over need),material_issues,PL10030002,JOB/2024/0027,2 extra issues of PL10030002,Internal Audit,Recovered
+ANM0043,Repeated drawal of same item (excess over need),material_issues,PL10010011,JOB/2024/0083,3 extra issues of PL10010011,Accounts Inspection,Corrected
+ANM0044,Repeated drawal of same item (excess over need),material_issues,PL10050004,JOB/2024/0124,3 extra issues of PL10050004,Accounts Inspection,Corrected
+ANM0045,Repeated drawal of same item (excess over need),material_issues,PL10040003,JOB/2025/0155,2 extra issues of PL10040003,Accounts Inspection,Justified
+ANM0047,Repeated drawal of same item (excess over need),material_issues,PL10040002,JOB/2023/0091,2 extra issues of PL10040002,Costing section review,Justified
+ANM0048,Repeated drawal of same item (excess over need),material_issues,PL10030002,JOB/2025/0057,3 extra issues of PL10030002,Accounts Inspection,Recovered
+ANM0049,Repeated drawal of same item (excess over need),material_issues,PL10010002,JOB/2024/0179,3 extra issues of PL10010002,Internal Audit,Corrected
+ANM0057,Repeated drawal of same item (excess over need),material_issues,PL10010005,JOB/2023/0064,2 extra issues of PL10010005,Accounts Inspection,Corrected
+ANM0058,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000914,JOB/2023/0127,"dated 2024-01-04, after dispatch 2023-12-18",Costing section review,Corrected
+ANM0059,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000915,JOB/2023/0037,"dated 2023-07-14, after dispatch 2023-06-27",Costing section review,Corrected
+ANM0061,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000917,JOB/2024/0115,"dated 2025-01-10, after dispatch 2024-12-24",Accounts Inspection,Corrected
+ANM0062,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000918,JOB/2024/0066,"dated 2024-09-27, after dispatch 2024-09-05",Accounts Inspection,Corrected
+ANM0064,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000920,JOB/2024/0078,"dated 2024-09-30, after dispatch 2024-09-10",Costing section review,Recovered
+ANM0065,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000921,JOB/2023/0111,"dated 2023-11-27, after dispatch 2023-11-21",Costing section review,Corrected
+ANM0066,Year-end issue to already dispatched coach,material_issues,IN/0015669,JOB/2023/0088,PL10020003 x60 on 2024-03-31,Costing section review,Corrected
+ANM0067,Year-end issue to already dispatched coach,material_issues,IN/0015670,JOB/2023/0017,PL10020003 x60 on 2024-03-31,Internal Audit,Recovered
+ANM0069,Year-end issue to already dispatched coach,material_issues,IN/0015672,JOB/2023/0086,PL10050001 x120 on 2024-03-31,Internal Audit,Corrected
+ANM0070,Year-end issue to already dispatched coach,material_issues,IN/0015673,JOB/2023/0097,PL10040002 x400 on 2024-03-31,Costing section review,Recovered
+ANM0071,Year-end issue to already dispatched coach,material_issues,IN/0015674,JOB/2024/0155,PL10040002 x400 on 2025-03-31,Accounts Inspection,Justified
+ANM0074,Year-end issue to already dispatched coach,material_issues,IN/0015677,JOB/2024/0098,PL10050001 x120 on 2025-03-31,Costing section review,Justified
+ANM0075,Year-end issue to already dispatched coach,material_issues,IN/0015678,JOB/2024/0077,PL10050001 x120 on 2025-03-31,Accounts Inspection,Corrected
+ANM0076,Year-end issue to already dispatched coach,material_issues,IN/0015679,JOB/2025/0065,PL10020003 x60 on 2026-03-31,Accounts Inspection,Corrected
+ANM0077,Year-end issue to already dispatched coach,material_issues,IN/0015680,JOB/2025/0073,PL10050001 x120 on 2026-03-31,Internal Audit,Corrected
+ANM0078,Year-end issue to already dispatched coach,material_issues,IN/0015681,JOB/2025/0097,PL10050001 x120 on 2026-03-31,Costing section review,Corrected
+ANM0079,Year-end issue to already dispatched coach,material_issues,IN/0015682,JOB/2025/0051,PL10040002 x400 on 2026-03-31,Accounts Inspection,Corrected
+ANM0080,Year-end issue to already dispatched coach,material_issues,IN/0015683,JOB/2025/0160,PL10040002 x400 on 2026-03-31,Accounts Inspection,Recovered

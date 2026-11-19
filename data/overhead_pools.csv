@@ -1,0 +1,191 @@
+fy,month,pool,driver,pool_cost,total_driver_qty,driver_rate
+2023-24,2023-04,Bogie shop pool,Man-hours (stages 2-3),1180520.58,5075.0,232.6149
+2023-24,2023-05,Bogie shop pool,Man-hours (stages 2-3),1757608.86,8472.0,207.4609
+2023-24,2023-06,Bogie shop pool,Man-hours (stages 2-3),1931014.53,9453.0,204.2753
+2023-24,2023-07,Bogie shop pool,Man-hours (stages 2-3),1896299.76,9507.0,199.4635
+2023-24,2023-08,Bogie shop pool,Man-hours (stages 2-3),1939675.17,9242.0,209.8761
+2023-24,2023-09,Bogie shop pool,Man-hours (stages 2-3),1808453.79,9243.0,195.6566
+2023-24,2023-10,Bogie shop pool,Man-hours (stages 2-3),1476052.73,7209.0,204.7514
+2023-24,2023-11,Bogie shop pool,Man-hours (stages 2-3),1636680.21,7683.0,213.0262
+2023-24,2023-12,Bogie shop pool,Man-hours (stages 2-3),1396861.35,6121.0,228.208
+2023-24,2024-01,Bogie shop pool,Man-hours (stages 2-3),1452870.4,6114.0,237.6301
+2023-24,2024-02,Bogie shop pool,Man-hours (stages 2-3),1644054.67,6822.0,240.9931
+2023-24,2024-03,Bogie shop pool,Man-hours (stages 2-3),1507423.12,6756.0,223.1236
+2024-25,2024-04,Bogie shop pool,Man-hours (stages 2-3),1669685.21,7001.0,238.4924
+2024-25,2024-05,Bogie shop pool,Man-hours (stages 2-3),1749261.89,8476.0,206.3782
+2024-25,2024-06,Bogie shop pool,Man-hours (stages 2-3),1879106.44,8942.0,210.1439
+2024-25,2024-07,Bogie shop pool,Man-hours (stages 2-3),1882081.87,9047.0,208.0338
+2024-25,2024-08,Bogie shop pool,Man-hours (stages 2-3),1455272.07,6135.0,237.2082
+2024-25,2024-09,Bogie shop pool,Man-hours (stages 2-3),1254974.12,5059.0,248.0676
+2024-25,2024-10,Bogie shop pool,Man-hours (stages 2-3),1545935.34,7128.0,216.8821
+2024-25,2024-11,Bogie shop pool,Man-hours (stages 2-3),1527020.35,6856.0,222.7276
+2024-25,2024-12,Bogie shop pool,Man-hours (stages 2-3),1905541.26,9268.0,205.6044
+2024-25,2025-01,Bogie shop pool,Man-hours (stages 2-3),1889872.43,8426.0,224.2906
+2024-25,2025-02,Bogie shop pool,Man-hours (stages 2-3),1906252.63,8322.0,229.0618
+2024-25,2025-03,Bogie shop pool,Man-hours (stages 2-3),1811067.61,8366.0,216.4795
+2025-26,2025-04,Bogie shop pool,Man-hours (stages 2-3),1583398.24,6930.0,228.4846
+2025-26,2025-05,Bogie shop pool,Man-hours (stages 2-3),1906359.82,7924.0,240.5805
+2025-26,2025-06,Bogie shop pool,Man-hours (stages 2-3),1509145.37,6326.0,238.5623
+2025-26,2025-07,Bogie shop pool,Man-hours (stages 2-3),1777389.77,7951.0,223.5429
+2025-26,2025-08,Bogie shop pool,Man-hours (stages 2-3),1871281.46,7992.0,234.1443
+2025-26,2025-09,Bogie shop pool,Man-hours (stages 2-3),1753499.15,7887.0,222.3278
+2025-26,2025-10,Bogie shop pool,Man-hours (stages 2-3),1754486.48,7322.0,239.6185
+2025-26,2025-11,Bogie shop pool,Man-hours (stages 2-3),1727289.2,7892.0,218.8658
+2025-26,2025-12,Bogie shop pool,Man-hours (stages 2-3),1796800.47,7592.0,236.6702
+2025-26,2026-01,Bogie shop pool,Man-hours (stages 2-3),1951652.84,8107.0,240.7368
+2025-26,2026-02,Bogie shop pool,Man-hours (stages 2-3),1952436.76,7938.0,245.9608
+2025-26,2026-03,Bogie shop pool,Man-hours (stages 2-3),1622279.55,6085.0,266.603
+2026-27,2026-04,Bogie shop pool,Man-hours (stages 2-3),782884.77,1492.0,524.7217
+2023-24,2023-04,Body shop pool,Welding kWh (stage 4),662909.0,11171.0,59.342
+2023-24,2023-05,Body shop pool,Welding kWh (stage 4),922398.13,18574.0,49.6607
+2023-24,2023-06,Body shop pool,Welding kWh (stage 4),1135619.62,23499.0,48.3263
+2023-24,2023-07,Body shop pool,Welding kWh (stage 4),1027526.6,19890.0,51.6605
+2023-24,2023-08,Body shop pool,Welding kWh (stage 4),1208104.71,25537.0,47.308
+2023-24,2023-09,Body shop pool,Welding kWh (stage 4),1040601.06,21364.0,48.7082
+2023-24,2023-10,Body shop pool,Welding kWh (stage 4),832980.06,15695.0,53.073
+2023-24,2023-11,Body shop pool,Welding kWh (stage 4),904779.21,17376.0,52.0706
+2023-24,2023-12,Body shop pool,Welding kWh (stage 4),833573.66,15763.0,52.8817
+2023-24,2024-01,Body shop pool,Welding kWh (stage 4),801040.15,13023.0,61.5096
+2023-24,2024-02,Body shop pool,Welding kWh (stage 4),871152.56,15411.0,56.528
+2023-24,2024-03,Body shop pool,Welding kWh (stage 4),846011.65,14310.0,59.1203
+2024-25,2024-04,Body shop pool,Welding kWh (stage 4),997976.01,18291.0,54.561
+2024-25,2024-05,Body shop pool,Welding kWh (stage 4),1139926.94,22738.0,50.1331
+2024-25,2024-06,Body shop pool,Welding kWh (stage 4),1149057.87,23545.0,48.8026
+2024-25,2024-07,Body shop pool,Welding kWh (stage 4),1057365.53,20437.0,51.7378
+2024-25,2024-08,Body shop pool,Welding kWh (stage 4),834971.77,14158.0,58.9753
+2024-25,2024-09,Body shop pool,Welding kWh (stage 4),627204.76,9555.0,65.6415
+2024-25,2024-10,Body shop pool,Welding kWh (stage 4),916420.28,16074.0,57.0126
+2024-25,2024-11,Body shop pool,Welding kWh (stage 4),788574.09,14081.0,56.0027
+2024-25,2024-12,Body shop pool,Welding kWh (stage 4),1174172.1,24984.0,46.997
+2024-25,2025-01,Body shop pool,Welding kWh (stage 4),1109878.66,21328.0,52.0386
+2024-25,2025-02,Body shop pool,Welding kWh (stage 4),1221415.79,22274.0,54.8359
+2024-25,2025-03,Body shop pool,Welding kWh (stage 4),914644.36,16653.0,54.9237
+2025-26,2025-04,Body shop pool,Welding kWh (stage 4),839235.8,14674.0,57.192
+2025-26,2025-05,Body shop pool,Welding kWh (stage 4),1165934.35,22821.0,51.0904
+2025-26,2025-06,Body shop pool,Welding kWh (stage 4),744989.85,11559.0,64.4511
+2025-26,2025-07,Body shop pool,Welding kWh (stage 4),1187868.1,23014.0,51.615
+2025-26,2025-08,Body shop pool,Welding kWh (stage 4),1048962.6,18107.0,57.9313
+2025-26,2025-09,Body shop pool,Welding kWh (stage 4),1025464.59,17267.0,59.3887
+2025-26,2025-10,Body shop pool,Welding kWh (stage 4),886086.77,14827.0,59.7617
+2025-26,2025-11,Body shop pool,Welding kWh (stage 4),1059948.42,19330.0,54.8344
+2025-26,2025-12,Body shop pool,Welding kWh (stage 4),951381.49,17397.0,54.6865
+2025-26,2026-01,Body shop pool,Welding kWh (stage 4),1040830.82,17926.0,58.0626
+2025-26,2026-02,Body shop pool,Welding kWh (stage 4),1128142.63,19803.0,56.9683
+2025-26,2026-03,Body shop pool,Welding kWh (stage 4),783952.67,12059.0,65.0098
+2026-27,2026-04,Body shop pool,Welding kWh (stage 4),635123.15,8305.0,76.4748
+2023-24,2023-04,Paint shop pool,Paint-booth hours (stage 7),485694.86,101.5,4785.171
+2023-24,2023-05,Paint shop pool,Paint-booth hours (stage 7),848512.4,304.0,2791.1592
+2023-24,2023-06,Paint shop pool,Paint-booth hours (stage 7),1373347.84,585.8,2344.3971
+2023-24,2023-07,Paint shop pool,Paint-booth hours (stage 7),1040252.48,402.6,2583.8363
+2023-24,2023-08,Paint shop pool,Paint-booth hours (stage 7),997502.1,375.3,2657.8793
+2023-24,2023-09,Paint shop pool,Paint-booth hours (stage 7),1327391.27,563.4,2356.037
+2023-24,2023-10,Paint shop pool,Paint-booth hours (stage 7),1130508.67,432.0,2616.9182
+2023-24,2023-11,Paint shop pool,Paint-booth hours (stage 7),1041123.52,371.8,2800.2246
+2023-24,2023-12,Paint shop pool,Paint-booth hours (stage 7),832526.29,273.5,3043.9718
+2023-24,2024-01,Paint shop pool,Paint-booth hours (stage 7),1125943.53,405.9,2773.9432
+2023-24,2024-02,Paint shop pool,Paint-booth hours (stage 7),939375.38,293.5,3200.5975
+2023-24,2024-03,Paint shop pool,Paint-booth hours (stage 7),1035433.94,372.2,2781.9289
+2024-25,2024-04,Paint shop pool,Paint-booth hours (stage 7),672803.63,187.3,3592.1176
+2024-25,2024-05,Paint shop pool,Paint-booth hours (stage 7),1194486.95,431.0,2771.4314
+2024-25,2024-06,Paint shop pool,Paint-booth hours (stage 7),1346342.3,489.8,2748.7593
+2024-25,2024-07,Paint shop pool,Paint-booth hours (stage 7),1353666.83,540.5,2504.4715
+2024-25,2024-08,Paint shop pool,Paint-booth hours (stage 7),1054352.42,363.1,2903.7522
+2024-25,2024-09,Paint shop pool,Paint-booth hours (stage 7),780260.3,226.7,3441.8187
+2024-25,2024-10,Paint shop pool,Paint-booth hours (stage 7),1044066.59,346.5,3013.1792
+2024-25,2024-11,Paint shop pool,Paint-booth hours (stage 7),967839.71,335.1,2888.2116
+2024-25,2024-12,Paint shop pool,Paint-booth hours (stage 7),1004949.15,358.5,2803.2054
+2024-25,2025-01,Paint shop pool,Paint-booth hours (stage 7),1523226.59,553.0,2754.4785
+2024-25,2025-02,Paint shop pool,Paint-booth hours (stage 7),1140681.09,363.9,3134.6004
+2024-25,2025-03,Paint shop pool,Paint-booth hours (stage 7),1228866.64,418.5,2936.36
+2025-26,2025-04,Paint shop pool,Paint-booth hours (stage 7),995775.86,320.2,3109.8559
+2025-26,2025-05,Paint shop pool,Paint-booth hours (stage 7),1358258.19,514.2,2641.4978
+2025-26,2025-06,Paint shop pool,Paint-booth hours (stage 7),950754.51,310.0,3066.95
+2025-26,2025-07,Paint shop pool,Paint-booth hours (stage 7),1002422.8,298.9,3353.7063
+2025-26,2025-08,Paint shop pool,Paint-booth hours (stage 7),1378525.07,480.8,2867.1486
+2025-26,2025-09,Paint shop pool,Paint-booth hours (stage 7),1318543.23,447.0,2949.7611
+2025-26,2025-10,Paint shop pool,Paint-booth hours (stage 7),908363.13,293.3,3097.0444
+2025-26,2025-11,Paint shop pool,Paint-booth hours (stage 7),1242348.98,432.6,2871.8192
+2025-26,2025-12,Paint shop pool,Paint-booth hours (stage 7),993491.84,318.8,3116.3483
+2025-26,2026-01,Paint shop pool,Paint-booth hours (stage 7),1024782.11,318.2,3220.5597
+2025-26,2026-02,Paint shop pool,Paint-booth hours (stage 7),1560128.48,540.6,2885.9202
+2025-26,2026-03,Paint shop pool,Paint-booth hours (stage 7),1107054.09,341.2,3244.5899
+2026-27,2026-04,Paint shop pool,Paint-booth hours (stage 7),695722.78,168.1,4138.7435
+2026-27,2026-05,Paint shop pool,Paint-booth hours (stage 7),459060.15,51.6,8896.5145
+2023-24,2023-04,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",727508.82,2903.0,250.6059
+2023-24,2023-05,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1372471.94,9438.0,145.4198
+2023-24,2023-06,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1813185.11,12328.0,147.0786
+2023-24,2023-07,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1545634.47,11255.0,137.3287
+2023-24,2023-08,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1514951.16,10301.0,147.0684
+2023-24,2023-09,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1842863.74,13062.0,141.0859
+2023-24,2023-10,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1706064.7,12109.0,140.8923
+2023-24,2023-11,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1411569.38,9002.0,156.8062
+2023-24,2023-12,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1109287.12,6867.0,161.5388
+2023-24,2024-01,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1470949.97,8639.0,170.2685
+2023-24,2024-02,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1151587.43,6731.0,171.0871
+2023-24,2024-03,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1477320.4,8822.0,167.4587
+2024-25,2024-04,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1217024.32,7185.0,169.384
+2024-25,2024-05,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1612391.69,10468.0,154.0305
+2024-25,2024-06,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1703502.11,11797.0,144.4013
+2024-25,2024-07,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1873834.63,12427.0,150.7874
+2024-25,2024-08,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1614285.39,9823.0,164.3373
+2024-25,2024-09,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1096512.39,6019.0,182.1752
+2024-25,2024-10,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1440752.67,8478.0,169.9402
+2024-25,2024-11,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1366664.89,8020.0,170.4071
+2024-25,2024-12,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1447380.16,8679.0,166.7681
+2024-25,2025-01,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1903309.32,12312.0,154.5898
+2024-25,2025-02,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1473064.31,8722.0,168.8907
+2024-25,2025-03,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1642827.72,10547.0,155.7626
+2025-26,2025-04,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1663807.67,10476.0,158.8209
+2025-26,2025-05,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1657846.13,10608.0,156.2826
+2025-26,2025-06,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1447273.14,7885.0,183.5476
+2025-26,2025-07,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1412844.15,8172.0,172.8884
+2025-26,2025-08,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1790996.56,10891.0,164.4474
+2025-26,2025-09,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1698151.58,10102.0,168.1005
+2025-26,2025-10,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1235496.27,6789.0,181.985
+2025-26,2025-11,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1613971.71,9630.0,167.5983
+2025-26,2025-12,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1545265.08,9204.0,167.8906
+2025-26,2026-01,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1634472.74,9247.0,176.7571
+2025-26,2026-02,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1874111.72,10843.0,172.8407
+2025-26,2026-03,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1606851.49,8842.0,181.7294
+2026-27,2026-04,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",1032031.77,4544.0,227.1197
+2026-27,2026-05,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",569246.13,838.0,679.2913
+2026-27,2026-06,Assembly & testing pool,"Man-hours (stages 1,5,6,8)",485785.23,8.0,60723.1538
+2023-24,2023-04,Workshop general pool,Man-hours (all stages),2425823.83,12301.0,197.2054
+2023-24,2023-05,Workshop general pool,Man-hours (all stages),3964839.89,26097.0,151.927
+2023-24,2023-06,Workshop general pool,Man-hours (all stages),4248947.27,31563.0,134.618
+2023-24,2023-07,Workshop general pool,Man-hours (all stages),4255349.14,30434.0,139.8222
+2023-24,2023-08,Workshop general pool,Man-hours (all stages),4049374.11,28784.0,140.6814
+2023-24,2023-09,Workshop general pool,Man-hours (all stages),4804287.97,32896.0,146.0447
+2023-24,2023-10,Workshop general pool,Man-hours (all stages),4049703.64,26881.0,150.653
+2023-24,2023-11,Workshop general pool,Man-hours (all stages),3587056.9,24884.0,144.1511
+2023-24,2023-12,Workshop general pool,Man-hours (all stages),3270438.37,19242.0,169.9635
+2023-24,2024-01,Workshop general pool,Man-hours (all stages),3391450.69,21293.0,159.2754
+2023-24,2024-02,Workshop general pool,Man-hours (all stages),3340869.91,20365.0,164.0496
+2023-24,2024-03,Workshop general pool,Man-hours (all stages),3835735.0,22432.0,170.9939
+2024-25,2024-04,Workshop general pool,Man-hours (all stages),3633701.68,21208.0,171.3364
+2024-25,2024-05,Workshop general pool,Man-hours (all stages),4440502.2,28156.0,157.7107
+2024-25,2024-06,Workshop general pool,Man-hours (all stages),4702988.03,31178.0,150.8432
+2024-25,2024-07,Workshop general pool,Man-hours (all stages),4508477.16,31191.0,144.5442
+2024-25,2024-08,Workshop general pool,Man-hours (all stages),3667368.76,22749.0,161.2101
+2024-25,2024-09,Workshop general pool,Man-hours (all stages),2931956.97,15877.0,184.6669
+2024-25,2024-10,Workshop general pool,Man-hours (all stages),3575497.63,22821.0,156.6758
+2024-25,2024-11,Workshop general pool,Man-hours (all stages),3551249.91,21886.0,162.2613
+2024-25,2024-12,Workshop general pool,Man-hours (all stages),4309743.76,27317.0,157.7678
+2024-25,2025-01,Workshop general pool,Man-hours (all stages),4583487.77,30266.0,151.4402
+2024-25,2025-02,Workshop general pool,Man-hours (all stages),4044552.45,25853.0,156.4442
+2024-25,2025-03,Workshop general pool,Man-hours (all stages),4667089.67,27818.0,167.7723
+2025-26,2025-04,Workshop general pool,Man-hours (all stages),4063555.66,24467.0,166.0831
+2025-26,2025-05,Workshop general pool,Man-hours (all stages),4636906.17,27879.0,166.3225
+2025-26,2025-06,Workshop general pool,Man-hours (all stages),3554745.56,21014.0,169.1608
+2025-26,2025-07,Workshop general pool,Man-hours (all stages),4216061.29,24155.0,174.542
+2025-26,2025-08,Workshop general pool,Man-hours (all stages),4545450.32,27448.0,165.6022
+2025-26,2025-09,Workshop general pool,Man-hours (all stages),4291277.8,26057.0,164.6881
+2025-26,2025-10,Workshop general pool,Man-hours (all stages),3820075.05,21080.0,181.218
+2025-26,2025-11,Workshop general pool,Man-hours (all stages),4365509.45,26077.0,167.4084
+2025-26,2025-12,Workshop general pool,Man-hours (all stages),4226744.92,24942.0,169.463
+2025-26,2026-01,Workshop general pool,Man-hours (all stages),4175748.48,25458.0,164.025
+2025-26,2026-02,Workshop general pool,Man-hours (all stages),4781848.76,27821.0,171.8791
+2025-26,2026-03,Workshop general pool,Man-hours (all stages),4130914.51,22584.0,182.9133
+2026-27,2026-04,Workshop general pool,Man-hours (all stages),2363244.4,8462.0,279.2773
+2026-27,2026-05,Workshop general pool,Man-hours (all stages),1434479.07,1080.0,1328.2214
+2026-27,2026-06,Workshop general pool,Man-hours (all stages),1239117.31,8.0,154889.6638

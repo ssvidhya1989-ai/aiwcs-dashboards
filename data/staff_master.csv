@@ -1,0 +1,196 @@
+staff_id,shop,primary_shop_no,grade
+STF0001,Inspection shop,1,Technician-II
+STF0002,Inspection shop,1,Senior Technician
+STF0003,Inspection shop,1,Technician-I
+STF0004,Inspection shop,1,Senior Technician
+STF0005,Inspection shop,1,Technician-I
+STF0006,Inspection shop,1,Technician-I
+STF0007,Lifting shop,2,Technician-II
+STF0008,Lifting shop,2,Technician-II
+STF0009,Lifting shop,2,Technician-II
+STF0010,Lifting shop,2,Senior Technician
+STF0011,Lifting shop,2,Senior Technician
+STF0012,Lifting shop,2,Technician-I
+STF0013,Lifting shop,2,Technician-I
+STF0014,Lifting shop,2,Technician-III
+STF0015,Lifting shop,2,Technician-II
+STF0016,Lifting shop,2,Technician-II
+STF0017,Lifting shop,2,Technician-I
+STF0018,Lifting shop,2,Technician-I
+STF0019,Bogie shop,3,Technician-II
+STF0020,Bogie shop,3,Technician-I
+STF0021,Bogie shop,3,Technician-I
+STF0022,Bogie shop,3,Technician-II
+STF0023,Bogie shop,3,Technician-III
+STF0024,Bogie shop,3,Technician-I
+STF0025,Bogie shop,3,Technician-III
+STF0026,Bogie shop,3,Technician-I
+STF0027,Bogie shop,3,Technician-I
+STF0028,Bogie shop,3,Technician-II
+STF0029,Bogie shop,3,Technician-III
+STF0030,Bogie shop,3,Technician-I
+STF0031,Bogie shop,3,Technician-III
+STF0032,Bogie shop,3,Senior Technician
+STF0033,Bogie shop,3,Technician-III
+STF0034,Bogie shop,3,Senior Technician
+STF0035,Bogie shop,3,Technician-III
+STF0036,Bogie shop,3,Technician-I
+STF0037,Bogie shop,3,Senior Technician
+STF0038,Bogie shop,3,Senior Technician
+STF0039,Bogie shop,3,Technician-I
+STF0040,Bogie shop,3,Technician-I
+STF0041,Bogie shop,3,Senior Technician
+STF0042,Bogie shop,3,Technician-III
+STF0043,Bogie shop,3,Technician-III
+STF0044,Bogie shop,3,Technician-III
+STF0045,Bogie shop,3,Senior Technician
+STF0046,Bogie shop,3,Senior Technician
+STF0047,Bogie shop,3,Technician-III
+STF0048,Bogie shop,3,Technician-II
+STF0049,Bogie shop,3,Technician-II
+STF0050,Bogie shop,3,Technician-I
+STF0051,Bogie shop,3,Technician-II
+STF0052,Bogie shop,3,Technician-I
+STF0053,Bogie shop,3,Senior Technician
+STF0054,Bogie shop,3,Technician-III
+STF0055,Bogie shop,3,Technician-II
+STF0056,Bogie shop,3,Technician-III
+STF0057,Bogie shop,3,Technician-I
+STF0058,Bogie shop,3,Technician-II
+STF0059,Bogie shop,3,Senior Technician
+STF0060,Bogie shop,3,Technician-II
+STF0061,Bogie shop,3,Technician-II
+STF0062,Bogie shop,3,Technician-I
+STF0063,Bogie shop,3,Senior Technician
+STF0064,Bogie shop,3,Technician-III
+STF0065,Bogie shop,3,Technician-I
+STF0066,Body shop,4,Senior Technician
+STF0067,Body shop,4,Technician-III
+STF0068,Body shop,4,Technician-I
+STF0069,Body shop,4,Technician-II
+STF0070,Body shop,4,Technician-III
+STF0071,Body shop,4,Technician-II
+STF0072,Body shop,4,Senior Technician
+STF0073,Body shop,4,Technician-II
+STF0074,Body shop,4,Senior Technician
+STF0075,Body shop,4,Senior Technician
+STF0076,Body shop,4,Technician-I
+STF0077,Body shop,4,Technician-III
+STF0078,Body shop,4,Technician-II
+STF0079,Body shop,4,Senior Technician
+STF0080,Body shop,4,Senior Technician
+STF0081,Body shop,4,Technician-II
+STF0082,Body shop,4,Technician-II
+STF0083,Body shop,4,Technician-I
+STF0084,Body shop,4,Technician-III
+STF0085,Body shop,4,Technician-I
+STF0086,Body shop,4,Senior Technician
+STF0087,Body shop,4,Technician-II
+STF0088,Body shop,4,Technician-III
+STF0089,Body shop,4,Senior Technician
+STF0090,Body shop,4,Technician-II
+STF0091,Body shop,4,Technician-III
+STF0092,Body shop,4,Technician-II
+STF0093,Body shop,4,Technician-II
+STF0094,Body shop,4,Technician-II
+STF0095,Body shop,4,Senior Technician
+STF0096,Body shop,4,Technician-III
+STF0097,Body shop,4,Technician-III
+STF0098,Body shop,4,Technician-III
+STF0099,Body shop,4,Technician-II
+STF0100,Body shop,4,Technician-II
+STF0101,Body shop,4,Technician-II
+STF0102,Body shop,4,Technician-III
+STF0103,Body shop,4,Technician-II
+STF0104,Body shop,4,Technician-I
+STF0105,Body shop,4,Technician-I
+STF0106,Body shop,4,Technician-III
+STF0107,Body shop,4,Technician-I
+STF0108,Body shop,4,Technician-I
+STF0109,Body shop,4,Technician-III
+STF0110,Body shop,4,Technician-I
+STF0111,Air Brake shop,5,Technician-III
+STF0112,Air Brake shop,5,Technician-I
+STF0113,Air Brake shop,5,Technician-II
+STF0114,Air Brake shop,5,Technician-II
+STF0115,Air Brake shop,5,Technician-I
+STF0116,Air Brake shop,5,Technician-II
+STF0117,Air Brake shop,5,Senior Technician
+STF0118,Air Brake shop,5,Senior Technician
+STF0119,Air Brake shop,5,Technician-II
+STF0120,Air Brake shop,5,Technician-I
+STF0121,Air Brake shop,5,Technician-II
+STF0122,Air Brake shop,5,Technician-III
+STF0123,Air Brake shop,5,Technician-I
+STF0124,Air Brake shop,5,Technician-II
+STF0125,Electrical & Furnishing shop,6,Technician-III
+STF0126,Electrical & Furnishing shop,6,Technician-II
+STF0127,Electrical & Furnishing shop,6,Technician-III
+STF0128,Electrical & Furnishing shop,6,Technician-II
+STF0129,Electrical & Furnishing shop,6,Technician-I
+STF0130,Electrical & Furnishing shop,6,Technician-III
+STF0131,Electrical & Furnishing shop,6,Technician-II
+STF0132,Electrical & Furnishing shop,6,Technician-I
+STF0133,Electrical & Furnishing shop,6,Technician-III
+STF0134,Electrical & Furnishing shop,6,Technician-I
+STF0135,Electrical & Furnishing shop,6,Technician-II
+STF0136,Electrical & Furnishing shop,6,Technician-II
+STF0137,Electrical & Furnishing shop,6,Senior Technician
+STF0138,Electrical & Furnishing shop,6,Technician-I
+STF0139,Electrical & Furnishing shop,6,Technician-III
+STF0140,Electrical & Furnishing shop,6,Technician-III
+STF0141,Electrical & Furnishing shop,6,Technician-III
+STF0142,Electrical & Furnishing shop,6,Technician-III
+STF0143,Electrical & Furnishing shop,6,Technician-II
+STF0144,Electrical & Furnishing shop,6,Senior Technician
+STF0145,Electrical & Furnishing shop,6,Technician-II
+STF0146,Electrical & Furnishing shop,6,Technician-II
+STF0147,Electrical & Furnishing shop,6,Technician-II
+STF0148,Electrical & Furnishing shop,6,Technician-II
+STF0149,Electrical & Furnishing shop,6,Technician-II
+STF0150,Electrical & Furnishing shop,6,Technician-II
+STF0151,Electrical & Furnishing shop,6,Senior Technician
+STF0152,Electrical & Furnishing shop,6,Technician-II
+STF0153,Electrical & Furnishing shop,6,Senior Technician
+STF0154,Electrical & Furnishing shop,6,Technician-II
+STF0155,Electrical & Furnishing shop,6,Technician-II
+STF0156,Electrical & Furnishing shop,6,Technician-II
+STF0157,Electrical & Furnishing shop,6,Senior Technician
+STF0158,Electrical & Furnishing shop,6,Technician-II
+STF0159,Electrical & Furnishing shop,6,Technician-III
+STF0160,Electrical & Furnishing shop,6,Senior Technician
+STF0161,Electrical & Furnishing shop,6,Senior Technician
+STF0162,Electrical & Furnishing shop,6,Technician-II
+STF0163,Electrical & Furnishing shop,6,Technician-II
+STF0164,Electrical & Furnishing shop,6,Senior Technician
+STF0165,Electrical & Furnishing shop,6,Technician-II
+STF0166,Electrical & Furnishing shop,6,Senior Technician
+STF0167,Electrical & Furnishing shop,6,Technician-III
+STF0168,Paint shop,7,Technician-II
+STF0169,Paint shop,7,Senior Technician
+STF0170,Paint shop,7,Technician-I
+STF0171,Paint shop,7,Senior Technician
+STF0172,Paint shop,7,Technician-II
+STF0173,Paint shop,7,Technician-II
+STF0174,Paint shop,7,Technician-III
+STF0175,Paint shop,7,Senior Technician
+STF0176,Paint shop,7,Senior Technician
+STF0177,Paint shop,7,Technician-III
+STF0178,Paint shop,7,Senior Technician
+STF0179,Paint shop,7,Technician-II
+STF0180,Paint shop,7,Technician-III
+STF0181,Paint shop,7,Technician-III
+STF0182,Paint shop,7,Senior Technician
+STF0183,Paint shop,7,Technician-II
+STF0184,Testing shop,8,Technician-III
+STF0185,Testing shop,8,Technician-III
+STF0186,Testing shop,8,Technician-II
+STF0187,Testing shop,8,Technician-I
+STF0188,Testing shop,8,Technician-III
+STF0189,Testing shop,8,Technician-II
+STF0190,Testing shop,8,Technician-I
+STF0191,Testing shop,8,Senior Technician
+STF0192,Testing shop,8,Technician-III
+STF0193,Testing shop,8,Senior Technician
+STF0194,Testing shop,8,Technician-III
+STF0195,Testing shop,8,Technician-III

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+decision_log.csv
+assistant_log.csv
+.streamlit/secrets.toml

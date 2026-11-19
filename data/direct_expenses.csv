@@ -1,0 +1,922 @@
+expense_id,job_no,shop_no,description,bill_ref,vendor,amount,date
+EXP000001,JOB/2023/0001,3,Outsourced NDT / ultrasonic testing of axles,BILL/42233,Vendor-G (dummy),11872.42,2023-04-04
+EXP000002,JOB/2023/0002,3,Outsourced NDT / ultrasonic testing of axles,BILL/60181,Vendor-E (dummy),9171.28,2023-04-08
+EXP000003,JOB/2023/0002,6,Outsourced AC plant overhaul,BILL/38839,Vendor-A (dummy),61664.32,2023-04-20
+EXP000004,JOB/2023/0002,8,Third-party brake test certification,BILL/98464,Vendor-C (dummy),4170.66,2023-04-28
+EXP000005,JOB/2023/0003,3,Outsourced NDT / ultrasonic testing of axles,BILL/90779,Vendor-B (dummy),11558.81,2023-04-10
+EXP000006,JOB/2023/0003,4,Hired scaffolding / crane,BILL/61951,Vendor-D (dummy),6303.71,2023-04-10
+EXP000007,JOB/2023/0005,3,Outsourced NDT / ultrasonic testing of axles,BILL/55020,Vendor-C (dummy),9536.47,2023-04-18
+EXP000008,JOB/2023/0005,6,Outsourced AC plant overhaul,BILL/54004,Vendor-E (dummy),49578.04,2023-05-08
+EXP000009,JOB/2023/0006,3,Outsourced NDT / ultrasonic testing of axles,BILL/94475,Vendor-A (dummy),9571.82,2023-04-14
+EXP000010,JOB/2023/0007,3,Outsourced NDT / ultrasonic testing of axles,BILL/98357,Vendor-E (dummy),13987.73,2023-04-18
+EXP000011,JOB/2023/0007,6,Outsourced AC plant overhaul,BILL/75388,Vendor-B (dummy),55624.91,2023-05-02
+EXP000012,JOB/2023/0007,4,Hired scaffolding / crane,BILL/48856,Vendor-C (dummy),12570.88,2023-04-18
+EXP000013,JOB/2023/0008,4,Hired scaffolding / crane,BILL/15094,Vendor-E (dummy),13573.31,2023-04-15
+EXP000014,JOB/2023/0009,3,Outsourced NDT / ultrasonic testing of axles,BILL/29792,Vendor-G (dummy),15091.73,2023-04-19
+EXP000015,JOB/2023/0010,3,Outsourced NDT / ultrasonic testing of axles,BILL/23571,Vendor-D (dummy),15261.22,2023-04-21
+EXP000016,JOB/2023/0010,6,Outsourced AC plant overhaul,BILL/29308,Vendor-C (dummy),53541.89,2023-05-05
+EXP000017,JOB/2023/0010,8,Third-party brake test certification,BILL/87406,Vendor-F (dummy),5760.21,2023-05-16
+EXP000018,JOB/2023/0011,3,Outsourced NDT / ultrasonic testing of axles,BILL/69995,Vendor-F (dummy),13656.0,2023-04-26
+EXP000019,JOB/2023/0011,6,Outsourced AC plant overhaul,BILL/26734,Vendor-A (dummy),63183.1,2023-05-09
+EXP000020,JOB/2023/0011,8,Third-party brake test certification,BILL/42560,Vendor-G (dummy),5578.85,2023-05-18
+EXP000021,JOB/2023/0013,3,Outsourced NDT / ultrasonic testing of axles,BILL/38786,Vendor-A (dummy),15679.17,2023-04-29
+EXP000022,JOB/2023/0013,6,Outsourced AC plant overhaul,BILL/12547,Vendor-G (dummy),48383.29,2023-05-13
+EXP000023,JOB/2023/0014,3,Outsourced NDT / ultrasonic testing of axles,BILL/80297,Vendor-G (dummy),12437.42,2023-04-29
+EXP000024,JOB/2023/0014,8,Third-party brake test certification,BILL/97240,Vendor-A (dummy),6211.67,2023-05-17
+EXP000025,JOB/2023/0014,4,Hired scaffolding / crane,BILL/29920,Vendor-A (dummy),11908.22,2023-04-29
+EXP000026,JOB/2023/0015,3,Outsourced NDT / ultrasonic testing of axles,BILL/56799,Vendor-F (dummy),15601.38,2023-05-05
+EXP000027,JOB/2023/0015,6,Outsourced AC plant overhaul,BILL/49193,Vendor-E (dummy),55646.7,2023-05-27
+EXP000028,JOB/2023/0015,4,Hired scaffolding / crane,BILL/22153,Vendor-E (dummy),6150.88,2023-05-05
+EXP000029,JOB/2023/0016,3,Outsourced NDT / ultrasonic testing of axles,BILL/11266,Vendor-G (dummy),11620.83,2023-05-04
+EXP000030,JOB/2023/0016,8,Third-party brake test certification,BILL/15328,Vendor-A (dummy),5938.86,2023-05-19
+EXP000031,JOB/2023/0016,4,Hired scaffolding / crane,BILL/20977,Vendor-B (dummy),10422.38,2023-05-04
+EXP000032,JOB/2023/0017,3,Outsourced NDT / ultrasonic testing of axles,BILL/47180,Vendor-D (dummy),12112.54,2023-05-09
+EXP000033,JOB/2023/0017,4,Hired scaffolding / crane,BILL/16630,Vendor-E (dummy),7438.79,2023-05-09
+EXP000034,JOB/2023/0018,6,Outsourced AC plant overhaul,BILL/65726,Vendor-G (dummy),55276.53,2023-05-20
+EXP000035,JOB/2023/0019,3,Outsourced NDT / ultrasonic testing of axles,BILL/54569,Vendor-B (dummy),9683.51,2023-05-12
+EXP000036,JOB/2023/0019,6,Outsourced AC plant overhaul,BILL/63719,Vendor-G (dummy),54612.46,2023-05-29
+EXP000037,JOB/2023/0019,8,Third-party brake test certification,BILL/59863,Vendor-D (dummy),5208.3,2023-06-09
+EXP000038,JOB/2023/0020,3,Outsourced NDT / ultrasonic testing of axles,BILL/15657,Vendor-E (dummy),13825.94,2023-05-10
+EXP000039,JOB/2023/0020,4,Hired scaffolding / crane,BILL/84157,Vendor-G (dummy),7744.71,2023-05-10
+EXP000040,JOB/2023/0021,3,Outsourced NDT / ultrasonic testing of axles,BILL/91518,Vendor-A (dummy),13773.74,2023-05-11
+EXP000041,JOB/2023/0022,3,Outsourced NDT / ultrasonic testing of axles,BILL/40140,Vendor-F (dummy),14474.82,2023-05-17
+EXP000042,JOB/2023/0023,3,Outsourced NDT / ultrasonic testing of axles,BILL/98437,Vendor-D (dummy),9307.07,2023-05-19
+EXP000043,JOB/2023/0023,8,Third-party brake test certification,BILL/28267,Vendor-D (dummy),4539.8,2023-06-14
+EXP000044,JOB/2023/0023,4,Hired scaffolding / crane,BILL/72091,Vendor-E (dummy),14829.42,2023-05-19
+EXP000045,JOB/2023/0024,3,Outsourced NDT / ultrasonic testing of axles,BILL/14509,Vendor-A (dummy),13952.16,2023-05-23
+EXP000046,JOB/2023/0024,6,Outsourced AC plant overhaul,BILL/76413,Vendor-D (dummy),49765.46,2023-06-14
+EXP000047,JOB/2023/0024,8,Third-party brake test certification,BILL/90003,Vendor-B (dummy),6121.33,2023-06-30
+EXP000048,JOB/2023/0025,3,Outsourced NDT / ultrasonic testing of axles,BILL/89184,Vendor-F (dummy),10433.19,2023-05-23
+EXP000049,JOB/2023/0025,6,Outsourced AC plant overhaul,BILL/19665,Vendor-F (dummy),54184.57,2023-06-07
+EXP000050,JOB/2023/0026,3,Outsourced NDT / ultrasonic testing of axles,BILL/22144,Vendor-G (dummy),15432.06,2023-05-24
+EXP000051,JOB/2023/0026,4,Hired scaffolding / crane,BILL/58772,Vendor-F (dummy),9257.59,2023-05-24
+EXP000052,JOB/2023/0027,3,Outsourced NDT / ultrasonic testing of axles,BILL/71394,Vendor-A (dummy),12120.4,2023-05-26
+EXP000053,JOB/2023/0028,3,Outsourced NDT / ultrasonic testing of axles,BILL/49693,Vendor-F (dummy),15513.12,2023-05-25
+EXP000054,JOB/2023/0028,8,Third-party brake test certification,BILL/67615,Vendor-G (dummy),4743.67,2023-06-08
+EXP000055,JOB/2023/0029,3,Outsourced NDT / ultrasonic testing of axles,BILL/34343,Vendor-D (dummy),11153.53,2023-05-29
+EXP000056,JOB/2023/0029,6,Outsourced AC plant overhaul,BILL/97874,Vendor-F (dummy),47544.57,2023-06-09
+EXP000057,JOB/2023/0030,3,Outsourced NDT / ultrasonic testing of axles,BILL/97065,Vendor-B (dummy),15280.94,2023-05-29
+EXP000058,JOB/2023/0031,3,Outsourced NDT / ultrasonic testing of axles,BILL/58378,Vendor-C (dummy),11125.22,2023-05-31
+EXP000059,JOB/2023/0031,6,Outsourced AC plant overhaul,BILL/51581,Vendor-C (dummy),58623.04,2023-06-15
+EXP000060,JOB/2023/0032,3,Outsourced NDT / ultrasonic testing of axles,BILL/19123,Vendor-G (dummy),9170.54,2023-06-02
+EXP000061,JOB/2023/0032,6,Outsourced AC plant overhaul,BILL/30435,Vendor-E (dummy),50174.74,2023-06-17
+EXP000062,JOB/2023/0033,3,Outsourced NDT / ultrasonic testing of axles,BILL/41716,Vendor-G (dummy),15099.21,2023-06-03
+EXP000063,JOB/2023/0034,3,Outsourced NDT / ultrasonic testing of axles,BILL/23010,Vendor-G (dummy),15925.1,2023-06-03
+EXP000064,JOB/2023/0035,3,Outsourced NDT / ultrasonic testing of axles,BILL/99599,Vendor-E (dummy),14862.29,2023-06-10
+EXP000065,JOB/2023/0036,3,Outsourced NDT / ultrasonic testing of axles,BILL/22459,Vendor-B (dummy),14828.13,2023-06-07
+EXP000066,JOB/2023/0036,6,Outsourced AC plant overhaul,BILL/67198,Vendor-E (dummy),58810.93,2023-06-19
+EXP000067,JOB/2023/0036,8,Third-party brake test certification,BILL/82431,Vendor-G (dummy),5214.63,2023-06-27
+EXP000068,JOB/2023/0037,3,Outsourced NDT / ultrasonic testing of axles,BILL/41655,Vendor-F (dummy),9653.51,2023-06-06
+EXP000069,JOB/2023/0037,8,Third-party brake test certification,BILL/80719,Vendor-G (dummy),5297.32,2023-06-14
+EXP000070,JOB/2023/0038,3,Outsourced NDT / ultrasonic testing of axles,BILL/75257,Vendor-E (dummy),14964.92,2023-06-10
+EXP000071,JOB/2023/0038,6,Outsourced AC plant overhaul,BILL/75622,Vendor-A (dummy),49597.56,2023-06-23
+EXP000072,JOB/2023/0039,3,Outsourced NDT / ultrasonic testing of axles,BILL/76547,Vendor-D (dummy),9645.17,2023-06-13
+EXP000073,JOB/2023/0039,6,Outsourced AC plant overhaul,BILL/68442,Vendor-A (dummy),50990.36,2023-06-29
+EXP000074,JOB/2023/0040,6,Outsourced AC plant overhaul,BILL/67705,Vendor-G (dummy),60966.69,2023-06-24
+EXP000075,JOB/2023/0041,8,Third-party brake test certification,BILL/69833,Vendor-F (dummy),6733.16,2023-07-04
+EXP000076,JOB/2023/0042,3,Outsourced NDT / ultrasonic testing of axles,BILL/28115,Vendor-B (dummy),10022.31,2023-06-16
+EXP000077,JOB/2023/0043,3,Outsourced NDT / ultrasonic testing of axles,BILL/34847,Vendor-G (dummy),14161.77,2023-06-21
+EXP000078,JOB/2023/0043,8,Third-party brake test certification,BILL/30243,Vendor-A (dummy),4672.54,2023-07-14
+EXP000079,JOB/2023/0044,3,Outsourced NDT / ultrasonic testing of axles,BILL/16595,Vendor-E (dummy),15719.64,2023-06-22
+EXP000080,JOB/2023/0044,6,Outsourced AC plant overhaul,BILL/36384,Vendor-F (dummy),60765.23,2023-07-04
+EXP000081,JOB/2023/0044,8,Third-party brake test certification,BILL/27301,Vendor-G (dummy),5793.98,2023-07-13
+EXP000082,JOB/2023/0045,3,Outsourced NDT / ultrasonic testing of axles,BILL/54183,Vendor-G (dummy),9090.79,2023-06-26
+EXP000083,JOB/2023/0046,3,Outsourced NDT / ultrasonic testing of axles,BILL/33829,Vendor-G (dummy),11233.55,2023-07-03
+EXP000084,JOB/2023/0047,3,Outsourced NDT / ultrasonic testing of axles,BILL/77678,Vendor-E (dummy),9308.2,2023-06-27
+EXP000085,JOB/2023/0047,8,Third-party brake test certification,BILL/62299,Vendor-D (dummy),6581.77,2023-07-12
+EXP000086,JOB/2023/0048,3,Outsourced NDT / ultrasonic testing of axles,BILL/41166,Vendor-A (dummy),15783.03,2023-06-30
+EXP000087,JOB/2023/0048,6,Outsourced AC plant overhaul,BILL/68696,Vendor-C (dummy),60251.15,2023-07-13
+EXP000088,JOB/2023/0049,3,Outsourced NDT / ultrasonic testing of axles,BILL/64695,Vendor-E (dummy),9461.54,2023-06-30
+EXP000089,JOB/2023/0049,4,Hired scaffolding / crane,BILL/35268,Vendor-D (dummy),8957.49,2023-06-30
+EXP000090,JOB/2023/0050,8,Third-party brake test certification,BILL/56552,Vendor-B (dummy),6065.52,2023-07-22
+EXP000091,JOB/2023/0050,4,Hired scaffolding / crane,BILL/94165,Vendor-G (dummy),7840.1,2023-07-01
+EXP000092,JOB/2023/0051,3,Outsourced NDT / ultrasonic testing of axles,BILL/21100,Vendor-E (dummy),13688.44,2023-07-03
+EXP000093,JOB/2023/0052,3,Outsourced NDT / ultrasonic testing of axles,BILL/69148,Vendor-G (dummy),10341.05,2023-07-04
+EXP000094,JOB/2023/0053,3,Outsourced NDT / ultrasonic testing of axles,BILL/98242,Vendor-C (dummy),15171.14,2023-07-04
+EXP000095,JOB/2023/0054,3,Outsourced NDT / ultrasonic testing of axles,BILL/43647,Vendor-B (dummy),11888.77,2023-07-07
+EXP000096,JOB/2023/0054,6,Outsourced AC plant overhaul,BILL/48828,Vendor-B (dummy),51488.55,2023-07-22
+EXP000097,JOB/2023/0055,3,Outsourced NDT / ultrasonic testing of axles,BILL/62272,Vendor-G (dummy),9460.69,2023-07-10
+EXP000098,JOB/2023/0055,6,Outsourced AC plant overhaul,BILL/53434,Vendor-C (dummy),65383.5,2023-07-26
+EXP000099,JOB/2023/0055,4,Hired scaffolding / crane,BILL/61749,Vendor-E (dummy),6406.23,2023-07-10
+EXP000100,JOB/2023/0056,3,Outsourced NDT / ultrasonic testing of axles,BILL/60706,Vendor-C (dummy),12852.36,2023-07-11
+EXP000101,JOB/2023/0056,6,Outsourced AC plant overhaul,BILL/61569,Vendor-A (dummy),69348.54,2023-07-25
+EXP000102,JOB/2023/0056,8,Third-party brake test certification,BILL/33100,Vendor-E (dummy),4569.95,2023-08-04
+EXP000103,JOB/2023/0057,3,Outsourced NDT / ultrasonic testing of axles,BILL/49358,Vendor-B (dummy),10197.37,2023-07-13
+EXP000104,JOB/2023/0057,6,Outsourced AC plant overhaul,BILL/22757,Vendor-F (dummy),58388.47,2023-07-28
+EXP000105,JOB/2023/0058,3,Outsourced NDT / ultrasonic testing of axles,BILL/25276,Vendor-D (dummy),11839.68,2023-07-12
+EXP000106,JOB/2023/0059,3,Outsourced NDT / ultrasonic testing of axles,BILL/84711,Vendor-B (dummy),14557.27,2023-07-20
+EXP000107,JOB/2023/0060,3,Outsourced NDT / ultrasonic testing of axles,BILL/98491,Vendor-F (dummy),9489.88,2023-07-21
+EXP000108,JOB/2023/0060,6,Outsourced AC plant overhaul,BILL/86517,Vendor-B (dummy),66139.29,2023-08-09
+EXP000109,JOB/2023/0060,4,Hired scaffolding / crane,BILL/91585,Vendor-E (dummy),13979.95,2023-07-21
+EXP000110,JOB/2023/0061,3,Outsourced NDT / ultrasonic testing of axles,BILL/69685,Vendor-D (dummy),15074.89,2023-07-17
+EXP000111,JOB/2023/0062,3,Outsourced NDT / ultrasonic testing of axles,BILL/83967,Vendor-B (dummy),12890.71,2023-07-20
+EXP000112,JOB/2023/0063,3,Outsourced NDT / ultrasonic testing of axles,BILL/92430,Vendor-D (dummy),12775.06,2023-07-22
+EXP000113,JOB/2023/0064,3,Outsourced NDT / ultrasonic testing of axles,BILL/93676,Vendor-A (dummy),15776.62,2023-07-27
+EXP000114,JOB/2023/0064,6,Outsourced AC plant overhaul,BILL/36850,Vendor-F (dummy),56564.86,2023-08-21
+EXP000115,JOB/2023/0064,8,Third-party brake test certification,BILL/74869,Vendor-B (dummy),4748.76,2023-09-07
+EXP000116,JOB/2023/0065,3,Outsourced NDT / ultrasonic testing of axles,BILL/95419,Vendor-F (dummy),9423.09,2023-07-28
+EXP000117,JOB/2023/0065,6,Outsourced AC plant overhaul,BILL/17158,Vendor-C (dummy),63973.26,2023-08-14
+EXP000118,JOB/2023/0065,8,Third-party brake test certification,BILL/57345,Vendor-F (dummy),6913.44,2023-08-28
+EXP000119,JOB/2023/0066,3,Outsourced NDT / ultrasonic testing of axles,BILL/74880,Vendor-D (dummy),13956.78,2023-08-02
+EXP000120,JOB/2023/0067,3,Outsourced NDT / ultrasonic testing of axles,BILL/41114,Vendor-F (dummy),15032.65,2023-08-03
+EXP000121,JOB/2023/0067,6,Outsourced AC plant overhaul,BILL/26468,Vendor-A (dummy),56103.04,2023-08-28
+EXP000122,JOB/2023/0068,3,Outsourced NDT / ultrasonic testing of axles,BILL/85735,Vendor-G (dummy),9874.87,2023-08-11
+EXP000123,JOB/2023/0068,8,Third-party brake test certification,BILL/24667,Vendor-F (dummy),4013.19,2023-10-05
+EXP000124,JOB/2023/0069,3,Outsourced NDT / ultrasonic testing of axles,BILL/23065,Vendor-G (dummy),13261.18,2023-08-12
+EXP000125,JOB/2023/0070,3,Outsourced NDT / ultrasonic testing of axles,BILL/92602,Vendor-B (dummy),10202.7,2023-08-12
+EXP000126,JOB/2023/0070,6,Outsourced AC plant overhaul,BILL/59158,Vendor-D (dummy),51163.51,2023-08-26
+EXP000127,JOB/2023/0071,3,Outsourced NDT / ultrasonic testing of axles,BILL/78895,Vendor-B (dummy),10460.96,2023-08-14
+EXP000128,JOB/2023/0071,8,Third-party brake test certification,BILL/97793,Vendor-F (dummy),6843.83,2023-09-08
+EXP000129,JOB/2023/0072,3,Outsourced NDT / ultrasonic testing of axles,BILL/21682,Vendor-A (dummy),14834.92,2023-08-14
+EXP000130,JOB/2023/0073,3,Outsourced NDT / ultrasonic testing of axles,BILL/84637,Vendor-B (dummy),11140.22,2023-08-17
+EXP000131,JOB/2023/0073,6,Outsourced AC plant overhaul,BILL/68374,Vendor-F (dummy),58337.43,2023-08-29
+EXP000132,JOB/2023/0074,3,Outsourced NDT / ultrasonic testing of axles,BILL/18892,Vendor-F (dummy),11301.14,2023-08-17
+EXP000133,JOB/2023/0075,3,Outsourced NDT / ultrasonic testing of axles,BILL/29278,Vendor-C (dummy),15980.01,2023-08-21
+EXP000134,JOB/2023/0076,3,Outsourced NDT / ultrasonic testing of axles,BILL/68803,Vendor-F (dummy),12698.21,2023-08-22
+EXP000135,JOB/2023/0076,8,Third-party brake test certification,BILL/70916,Vendor-C (dummy),4072.72,2023-09-19
+EXP000136,JOB/2023/0077,3,Outsourced NDT / ultrasonic testing of axles,BILL/77512,Vendor-C (dummy),13287.25,2023-08-25
+EXP000137,JOB/2023/0078,3,Outsourced NDT / ultrasonic testing of axles,BILL/77649,Vendor-C (dummy),14931.3,2023-08-30
+EXP000138,JOB/2023/0078,8,Third-party brake test certification,BILL/17009,Vendor-B (dummy),5226.63,2023-09-28
+EXP000139,JOB/2023/0078,4,Hired scaffolding / crane,BILL/76948,Vendor-A (dummy),10024.59,2023-08-30
+EXP000140,JOB/2023/0079,3,Outsourced NDT / ultrasonic testing of axles,BILL/49475,Vendor-G (dummy),9465.75,2023-08-31
+EXP000141,JOB/2023/0080,3,Outsourced NDT / ultrasonic testing of axles,BILL/82539,Vendor-C (dummy),13453.94,2023-09-02
+EXP000142,JOB/2023/0080,6,Outsourced AC plant overhaul,BILL/88764,Vendor-G (dummy),51450.11,2023-09-23
+EXP000143,JOB/2023/0080,8,Third-party brake test certification,BILL/64062,Vendor-A (dummy),4355.77,2023-10-10
+EXP000144,JOB/2023/0081,3,Outsourced NDT / ultrasonic testing of axles,BILL/71500,Vendor-F (dummy),14447.87,2023-08-31
+EXP000145,JOB/2023/0082,3,Outsourced NDT / ultrasonic testing of axles,BILL/22847,Vendor-E (dummy),9925.86,2023-08-30
+EXP000146,JOB/2023/0083,3,Outsourced NDT / ultrasonic testing of axles,BILL/14137,Vendor-E (dummy),11860.56,2023-08-31
+EXP000147,JOB/2023/0085,3,Outsourced NDT / ultrasonic testing of axles,BILL/52626,Vendor-C (dummy),14485.47,2023-09-05
+EXP000148,JOB/2023/0086,3,Outsourced NDT / ultrasonic testing of axles,BILL/80409,Vendor-A (dummy),12939.42,2023-09-04
+EXP000149,JOB/2023/0087,3,Outsourced NDT / ultrasonic testing of axles,BILL/19052,Vendor-C (dummy),11412.5,2023-09-08
+EXP000150,JOB/2023/0087,6,Outsourced AC plant overhaul,BILL/40266,Vendor-D (dummy),58306.2,2023-09-23
+EXP000151,JOB/2023/0088,3,Outsourced NDT / ultrasonic testing of axles,BILL/62492,Vendor-F (dummy),13219.26,2023-09-09
+EXP000152,JOB/2023/0088,6,Outsourced AC plant overhaul,BILL/21799,Vendor-C (dummy),62091.0,2023-09-21
+EXP000153,JOB/2023/0089,3,Outsourced NDT / ultrasonic testing of axles,BILL/64158,Vendor-F (dummy),13240.29,2023-09-15
+EXP000154,JOB/2023/0089,6,Outsourced AC plant overhaul,BILL/22377,Vendor-A (dummy),67000.91,2023-10-03
+EXP000155,JOB/2023/0090,3,Outsourced NDT / ultrasonic testing of axles,BILL/55209,Vendor-C (dummy),12840.6,2023-09-15
+EXP000156,JOB/2023/0090,6,Outsourced AC plant overhaul,BILL/31431,Vendor-E (dummy),60906.44,2023-09-30
+EXP000157,JOB/2023/0090,4,Hired scaffolding / crane,BILL/26259,Vendor-D (dummy),7158.48,2023-09-15
+EXP000158,JOB/2023/0091,3,Outsourced NDT / ultrasonic testing of axles,BILL/17280,Vendor-B (dummy),14811.12,2023-09-20
+EXP000159,JOB/2023/0091,6,Outsourced AC plant overhaul,BILL/73369,Vendor-G (dummy),52704.94,2023-10-05
+EXP000160,JOB/2023/0093,3,Outsourced NDT / ultrasonic testing of axles,BILL/63193,Vendor-F (dummy),13325.42,2023-09-23
+EXP000161,JOB/2023/0093,8,Third-party brake test certification,BILL/62447,Vendor-F (dummy),4974.22,2023-10-23
+EXP000162,JOB/2023/0094,3,Outsourced NDT / ultrasonic testing of axles,BILL/19004,Vendor-E (dummy),15872.0,2023-09-23
+EXP000163,JOB/2023/0095,3,Outsourced NDT / ultrasonic testing of axles,BILL/17033,Vendor-C (dummy),9718.23,2023-09-26
+EXP000164,JOB/2023/0095,8,Third-party brake test certification,BILL/35836,Vendor-G (dummy),6844.73,2023-10-19
+EXP000165,JOB/2023/0096,3,Outsourced NDT / ultrasonic testing of axles,BILL/16893,Vendor-E (dummy),14321.35,2023-09-27
+EXP000166,JOB/2023/0096,6,Outsourced AC plant overhaul,BILL/43307,Vendor-E (dummy),67529.24,2023-10-11
+EXP000167,JOB/2023/0097,3,Outsourced NDT / ultrasonic testing of axles,BILL/82338,Vendor-G (dummy),14232.67,2023-09-29
+EXP000168,JOB/2023/0097,6,Outsourced AC plant overhaul,BILL/40542,Vendor-A (dummy),46047.18,2023-10-11
+EXP000169,JOB/2023/0098,3,Outsourced NDT / ultrasonic testing of axles,BILL/84537,Vendor-E (dummy),15289.86,2023-10-03
+EXP000170,JOB/2023/0099,3,Outsourced NDT / ultrasonic testing of axles,BILL/83777,Vendor-D (dummy),13910.91,2023-10-07
+EXP000171,JOB/2023/0099,6,Outsourced AC plant overhaul,BILL/42772,Vendor-B (dummy),58839.0,2023-10-27
+EXP000172,JOB/2023/0099,8,Third-party brake test certification,BILL/30100,Vendor-D (dummy),6395.81,2023-11-14
+EXP000173,JOB/2023/0100,3,Outsourced NDT / ultrasonic testing of axles,BILL/19413,Vendor-A (dummy),13849.82,2023-10-05
+EXP000174,JOB/2023/0100,4,Hired scaffolding / crane,BILL/46352,Vendor-G (dummy),12028.33,2023-10-05
+EXP000175,JOB/2023/0101,3,Outsourced NDT / ultrasonic testing of axles,BILL/21093,Vendor-G (dummy),12816.57,2023-10-09
+EXP000176,JOB/2023/0101,6,Outsourced AC plant overhaul,BILL/69975,Vendor-D (dummy),52528.07,2023-10-19
+EXP000177,JOB/2023/0102,3,Outsourced NDT / ultrasonic testing of axles,BILL/43224,Vendor-G (dummy),11142.92,2023-10-10
+EXP000178,JOB/2023/0103,3,Outsourced NDT / ultrasonic testing of axles,BILL/47365,Vendor-E (dummy),14891.8,2023-10-12
+EXP000179,JOB/2023/0103,6,Outsourced AC plant overhaul,BILL/31322,Vendor-B (dummy),45727.42,2023-10-23
+EXP000180,JOB/2023/0104,3,Outsourced NDT / ultrasonic testing of axles,BILL/23295,Vendor-G (dummy),13084.85,2023-10-17
+EXP000181,JOB/2023/0104,8,Third-party brake test certification,BILL/62444,Vendor-G (dummy),6162.42,2023-11-08
+EXP000182,JOB/2023/0105,3,Outsourced NDT / ultrasonic testing of axles,BILL/90710,Vendor-E (dummy),10539.99,2023-10-18
+EXP000183,JOB/2023/0106,3,Outsourced NDT / ultrasonic testing of axles,BILL/41566,Vendor-A (dummy),11048.65,2023-10-20
+EXP000184,JOB/2023/0106,4,Hired scaffolding / crane,BILL/39496,Vendor-F (dummy),6858.23,2023-10-20
+EXP000185,JOB/2023/0107,6,Outsourced AC plant overhaul,BILL/53279,Vendor-F (dummy),48853.07,2023-11-08
+EXP000186,JOB/2023/0108,3,Outsourced NDT / ultrasonic testing of axles,BILL/96672,Vendor-C (dummy),13686.47,2023-10-23
+EXP000187,JOB/2023/0108,4,Hired scaffolding / crane,BILL/99210,Vendor-E (dummy),11735.25,2023-10-23
+EXP000188,JOB/2023/0109,6,Outsourced AC plant overhaul,BILL/18554,Vendor-G (dummy),61250.02,2023-11-06
+EXP000189,JOB/2023/0110,3,Outsourced NDT / ultrasonic testing of axles,BILL/64104,Vendor-A (dummy),15725.92,2023-10-27
+EXP000190,JOB/2023/0110,6,Outsourced AC plant overhaul,BILL/66609,Vendor-A (dummy),58276.87,2023-11-14
+EXP000191,JOB/2023/0111,3,Outsourced NDT / ultrasonic testing of axles,BILL/62859,Vendor-A (dummy),9188.74,2023-10-27
+EXP000192,JOB/2023/0112,3,Outsourced NDT / ultrasonic testing of axles,BILL/34182,Vendor-B (dummy),14402.02,2023-11-06
+EXP000193,JOB/2023/0112,4,Hired scaffolding / crane,BILL/17442,Vendor-F (dummy),9219.0,2023-11-06
+EXP000194,JOB/2023/0113,3,Outsourced NDT / ultrasonic testing of axles,BILL/23672,Vendor-B (dummy),12728.12,2023-11-07
+EXP000195,JOB/2023/0113,6,Outsourced AC plant overhaul,BILL/21956,Vendor-D (dummy),52012.4,2023-11-22
+EXP000196,JOB/2023/0113,8,Third-party brake test certification,BILL/74830,Vendor-A (dummy),4411.71,2023-12-04
+EXP000197,JOB/2023/0114,3,Outsourced NDT / ultrasonic testing of axles,BILL/85771,Vendor-A (dummy),12287.3,2023-11-08
+EXP000198,JOB/2023/0114,6,Outsourced AC plant overhaul,BILL/61783,Vendor-C (dummy),66089.98,2023-11-20
+EXP000199,JOB/2023/0115,3,Outsourced NDT / ultrasonic testing of axles,BILL/57422,Vendor-C (dummy),11247.45,2023-11-08
+EXP000200,JOB/2023/0116,3,Outsourced NDT / ultrasonic testing of axles,BILL/55298,Vendor-B (dummy),13845.32,2023-11-11
+EXP000201,JOB/2023/0116,6,Outsourced AC plant overhaul,BILL/37412,Vendor-F (dummy),49114.18,2023-11-25
+EXP000202,JOB/2023/0117,3,Outsourced NDT / ultrasonic testing of axles,BILL/66535,Vendor-D (dummy),9190.0,2023-11-11
+EXP000203,JOB/2023/0117,6,Outsourced AC plant overhaul,BILL/21072,Vendor-A (dummy),69555.05,2023-11-24
+EXP000204,JOB/2023/0117,8,Third-party brake test certification,BILL/89392,Vendor-F (dummy),6184.75,2023-12-04
+EXP000205,JOB/2023/0118,3,Outsourced NDT / ultrasonic testing of axles,BILL/51028,Vendor-G (dummy),12991.17,2023-11-13
+EXP000206,JOB/2023/0119,3,Outsourced NDT / ultrasonic testing of axles,BILL/22009,Vendor-C (dummy),9221.53,2023-11-15
+EXP000207,JOB/2023/0119,6,Outsourced AC plant overhaul,BILL/36285,Vendor-D (dummy),60421.3,2023-11-27
+EXP000208,JOB/2023/0119,8,Third-party brake test certification,BILL/33117,Vendor-E (dummy),5465.32,2023-12-07
+EXP000209,JOB/2023/0120,3,Outsourced NDT / ultrasonic testing of axles,BILL/69101,Vendor-A (dummy),13703.94,2023-11-16
+EXP000210,JOB/2023/0120,8,Third-party brake test certification,BILL/59011,Vendor-G (dummy),6867.8,2023-12-07
+EXP000211,JOB/2023/0120,4,Hired scaffolding / crane,BILL/94286,Vendor-D (dummy),11591.39,2023-11-16
+EXP000212,JOB/2023/0121,3,Outsourced NDT / ultrasonic testing of axles,BILL/67183,Vendor-F (dummy),12887.49,2023-11-18
+EXP000213,JOB/2023/0122,8,Third-party brake test certification,BILL/15639,Vendor-B (dummy),6388.97,2023-11-24
+EXP000214,JOB/2023/0123,3,Outsourced NDT / ultrasonic testing of axles,BILL/54151,Vendor-A (dummy),14972.49,2023-11-23
+EXP000215,JOB/2023/0123,6,Outsourced AC plant overhaul,BILL/41049,Vendor-F (dummy),68649.13,2023-12-09
+EXP000216,JOB/2023/0123,8,Third-party brake test certification,BILL/34136,Vendor-A (dummy),6165.86,2023-12-22
+EXP000217,JOB/2023/0124,3,Outsourced NDT / ultrasonic testing of axles,BILL/70146,Vendor-F (dummy),12055.53,2023-11-20
+EXP000218,JOB/2023/0124,4,Hired scaffolding / crane,BILL/65146,Vendor-A (dummy),12222.42,2023-11-20
+EXP000219,JOB/2023/0125,3,Outsourced NDT / ultrasonic testing of axles,BILL/12489,Vendor-A (dummy),12857.32,2023-11-27
+EXP000220,JOB/2023/0125,6,Outsourced AC plant overhaul,BILL/92083,Vendor-G (dummy),68587.5,2023-12-14
+EXP000221,JOB/2023/0126,3,Outsourced NDT / ultrasonic testing of axles,BILL/85485,Vendor-F (dummy),14566.61,2023-11-27
+EXP000222,JOB/2023/0127,3,Outsourced NDT / ultrasonic testing of axles,BILL/25609,Vendor-G (dummy),13424.66,2023-11-27
+EXP000223,JOB/2023/0128,3,Outsourced NDT / ultrasonic testing of axles,BILL/77084,Vendor-C (dummy),10246.66,2023-11-29
+EXP000224,JOB/2023/0129,3,Outsourced NDT / ultrasonic testing of axles,BILL/25519,Vendor-A (dummy),14835.15,2023-12-01
+EXP000225,JOB/2023/0129,8,Third-party brake test certification,BILL/26430,Vendor-D (dummy),5019.99,2023-12-07
+EXP000226,JOB/2023/0129,4,Hired scaffolding / crane,BILL/72002,Vendor-C (dummy),11216.93,2023-12-01
+EXP000227,JOB/2023/0130,3,Outsourced NDT / ultrasonic testing of axles,BILL/91523,Vendor-C (dummy),14675.53,2023-12-13
+EXP000228,JOB/2023/0130,6,Outsourced AC plant overhaul,BILL/27718,Vendor-A (dummy),58741.53,2024-01-04
+EXP000229,JOB/2023/0130,8,Third-party brake test certification,BILL/17649,Vendor-F (dummy),6663.67,2024-01-20
+EXP000230,JOB/2023/0130,4,Hired scaffolding / crane,BILL/91051,Vendor-G (dummy),7277.39,2023-12-13
+EXP000231,JOB/2023/0131,3,Outsourced NDT / ultrasonic testing of axles,BILL/85306,Vendor-D (dummy),9422.92,2023-12-13
+EXP000232,JOB/2023/0132,6,Outsourced AC plant overhaul,BILL/32609,Vendor-B (dummy),51185.41,2023-12-30
+EXP000233,JOB/2023/0132,8,Third-party brake test certification,BILL/60794,Vendor-B (dummy),5225.17,2024-01-10
+EXP000234,JOB/2023/0133,3,Outsourced NDT / ultrasonic testing of axles,BILL/80862,Vendor-D (dummy),10819.88,2023-12-18
+EXP000235,JOB/2023/0133,6,Outsourced AC plant overhaul,BILL/43071,Vendor-B (dummy),47654.95,2024-01-02
+EXP000236,JOB/2023/0134,3,Outsourced NDT / ultrasonic testing of axles,BILL/81455,Vendor-C (dummy),11163.14,2023-12-18
+EXP000237,JOB/2023/0135,3,Outsourced NDT / ultrasonic testing of axles,BILL/96660,Vendor-E (dummy),12305.76,2023-12-18
+EXP000238,JOB/2023/0136,3,Outsourced NDT / ultrasonic testing of axles,BILL/23684,Vendor-G (dummy),12065.08,2023-12-21
+EXP000239,JOB/2023/0137,3,Outsourced NDT / ultrasonic testing of axles,BILL/27319,Vendor-B (dummy),11342.82,2023-12-22
+EXP000240,JOB/2023/0137,6,Outsourced AC plant overhaul,BILL/35261,Vendor-A (dummy),66146.77,2024-01-05
+EXP000241,JOB/2023/0138,3,Outsourced NDT / ultrasonic testing of axles,BILL/45335,Vendor-C (dummy),11554.82,2023-12-26
+EXP000242,JOB/2023/0138,8,Third-party brake test certification,BILL/74508,Vendor-B (dummy),4535.93,2024-01-17
+EXP000243,JOB/2023/0139,3,Outsourced NDT / ultrasonic testing of axles,BILL/78905,Vendor-A (dummy),12226.38,2023-12-28
+EXP000244,JOB/2023/0139,6,Outsourced AC plant overhaul,BILL/75090,Vendor-B (dummy),52424.25,2024-01-12
+EXP000245,JOB/2023/0140,3,Outsourced NDT / ultrasonic testing of axles,BILL/95706,Vendor-G (dummy),9389.97,2023-12-29
+EXP000246,JOB/2023/0141,3,Outsourced NDT / ultrasonic testing of axles,BILL/30041,Vendor-C (dummy),11990.05,2023-12-27
+EXP000247,JOB/2023/0142,3,Outsourced NDT / ultrasonic testing of axles,BILL/84051,Vendor-G (dummy),13740.46,2024-01-03
+EXP000248,JOB/2023/0143,3,Outsourced NDT / ultrasonic testing of axles,BILL/45098,Vendor-E (dummy),15356.13,2024-01-05
+EXP000249,JOB/2023/0143,6,Outsourced AC plant overhaul,BILL/33927,Vendor-E (dummy),46777.46,2024-01-20
+EXP000250,JOB/2023/0143,8,Third-party brake test certification,BILL/14815,Vendor-C (dummy),6193.3,2024-02-02
+EXP000251,JOB/2023/0144,3,Outsourced NDT / ultrasonic testing of axles,BILL/61340,Vendor-E (dummy),14697.46,2024-01-08
+EXP000252,JOB/2023/0144,8,Third-party brake test certification,BILL/39272,Vendor-F (dummy),4918.47,2024-01-31
+EXP000253,JOB/2023/0145,3,Outsourced NDT / ultrasonic testing of axles,BILL/85345,Vendor-G (dummy),12128.5,2024-01-12
+EXP000254,JOB/2023/0145,8,Third-party brake test certification,BILL/52160,Vendor-B (dummy),4440.48,2024-02-06
+EXP000255,JOB/2023/0145,4,Hired scaffolding / crane,BILL/30954,Vendor-B (dummy),13324.77,2024-01-12
+EXP000256,JOB/2023/0146,3,Outsourced NDT / ultrasonic testing of axles,BILL/64029,Vendor-C (dummy),14991.52,2024-01-16
+EXP000257,JOB/2023/0146,8,Third-party brake test certification,BILL/10955,Vendor-B (dummy),4351.0,2024-02-02
+EXP000258,JOB/2023/0147,3,Outsourced NDT / ultrasonic testing of axles,BILL/62280,Vendor-F (dummy),13247.31,2024-01-15
+EXP000259,JOB/2023/0147,8,Third-party brake test certification,BILL/61670,Vendor-D (dummy),5758.1,2024-01-23
+EXP000260,JOB/2023/0148,3,Outsourced NDT / ultrasonic testing of axles,BILL/51964,Vendor-G (dummy),13313.42,2024-01-16
+EXP000261,JOB/2023/0149,3,Outsourced NDT / ultrasonic testing of axles,BILL/46332,Vendor-C (dummy),10254.41,2024-01-22
+EXP000262,JOB/2023/0150,3,Outsourced NDT / ultrasonic testing of axles,BILL/16329,Vendor-D (dummy),9023.38,2024-01-22
+EXP000263,JOB/2023/0150,8,Third-party brake test certification,BILL/84970,Vendor-A (dummy),6856.4,2024-02-09
+EXP000264,JOB/2023/0151,3,Outsourced NDT / ultrasonic testing of axles,BILL/16329,Vendor-D (dummy),12751.76,2024-01-23
+EXP000265,JOB/2023/0152,3,Outsourced NDT / ultrasonic testing of axles,BILL/80872,Vendor-D (dummy),9855.52,2024-01-27
+EXP000266,JOB/2023/0152,6,Outsourced AC plant overhaul,BILL/32371,Vendor-G (dummy),46079.2,2024-02-12
+EXP000267,JOB/2023/0153,3,Outsourced NDT / ultrasonic testing of axles,BILL/59988,Vendor-E (dummy),15630.8,2024-01-27
+EXP000268,JOB/2023/0154,3,Outsourced NDT / ultrasonic testing of axles,BILL/17454,Vendor-G (dummy),14936.9,2024-01-30
+EXP000269,JOB/2023/0155,3,Outsourced NDT / ultrasonic testing of axles,BILL/36912,Vendor-D (dummy),11059.18,2024-02-01
+EXP000270,JOB/2023/0155,8,Third-party brake test certification,BILL/12635,Vendor-D (dummy),5286.53,2024-02-19
+EXP000271,JOB/2023/0156,3,Outsourced NDT / ultrasonic testing of axles,BILL/13871,Vendor-B (dummy),14998.12,2024-02-03
+EXP000272,JOB/2023/0156,6,Outsourced AC plant overhaul,BILL/50962,Vendor-E (dummy),59637.2,2024-02-16
+EXP000273,JOB/2023/0157,6,Outsourced AC plant overhaul,BILL/50232,Vendor-C (dummy),68235.42,2024-02-20
+EXP000274,JOB/2023/0158,3,Outsourced NDT / ultrasonic testing of axles,BILL/85144,Vendor-C (dummy),11286.94,2024-02-05
+EXP000275,JOB/2023/0159,3,Outsourced NDT / ultrasonic testing of axles,BILL/49319,Vendor-G (dummy),14746.67,2024-02-10
+EXP000276,JOB/2023/0159,6,Outsourced AC plant overhaul,BILL/25516,Vendor-C (dummy),49754.97,2024-02-22
+EXP000277,JOB/2023/0160,3,Outsourced NDT / ultrasonic testing of axles,BILL/87258,Vendor-E (dummy),15444.66,2024-02-13
+EXP000278,JOB/2023/0160,6,Outsourced AC plant overhaul,BILL/77002,Vendor-E (dummy),58213.23,2024-02-27
+EXP000279,JOB/2023/0160,8,Third-party brake test certification,BILL/17000,Vendor-A (dummy),5681.01,2024-03-09
+EXP000280,JOB/2023/0160,4,Hired scaffolding / crane,BILL/31890,Vendor-B (dummy),11681.21,2024-02-13
+EXP000281,JOB/2023/0161,3,Outsourced NDT / ultrasonic testing of axles,BILL/15795,Vendor-F (dummy),15303.36,2024-02-10
+EXP000282,JOB/2023/0162,3,Outsourced NDT / ultrasonic testing of axles,BILL/41603,Vendor-F (dummy),12264.86,2024-02-17
+EXP000283,JOB/2023/0162,6,Outsourced AC plant overhaul,BILL/92913,Vendor-E (dummy),52160.87,2024-03-06
+EXP000284,JOB/2023/0162,4,Hired scaffolding / crane,BILL/96691,Vendor-A (dummy),11019.45,2024-02-17
+EXP000285,JOB/2023/0163,3,Outsourced NDT / ultrasonic testing of axles,BILL/88205,Vendor-G (dummy),14407.95,2024-02-19
+EXP000286,JOB/2023/0164,3,Outsourced NDT / ultrasonic testing of axles,BILL/97885,Vendor-B (dummy),10689.17,2024-02-19
+EXP000287,JOB/2023/0165,3,Outsourced NDT / ultrasonic testing of axles,BILL/42708,Vendor-A (dummy),13105.95,2024-02-21
+EXP000288,JOB/2023/0166,3,Outsourced NDT / ultrasonic testing of axles,BILL/98006,Vendor-B (dummy),13595.18,2024-02-24
+EXP000289,JOB/2023/0166,6,Outsourced AC plant overhaul,BILL/53550,Vendor-D (dummy),49194.65,2024-03-12
+EXP000290,JOB/2023/0166,8,Third-party brake test certification,BILL/93690,Vendor-B (dummy),4105.39,2024-03-23
+EXP000291,JOB/2023/0167,3,Outsourced NDT / ultrasonic testing of axles,BILL/34912,Vendor-D (dummy),15235.96,2024-02-26
+EXP000292,JOB/2023/0167,6,Outsourced AC plant overhaul,BILL/91766,Vendor-F (dummy),66488.79,2024-03-13
+EXP000293,JOB/2023/0167,8,Third-party brake test certification,BILL/54951,Vendor-G (dummy),6548.87,2024-03-25
+EXP000294,JOB/2023/0168,3,Outsourced NDT / ultrasonic testing of axles,BILL/68500,Vendor-E (dummy),12716.02,2024-02-27
+EXP000295,JOB/2023/0169,3,Outsourced NDT / ultrasonic testing of axles,BILL/41188,Vendor-E (dummy),14638.34,2024-03-01
+EXP000296,JOB/2023/0169,8,Third-party brake test certification,BILL/77806,Vendor-B (dummy),6104.05,2024-03-28
+EXP000297,JOB/2023/0170,3,Outsourced NDT / ultrasonic testing of axles,BILL/87929,Vendor-D (dummy),11449.52,2024-03-01
+EXP000298,JOB/2023/0171,3,Outsourced NDT / ultrasonic testing of axles,BILL/73221,Vendor-G (dummy),11825.83,2024-03-04
+EXP000299,JOB/2023/0172,3,Outsourced NDT / ultrasonic testing of axles,BILL/18235,Vendor-G (dummy),13667.03,2024-03-15
+EXP000300,JOB/2023/0172,4,Hired scaffolding / crane,BILL/29418,Vendor-B (dummy),14290.51,2024-03-15
+EXP000301,JOB/2023/0173,3,Outsourced NDT / ultrasonic testing of axles,BILL/99012,Vendor-G (dummy),10916.6,2024-03-12
+EXP000302,JOB/2023/0173,8,Third-party brake test certification,BILL/95878,Vendor-A (dummy),4249.4,2024-04-02
+EXP000303,JOB/2023/0174,6,Outsourced AC plant overhaul,BILL/23847,Vendor-D (dummy),56342.65,2024-03-26
+EXP000304,JOB/2023/0175,3,Outsourced NDT / ultrasonic testing of axles,BILL/74409,Vendor-A (dummy),12232.06,2024-03-16
+EXP000305,JOB/2023/0175,6,Outsourced AC plant overhaul,BILL/89654,Vendor-G (dummy),69651.31,2024-03-29
+EXP000306,JOB/2023/0176,3,Outsourced NDT / ultrasonic testing of axles,BILL/82514,Vendor-D (dummy),12060.87,2024-03-19
+EXP000307,JOB/2023/0177,3,Outsourced NDT / ultrasonic testing of axles,BILL/76260,Vendor-F (dummy),9963.79,2024-03-19
+EXP000308,JOB/2023/0178,3,Outsourced NDT / ultrasonic testing of axles,BILL/17596,Vendor-D (dummy),9445.22,2024-03-27
+EXP000309,JOB/2023/0178,8,Third-party brake test certification,BILL/87557,Vendor-A (dummy),4043.83,2024-05-13
+EXP000310,JOB/2023/0179,3,Outsourced NDT / ultrasonic testing of axles,BILL/65934,Vendor-C (dummy),15154.31,2024-03-27
+EXP000311,JOB/2023/0179,6,Outsourced AC plant overhaul,BILL/52071,Vendor-A (dummy),68049.79,2024-04-16
+EXP000312,JOB/2023/0180,3,Outsourced NDT / ultrasonic testing of axles,BILL/13259,Vendor-A (dummy),14056.53,2024-03-25
+EXP000313,JOB/2024/0001,3,Outsourced NDT / ultrasonic testing of axles,BILL/24770,Vendor-G (dummy),15895.47,2024-04-06
+EXP000314,JOB/2024/0002,3,Outsourced NDT / ultrasonic testing of axles,BILL/33161,Vendor-E (dummy),15304.76,2024-04-10
+EXP000315,JOB/2024/0002,4,Hired scaffolding / crane,BILL/12602,Vendor-F (dummy),11323.07,2024-04-10
+EXP000316,JOB/2024/0003,3,Outsourced NDT / ultrasonic testing of axles,BILL/65862,Vendor-F (dummy),13361.99,2024-04-11
+EXP000317,JOB/2024/0004,3,Outsourced NDT / ultrasonic testing of axles,BILL/50803,Vendor-F (dummy),13606.5,2024-04-12
+EXP000318,JOB/2024/0004,6,Outsourced AC plant overhaul,BILL/25922,Vendor-B (dummy),53969.98,2024-04-24
+EXP000319,JOB/2024/0004,8,Third-party brake test certification,BILL/36965,Vendor-E (dummy),4352.51,2024-05-02
+EXP000320,JOB/2024/0005,3,Outsourced NDT / ultrasonic testing of axles,BILL/66062,Vendor-B (dummy),11579.09,2024-04-12
+EXP000321,JOB/2024/0006,3,Outsourced NDT / ultrasonic testing of axles,BILL/91897,Vendor-B (dummy),10606.59,2024-04-16
+EXP000322,JOB/2024/0007,4,Hired scaffolding / crane,BILL/24331,Vendor-G (dummy),6037.14,2024-04-19
+EXP000323,JOB/2024/0008,3,Outsourced NDT / ultrasonic testing of axles,BILL/66426,Vendor-C (dummy),12480.96,2024-04-19
+EXP000324,JOB/2024/0009,3,Outsourced NDT / ultrasonic testing of axles,BILL/84912,Vendor-F (dummy),10522.79,2024-04-23
+EXP000325,JOB/2024/0009,6,Outsourced AC plant overhaul,BILL/15785,Vendor-C (dummy),56024.97,2024-05-06
+EXP000326,JOB/2024/0010,3,Outsourced NDT / ultrasonic testing of axles,BILL/26440,Vendor-D (dummy),13237.38,2024-04-24
+EXP000327,JOB/2024/0011,3,Outsourced NDT / ultrasonic testing of axles,BILL/89629,Vendor-F (dummy),10934.39,2024-04-25
+EXP000328,JOB/2024/0011,6,Outsourced AC plant overhaul,BILL/47914,Vendor-E (dummy),65716.58,2024-05-10
+EXP000329,JOB/2024/0011,8,Third-party brake test certification,BILL/24119,Vendor-B (dummy),4710.4,2024-05-21
+EXP000330,JOB/2024/0013,3,Outsourced NDT / ultrasonic testing of axles,BILL/56631,Vendor-F (dummy),11847.1,2024-05-02
+EXP000331,JOB/2024/0015,3,Outsourced NDT / ultrasonic testing of axles,BILL/15809,Vendor-E (dummy),13851.9,2024-05-04
+EXP000332,JOB/2024/0015,6,Outsourced AC plant overhaul,BILL/63620,Vendor-E (dummy),67092.73,2024-05-20
+EXP000333,JOB/2024/0015,4,Hired scaffolding / crane,BILL/78458,Vendor-B (dummy),7605.05,2024-05-04
+EXP000334,JOB/2024/0016,3,Outsourced NDT / ultrasonic testing of axles,BILL/87225,Vendor-F (dummy),15165.75,2024-05-03
+EXP000335,JOB/2024/0016,4,Hired scaffolding / crane,BILL/81107,Vendor-G (dummy),11370.68,2024-05-03
+EXP000336,JOB/2024/0017,3,Outsourced NDT / ultrasonic testing of axles,BILL/94425,Vendor-E (dummy),9215.8,2024-05-08
+EXP000337,JOB/2024/0017,6,Outsourced AC plant overhaul,BILL/58726,Vendor-D (dummy),45769.31,2024-05-20
+EXP000338,JOB/2024/0017,8,Third-party brake test certification,BILL/12022,Vendor-D (dummy),6650.45,2024-05-29
+EXP000339,JOB/2024/0018,3,Outsourced NDT / ultrasonic testing of axles,BILL/37654,Vendor-C (dummy),9334.72,2024-05-16
+EXP000340,JOB/2024/0019,3,Outsourced NDT / ultrasonic testing of axles,BILL/77409,Vendor-C (dummy),13517.25,2024-05-18
+EXP000341,JOB/2024/0019,8,Third-party brake test certification,BILL/84280,Vendor-G (dummy),4138.87,2024-07-15
+EXP000342,JOB/2024/0020,3,Outsourced NDT / ultrasonic testing of axles,BILL/75914,Vendor-F (dummy),11193.62,2024-05-17
+EXP000343,JOB/2024/0020,6,Outsourced AC plant overhaul,BILL/56318,Vendor-F (dummy),62310.8,2024-06-06
+EXP000344,JOB/2024/0021,3,Outsourced NDT / ultrasonic testing of axles,BILL/76710,Vendor-F (dummy),10326.73,2024-05-18
+EXP000345,JOB/2024/0021,8,Third-party brake test certification,BILL/11938,Vendor-B (dummy),4154.39,2024-06-08
+EXP000346,JOB/2024/0022,3,Outsourced NDT / ultrasonic testing of axles,BILL/74576,Vendor-C (dummy),15317.92,2024-05-21
+EXP000347,JOB/2024/0023,3,Outsourced NDT / ultrasonic testing of axles,BILL/43182,Vendor-F (dummy),9987.09,2024-05-22
+EXP000348,JOB/2024/0024,3,Outsourced NDT / ultrasonic testing of axles,BILL/64078,Vendor-A (dummy),13991.1,2024-05-23
+EXP000349,JOB/2024/0024,6,Outsourced AC plant overhaul,BILL/99561,Vendor-F (dummy),47405.35,2024-06-03
+EXP000350,JOB/2024/0025,3,Outsourced NDT / ultrasonic testing of axles,BILL/43895,Vendor-B (dummy),13820.73,2024-05-25
+EXP000351,JOB/2024/0026,3,Outsourced NDT / ultrasonic testing of axles,BILL/80818,Vendor-E (dummy),12853.95,2024-05-27
+EXP000352,JOB/2024/0026,8,Third-party brake test certification,BILL/46523,Vendor-C (dummy),6814.64,2024-06-17
+EXP000353,JOB/2024/0027,3,Outsourced NDT / ultrasonic testing of axles,BILL/27203,Vendor-E (dummy),9845.27,2024-05-29
+EXP000354,JOB/2024/0027,6,Outsourced AC plant overhaul,BILL/11374,Vendor-D (dummy),59306.31,2024-06-13
+EXP000355,JOB/2024/0028,3,Outsourced NDT / ultrasonic testing of axles,BILL/13594,Vendor-F (dummy),9756.56,2024-05-30
+EXP000356,JOB/2024/0029,3,Outsourced NDT / ultrasonic testing of axles,BILL/21680,Vendor-E (dummy),9474.99,2024-05-31
+EXP000357,JOB/2024/0030,3,Outsourced NDT / ultrasonic testing of axles,BILL/88528,Vendor-E (dummy),9034.68,2024-06-03
+EXP000358,JOB/2024/0030,6,Outsourced AC plant overhaul,BILL/30035,Vendor-G (dummy),47840.24,2024-06-18
+EXP000359,JOB/2024/0030,8,Third-party brake test certification,BILL/84353,Vendor-E (dummy),4147.57,2024-06-29
+EXP000360,JOB/2024/0030,4,Hired scaffolding / crane,BILL/24174,Vendor-B (dummy),10508.46,2024-06-03
+EXP000361,JOB/2024/0031,3,Outsourced NDT / ultrasonic testing of axles,BILL/56081,Vendor-E (dummy),13619.45,2024-06-04
+EXP000362,JOB/2024/0031,6,Outsourced AC plant overhaul,BILL/99901,Vendor-C (dummy),65658.75,2024-06-18
+EXP000363,JOB/2024/0032,3,Outsourced NDT / ultrasonic testing of axles,BILL/19343,Vendor-G (dummy),10930.72,2024-06-03
+EXP000364,JOB/2024/0033,8,Third-party brake test certification,BILL/68212,Vendor-B (dummy),4513.33,2024-07-03
+EXP000365,JOB/2024/0034,3,Outsourced NDT / ultrasonic testing of axles,BILL/30771,Vendor-B (dummy),10323.22,2024-06-17
+EXP000366,JOB/2024/0035,3,Outsourced NDT / ultrasonic testing of axles,BILL/23823,Vendor-B (dummy),11218.34,2024-06-15
+EXP000367,JOB/2024/0035,8,Third-party brake test certification,BILL/76773,Vendor-F (dummy),6456.91,2024-07-16
+EXP000368,JOB/2024/0036,3,Outsourced NDT / ultrasonic testing of axles,BILL/13720,Vendor-D (dummy),9412.0,2024-06-21
+EXP000369,JOB/2024/0036,4,Hired scaffolding / crane,BILL/93040,Vendor-F (dummy),10517.36,2024-06-21
+EXP000370,JOB/2024/0037,3,Outsourced NDT / ultrasonic testing of axles,BILL/75843,Vendor-G (dummy),14715.51,2024-06-17
+EXP000371,JOB/2024/0038,3,Outsourced NDT / ultrasonic testing of axles,BILL/51900,Vendor-D (dummy),14806.97,2024-06-18
+EXP000372,JOB/2024/0038,8,Third-party brake test certification,BILL/97554,Vendor-B (dummy),6409.78,2024-07-10
+EXP000373,JOB/2024/0039,3,Outsourced NDT / ultrasonic testing of axles,BILL/29608,Vendor-C (dummy),13492.75,2024-06-18
+EXP000374,JOB/2024/0040,3,Outsourced NDT / ultrasonic testing of axles,BILL/89552,Vendor-G (dummy),9147.85,2024-06-20
+EXP000375,JOB/2024/0041,3,Outsourced NDT / ultrasonic testing of axles,BILL/54834,Vendor-E (dummy),14742.42,2024-06-22
+EXP000376,JOB/2024/0043,3,Outsourced NDT / ultrasonic testing of axles,BILL/62701,Vendor-B (dummy),15001.36,2024-06-28
+EXP000377,JOB/2024/0043,8,Third-party brake test certification,BILL/85125,Vendor-D (dummy),5501.11,2024-07-23
+EXP000378,JOB/2024/0044,3,Outsourced NDT / ultrasonic testing of axles,BILL/77558,Vendor-E (dummy),14945.01,2024-06-28
+EXP000379,JOB/2024/0045,3,Outsourced NDT / ultrasonic testing of axles,BILL/22412,Vendor-D (dummy),15133.84,2024-07-03
+EXP000380,JOB/2024/0045,6,Outsourced AC plant overhaul,BILL/70496,Vendor-E (dummy),69404.02,2024-07-16
+EXP000381,JOB/2024/0045,4,Hired scaffolding / crane,BILL/18001,Vendor-B (dummy),11652.89,2024-07-03
+EXP000382,JOB/2024/0046,3,Outsourced NDT / ultrasonic testing of axles,BILL/57763,Vendor-F (dummy),15871.31,2024-07-05
+EXP000383,JOB/2024/0046,6,Outsourced AC plant overhaul,BILL/87690,Vendor-B (dummy),63788.7,2024-07-20
+EXP000384,JOB/2024/0047,3,Outsourced NDT / ultrasonic testing of axles,BILL/23347,Vendor-E (dummy),11910.45,2024-07-06
+EXP000385,JOB/2024/0047,6,Outsourced AC plant overhaul,BILL/89242,Vendor-B (dummy),55808.43,2024-07-18
+EXP000386,JOB/2024/0048,3,Outsourced NDT / ultrasonic testing of axles,BILL/56028,Vendor-A (dummy),12806.22,2024-07-09
+EXP000387,JOB/2024/0049,3,Outsourced NDT / ultrasonic testing of axles,BILL/99405,Vendor-A (dummy),15918.66,2024-07-10
+EXP000388,JOB/2024/0049,4,Hired scaffolding / crane,BILL/59240,Vendor-C (dummy),9706.38,2024-07-10
+EXP000389,JOB/2024/0050,3,Outsourced NDT / ultrasonic testing of axles,BILL/33112,Vendor-F (dummy),15789.45,2024-07-08
+EXP000390,JOB/2024/0050,8,Third-party brake test certification,BILL/32571,Vendor-F (dummy),6362.46,2024-07-16
+EXP000391,JOB/2024/0051,3,Outsourced NDT / ultrasonic testing of axles,BILL/56076,Vendor-A (dummy),15801.8,2024-07-11
+EXP000392,JOB/2024/0052,3,Outsourced NDT / ultrasonic testing of axles,BILL/72177,Vendor-C (dummy),9238.23,2024-07-12
+EXP000393,JOB/2024/0053,3,Outsourced NDT / ultrasonic testing of axles,BILL/81608,Vendor-G (dummy),15450.11,2024-07-13
+EXP000394,JOB/2024/0054,3,Outsourced NDT / ultrasonic testing of axles,BILL/44183,Vendor-G (dummy),13455.6,2024-07-12
+EXP000395,JOB/2024/0054,8,Third-party brake test certification,BILL/72003,Vendor-F (dummy),6189.4,2024-07-20
+EXP000396,JOB/2024/0055,3,Outsourced NDT / ultrasonic testing of axles,BILL/48280,Vendor-G (dummy),15540.32,2024-07-17
+EXP000397,JOB/2024/0055,6,Outsourced AC plant overhaul,BILL/35326,Vendor-E (dummy),69024.26,2024-07-29
+EXP000398,JOB/2024/0055,8,Third-party brake test certification,BILL/47584,Vendor-A (dummy),6999.99,2024-08-06
+EXP000399,JOB/2024/0056,3,Outsourced NDT / ultrasonic testing of axles,BILL/14951,Vendor-F (dummy),14710.36,2024-07-16
+EXP000400,JOB/2024/0056,8,Third-party brake test certification,BILL/26870,Vendor-D (dummy),4408.38,2024-07-23
+EXP000401,JOB/2024/0057,3,Outsourced NDT / ultrasonic testing of axles,BILL/59018,Vendor-F (dummy),13170.18,2024-07-20
+EXP000402,JOB/2024/0058,3,Outsourced NDT / ultrasonic testing of axles,BILL/23381,Vendor-D (dummy),11797.86,2024-07-22
+EXP000403,JOB/2024/0059,3,Outsourced NDT / ultrasonic testing of axles,BILL/57238,Vendor-E (dummy),14236.35,2024-07-23
+EXP000404,JOB/2024/0059,6,Outsourced AC plant overhaul,BILL/17577,Vendor-F (dummy),68048.56,2024-08-07
+EXP000405,JOB/2024/0059,8,Third-party brake test certification,BILL/23413,Vendor-C (dummy),6328.27,2024-08-19
+EXP000406,JOB/2024/0060,3,Outsourced NDT / ultrasonic testing of axles,BILL/26631,Vendor-G (dummy),14836.71,2024-07-27
+EXP000407,JOB/2024/0060,6,Outsourced AC plant overhaul,BILL/71398,Vendor-D (dummy),61128.31,2024-08-09
+EXP000408,JOB/2024/0060,8,Third-party brake test certification,BILL/19037,Vendor-D (dummy),6489.15,2024-08-21
+EXP000409,JOB/2024/0060,4,Hired scaffolding / crane,BILL/62071,Vendor-D (dummy),8966.58,2024-07-27
+EXP000410,JOB/2024/0061,8,Third-party brake test certification,BILL/98230,Vendor-B (dummy),5133.09,2024-08-03
+EXP000411,JOB/2024/0061,4,Hired scaffolding / crane,BILL/34352,Vendor-G (dummy),10859.15,2024-07-26
+EXP000412,JOB/2024/0062,3,Outsourced NDT / ultrasonic testing of axles,BILL/44860,Vendor-G (dummy),10740.25,2024-07-30
+EXP000413,JOB/2024/0062,4,Hired scaffolding / crane,BILL/39224,Vendor-G (dummy),12819.19,2024-07-30
+EXP000414,JOB/2024/0063,3,Outsourced NDT / ultrasonic testing of axles,BILL/62024,Vendor-B (dummy),14125.28,2024-07-31
+EXP000415,JOB/2024/0063,8,Third-party brake test certification,BILL/16674,Vendor-G (dummy),4306.85,2024-08-21
+EXP000416,JOB/2024/0064,3,Outsourced NDT / ultrasonic testing of axles,BILL/81512,Vendor-C (dummy),13507.49,2024-08-01
+EXP000417,JOB/2024/0064,6,Outsourced AC plant overhaul,BILL/48874,Vendor-G (dummy),67666.62,2024-08-13
+EXP000418,JOB/2024/0066,3,Outsourced NDT / ultrasonic testing of axles,BILL/89817,Vendor-A (dummy),12937.4,2024-08-09
+EXP000419,JOB/2024/0066,6,Outsourced AC plant overhaul,BILL/89918,Vendor-B (dummy),45367.63,2024-08-23
+EXP000420,JOB/2024/0066,4,Hired scaffolding / crane,BILL/92638,Vendor-C (dummy),13288.85,2024-08-09
+EXP000421,JOB/2024/0067,3,Outsourced NDT / ultrasonic testing of axles,BILL/88700,Vendor-D (dummy),13500.01,2024-08-16
+EXP000422,JOB/2024/0068,3,Outsourced NDT / ultrasonic testing of axles,BILL/12048,Vendor-B (dummy),9271.1,2024-08-14
+EXP000423,JOB/2024/0069,3,Outsourced NDT / ultrasonic testing of axles,BILL/67405,Vendor-C (dummy),14145.42,2024-08-17
+EXP000424,JOB/2024/0070,3,Outsourced NDT / ultrasonic testing of axles,BILL/54084,Vendor-A (dummy),14657.8,2024-08-20
+EXP000425,JOB/2024/0071,3,Outsourced NDT / ultrasonic testing of axles,BILL/35888,Vendor-C (dummy),14857.63,2024-08-22
+EXP000426,JOB/2024/0072,3,Outsourced NDT / ultrasonic testing of axles,BILL/28827,Vendor-G (dummy),12684.71,2024-08-23
+EXP000427,JOB/2024/0072,8,Third-party brake test certification,BILL/61546,Vendor-A (dummy),4061.27,2024-09-17
+EXP000428,JOB/2024/0073,3,Outsourced NDT / ultrasonic testing of axles,BILL/85793,Vendor-D (dummy),13428.43,2024-08-26
+EXP000429,JOB/2024/0073,8,Third-party brake test certification,BILL/67714,Vendor-F (dummy),6919.41,2024-08-31
+EXP000430,JOB/2024/0074,3,Outsourced NDT / ultrasonic testing of axles,BILL/18962,Vendor-G (dummy),9708.9,2024-08-27
+EXP000431,JOB/2024/0075,3,Outsourced NDT / ultrasonic testing of axles,BILL/38030,Vendor-B (dummy),11032.43,2024-09-02
+EXP000432,JOB/2024/0075,6,Outsourced AC plant overhaul,BILL/36129,Vendor-B (dummy),69285.39,2024-09-20
+EXP000433,JOB/2024/0075,8,Third-party brake test certification,BILL/58273,Vendor-B (dummy),4494.79,2024-10-05
+EXP000434,JOB/2024/0076,3,Outsourced NDT / ultrasonic testing of axles,BILL/84952,Vendor-G (dummy),14497.6,2024-09-03
+EXP000435,JOB/2024/0076,6,Outsourced AC plant overhaul,BILL/33865,Vendor-E (dummy),52077.72,2024-09-21
+EXP000436,JOB/2024/0076,8,Third-party brake test certification,BILL/85706,Vendor-E (dummy),5393.33,2024-10-07
+EXP000437,JOB/2024/0077,3,Outsourced NDT / ultrasonic testing of axles,BILL/80942,Vendor-G (dummy),15133.06,2024-09-07
+EXP000438,JOB/2024/0078,3,Outsourced NDT / ultrasonic testing of axles,BILL/82071,Vendor-C (dummy),15450.36,2024-09-03
+EXP000439,JOB/2024/0079,3,Outsourced NDT / ultrasonic testing of axles,BILL/64267,Vendor-F (dummy),9129.35,2024-09-06
+EXP000440,JOB/2024/0080,3,Outsourced NDT / ultrasonic testing of axles,BILL/59166,Vendor-G (dummy),12773.25,2024-09-10
+EXP000441,JOB/2024/0080,6,Outsourced AC plant overhaul,BILL/29445,Vendor-B (dummy),57849.95,2024-09-19
+EXP000442,JOB/2024/0081,3,Outsourced NDT / ultrasonic testing of axles,BILL/13175,Vendor-F (dummy),14270.5,2024-09-13
+EXP000443,JOB/2024/0082,3,Outsourced NDT / ultrasonic testing of axles,BILL/78139,Vendor-E (dummy),13923.48,2024-09-19
+EXP000444,JOB/2024/0083,3,Outsourced NDT / ultrasonic testing of axles,BILL/80595,Vendor-D (dummy),11026.18,2024-09-20
+EXP000445,JOB/2024/0084,3,Outsourced NDT / ultrasonic testing of axles,BILL/96220,Vendor-E (dummy),15861.36,2024-09-26
+EXP000446,JOB/2024/0084,6,Outsourced AC plant overhaul,BILL/57365,Vendor-G (dummy),65509.04,2024-10-08
+EXP000447,JOB/2024/0085,3,Outsourced NDT / ultrasonic testing of axles,BILL/54619,Vendor-E (dummy),9930.79,2024-09-26
+EXP000448,JOB/2024/0085,8,Third-party brake test certification,BILL/75308,Vendor-G (dummy),4579.3,2024-10-04
+EXP000449,JOB/2024/0086,3,Outsourced NDT / ultrasonic testing of axles,BILL/15231,Vendor-E (dummy),13604.16,2024-10-01
+EXP000450,JOB/2024/0086,6,Outsourced AC plant overhaul,BILL/24937,Vendor-A (dummy),59352.7,2024-10-15
+EXP000451,JOB/2024/0087,3,Outsourced NDT / ultrasonic testing of axles,BILL/12721,Vendor-E (dummy),9257.63,2024-10-04
+EXP000452,JOB/2024/0088,3,Outsourced NDT / ultrasonic testing of axles,BILL/44947,Vendor-D (dummy),14316.75,2024-10-04
+EXP000453,JOB/2024/0088,6,Outsourced AC plant overhaul,BILL/37617,Vendor-C (dummy),46350.78,2024-10-17
+EXP000454,JOB/2024/0089,3,Outsourced NDT / ultrasonic testing of axles,BILL/47659,Vendor-C (dummy),10339.35,2024-10-04
+EXP000455,JOB/2024/0090,3,Outsourced NDT / ultrasonic testing of axles,BILL/95518,Vendor-B (dummy),11253.6,2024-10-10
+EXP000456,JOB/2024/0090,8,Third-party brake test certification,BILL/31491,Vendor-D (dummy),4532.85,2024-11-02
+EXP000457,JOB/2024/0090,4,Hired scaffolding / crane,BILL/32512,Vendor-G (dummy),7099.61,2024-10-10
+EXP000458,JOB/2024/0091,3,Outsourced NDT / ultrasonic testing of axles,BILL/21189,Vendor-G (dummy),15035.62,2024-10-12
+EXP000459,JOB/2024/0091,6,Outsourced AC plant overhaul,BILL/56111,Vendor-F (dummy),68902.17,2024-10-25
+EXP000460,JOB/2024/0091,8,Third-party brake test certification,BILL/45241,Vendor-A (dummy),6861.84,2024-11-06
+EXP000461,JOB/2024/0092,3,Outsourced NDT / ultrasonic testing of axles,BILL/48036,Vendor-B (dummy),15630.3,2024-10-15
+EXP000462,JOB/2024/0092,6,Outsourced AC plant overhaul,BILL/86356,Vendor-E (dummy),50084.05,2024-10-29
+EXP000463,JOB/2024/0093,3,Outsourced NDT / ultrasonic testing of axles,BILL/77518,Vendor-E (dummy),15306.74,2024-10-16
+EXP000464,JOB/2024/0093,8,Third-party brake test certification,BILL/25201,Vendor-F (dummy),6373.11,2024-11-11
+EXP000465,JOB/2024/0094,3,Outsourced NDT / ultrasonic testing of axles,BILL/17109,Vendor-E (dummy),10568.65,2024-10-16
+EXP000466,JOB/2024/0095,3,Outsourced NDT / ultrasonic testing of axles,BILL/41675,Vendor-F (dummy),12091.21,2024-10-17
+EXP000467,JOB/2024/0095,8,Third-party brake test certification,BILL/57656,Vendor-G (dummy),6767.92,2024-11-08
+EXP000468,JOB/2024/0096,3,Outsourced NDT / ultrasonic testing of axles,BILL/42902,Vendor-D (dummy),10980.12,2024-10-21
+EXP000469,JOB/2024/0097,3,Outsourced NDT / ultrasonic testing of axles,BILL/58578,Vendor-C (dummy),11442.13,2024-10-19
+EXP000470,JOB/2024/0098,6,Outsourced AC plant overhaul,BILL/42062,Vendor-D (dummy),46742.99,2024-11-08
+EXP000471,JOB/2024/0098,8,Third-party brake test certification,BILL/16925,Vendor-F (dummy),6850.22,2024-11-18
+EXP000472,JOB/2024/0099,3,Outsourced NDT / ultrasonic testing of axles,BILL/76540,Vendor-A (dummy),9994.82,2024-10-28
+EXP000473,JOB/2024/0100,3,Outsourced NDT / ultrasonic testing of axles,BILL/54689,Vendor-A (dummy),14103.96,2024-10-30
+EXP000474,JOB/2024/0100,6,Outsourced AC plant overhaul,BILL/92858,Vendor-D (dummy),49336.93,2024-11-12
+EXP000475,JOB/2024/0101,3,Outsourced NDT / ultrasonic testing of axles,BILL/10784,Vendor-D (dummy),12016.02,2024-10-30
+EXP000476,JOB/2024/0101,6,Outsourced AC plant overhaul,BILL/64974,Vendor-E (dummy),58446.34,2024-11-11
+EXP000477,JOB/2024/0102,3,Outsourced NDT / ultrasonic testing of axles,BILL/73093,Vendor-E (dummy),15208.26,2024-11-02
+EXP000478,JOB/2024/0103,3,Outsourced NDT / ultrasonic testing of axles,BILL/82503,Vendor-A (dummy),9177.45,2024-10-30
+EXP000479,JOB/2024/0103,8,Third-party brake test certification,BILL/51705,Vendor-C (dummy),6228.91,2024-11-06
+EXP000480,JOB/2024/0104,3,Outsourced NDT / ultrasonic testing of axles,BILL/76236,Vendor-G (dummy),12334.52,2024-11-06
+EXP000481,JOB/2024/0104,6,Outsourced AC plant overhaul,BILL/62969,Vendor-A (dummy),58696.99,2024-11-16
+EXP000482,JOB/2024/0106,3,Outsourced NDT / ultrasonic testing of axles,BILL/73202,Vendor-F (dummy),13037.07,2024-11-11
+EXP000483,JOB/2024/0106,8,Third-party brake test certification,BILL/68879,Vendor-C (dummy),6369.48,2024-11-29
+EXP000484,JOB/2024/0107,3,Outsourced NDT / ultrasonic testing of axles,BILL/10866,Vendor-E (dummy),13875.62,2024-11-13
+EXP000485,JOB/2024/0108,3,Outsourced NDT / ultrasonic testing of axles,BILL/31444,Vendor-F (dummy),14689.06,2024-11-14
+EXP000486,JOB/2024/0108,6,Outsourced AC plant overhaul,BILL/81340,Vendor-F (dummy),69438.69,2024-11-26
+EXP000487,JOB/2024/0108,8,Third-party brake test certification,BILL/21400,Vendor-G (dummy),4520.37,2024-12-06
+EXP000488,JOB/2024/0110,3,Outsourced NDT / ultrasonic testing of axles,BILL/54283,Vendor-F (dummy),9098.66,2024-11-27
+EXP000489,JOB/2024/0111,3,Outsourced NDT / ultrasonic testing of axles,BILL/11503,Vendor-B (dummy),14826.67,2024-11-20
+EXP000490,JOB/2024/0111,4,Hired scaffolding / crane,BILL/32215,Vendor-F (dummy),13572.75,2024-11-20
+EXP000491,JOB/2024/0112,3,Outsourced NDT / ultrasonic testing of axles,BILL/69802,Vendor-F (dummy),9516.33,2024-11-22
+EXP000492,JOB/2024/0112,6,Outsourced AC plant overhaul,BILL/37693,Vendor-C (dummy),58444.83,2024-12-04
+EXP000493,JOB/2024/0113,3,Outsourced NDT / ultrasonic testing of axles,BILL/21321,Vendor-G (dummy),9019.77,2024-11-29
+EXP000494,JOB/2024/0114,3,Outsourced NDT / ultrasonic testing of axles,BILL/21747,Vendor-D (dummy),12921.02,2024-11-29
+EXP000495,JOB/2024/0114,6,Outsourced AC plant overhaul,BILL/62730,Vendor-B (dummy),55123.57,2024-12-21
+EXP000496,JOB/2024/0115,3,Outsourced NDT / ultrasonic testing of axles,BILL/91593,Vendor-E (dummy),14157.03,2024-11-28
+EXP000497,JOB/2024/0115,6,Outsourced AC plant overhaul,BILL/36623,Vendor-G (dummy),56815.61,2024-12-10
+EXP000498,JOB/2024/0115,4,Hired scaffolding / crane,BILL/14047,Vendor-E (dummy),13458.06,2024-11-28
+EXP000499,JOB/2024/0116,3,Outsourced NDT / ultrasonic testing of axles,BILL/20649,Vendor-D (dummy),9814.07,2024-11-29
+EXP000500,JOB/2024/0117,3,Outsourced NDT / ultrasonic testing of axles,BILL/56215,Vendor-F (dummy),13808.97,2024-12-02
+EXP000501,JOB/2024/0117,6,Outsourced AC plant overhaul,BILL/34204,Vendor-D (dummy),61249.85,2024-12-14
+EXP000502,JOB/2024/0118,3,Outsourced NDT / ultrasonic testing of axles,BILL/80398,Vendor-F (dummy),12919.91,2024-12-03
+EXP000503,JOB/2024/0118,4,Hired scaffolding / crane,BILL/75702,Vendor-A (dummy),14373.09,2024-12-03
+EXP000504,JOB/2024/0119,3,Outsourced NDT / ultrasonic testing of axles,BILL/72717,Vendor-D (dummy),10730.81,2024-12-04
+EXP000505,JOB/2024/0120,3,Outsourced NDT / ultrasonic testing of axles,BILL/88971,Vendor-G (dummy),14521.96,2024-12-05
+EXP000506,JOB/2024/0121,3,Outsourced NDT / ultrasonic testing of axles,BILL/44958,Vendor-F (dummy),12683.32,2024-12-09
+EXP000507,JOB/2024/0122,3,Outsourced NDT / ultrasonic testing of axles,BILL/36353,Vendor-B (dummy),13297.04,2024-12-10
+EXP000508,JOB/2024/0122,6,Outsourced AC plant overhaul,BILL/35419,Vendor-B (dummy),69350.7,2024-12-23
+EXP000509,JOB/2024/0122,8,Third-party brake test certification,BILL/95075,Vendor-C (dummy),4400.36,2025-01-02
+EXP000510,JOB/2024/0123,3,Outsourced NDT / ultrasonic testing of axles,BILL/64265,Vendor-E (dummy),11588.93,2024-12-11
+EXP000511,JOB/2024/0123,8,Third-party brake test certification,BILL/60502,Vendor-A (dummy),4775.98,2024-12-28
+EXP000512,JOB/2024/0124,3,Outsourced NDT / ultrasonic testing of axles,BILL/96010,Vendor-F (dummy),13213.93,2024-12-18
+EXP000513,JOB/2024/0124,6,Outsourced AC plant overhaul,BILL/94705,Vendor-F (dummy),63725.37,2025-01-03
+EXP000514,JOB/2024/0124,8,Third-party brake test certification,BILL/86771,Vendor-C (dummy),5395.92,2025-01-16
+EXP000515,JOB/2024/0125,3,Outsourced NDT / ultrasonic testing of axles,BILL/44221,Vendor-A (dummy),10774.25,2024-12-17
+EXP000516,JOB/2024/0126,3,Outsourced NDT / ultrasonic testing of axles,BILL/44995,Vendor-D (dummy),10041.44,2024-12-20
+EXP000517,JOB/2024/0126,4,Hired scaffolding / crane,BILL/92685,Vendor-E (dummy),11015.85,2024-12-20
+EXP000518,JOB/2024/0127,3,Outsourced NDT / ultrasonic testing of axles,BILL/45965,Vendor-C (dummy),12494.8,2024-12-19
+EXP000519,JOB/2024/0128,3,Outsourced NDT / ultrasonic testing of axles,BILL/17218,Vendor-B (dummy),9198.32,2024-12-23
+EXP000520,JOB/2024/0129,3,Outsourced NDT / ultrasonic testing of axles,BILL/16703,Vendor-F (dummy),12070.88,2024-12-23
+EXP000521,JOB/2024/0129,8,Third-party brake test certification,BILL/37076,Vendor-A (dummy),5622.24,2025-01-14
+EXP000522,JOB/2024/0130,3,Outsourced NDT / ultrasonic testing of axles,BILL/92337,Vendor-G (dummy),9964.09,2024-12-27
+EXP000523,JOB/2024/0130,6,Outsourced AC plant overhaul,BILL/43393,Vendor-A (dummy),52071.39,2025-01-14
+EXP000524,JOB/2024/0131,3,Outsourced NDT / ultrasonic testing of axles,BILL/32259,Vendor-E (dummy),12319.6,2024-12-28
+EXP000525,JOB/2024/0132,3,Outsourced NDT / ultrasonic testing of axles,BILL/60562,Vendor-B (dummy),9718.65,2024-12-31
+EXP000526,JOB/2024/0132,6,Outsourced AC plant overhaul,BILL/50133,Vendor-G (dummy),67231.62,2025-01-18
+EXP000527,JOB/2024/0132,4,Hired scaffolding / crane,BILL/48548,Vendor-B (dummy),8767.5,2024-12-31
+EXP000528,JOB/2024/0133,6,Outsourced AC plant overhaul,BILL/68379,Vendor-B (dummy),54275.89,2025-01-15
+EXP000529,JOB/2024/0134,3,Outsourced NDT / ultrasonic testing of axles,BILL/21818,Vendor-C (dummy),14566.16,2025-01-01
+EXP000530,JOB/2024/0134,6,Outsourced AC plant overhaul,BILL/13176,Vendor-F (dummy),55552.49,2025-01-14
+EXP000531,JOB/2024/0135,3,Outsourced NDT / ultrasonic testing of axles,BILL/92891,Vendor-E (dummy),15824.83,2025-01-02
+EXP000532,JOB/2024/0136,3,Outsourced NDT / ultrasonic testing of axles,BILL/41662,Vendor-F (dummy),14013.56,2025-01-02
+EXP000533,JOB/2024/0138,3,Outsourced NDT / ultrasonic testing of axles,BILL/67555,Vendor-A (dummy),15311.52,2025-01-09
+EXP000534,JOB/2024/0138,8,Third-party brake test certification,BILL/56264,Vendor-F (dummy),4189.86,2025-01-15
+EXP000535,JOB/2024/0139,3,Outsourced NDT / ultrasonic testing of axles,BILL/25829,Vendor-B (dummy),12513.38,2025-01-10
+EXP000536,JOB/2024/0140,6,Outsourced AC plant overhaul,BILL/39574,Vendor-C (dummy),55948.61,2025-01-31
+EXP000537,JOB/2024/0141,3,Outsourced NDT / ultrasonic testing of axles,BILL/99087,Vendor-A (dummy),9881.0,2025-01-17
+EXP000538,JOB/2024/0141,8,Third-party brake test certification,BILL/70516,Vendor-E (dummy),5473.54,2025-02-11
+EXP000539,JOB/2024/0142,3,Outsourced NDT / ultrasonic testing of axles,BILL/11693,Vendor-D (dummy),10550.1,2025-01-20
+EXP000540,JOB/2024/0142,6,Outsourced AC plant overhaul,BILL/16952,Vendor-C (dummy),46272.98,2025-01-31
+EXP000541,JOB/2024/0142,8,Third-party brake test certification,BILL/33554,Vendor-C (dummy),4295.78,2025-02-08
+EXP000542,JOB/2024/0143,3,Outsourced NDT / ultrasonic testing of axles,BILL/26371,Vendor-C (dummy),13142.78,2025-01-22
+EXP000543,JOB/2024/0143,6,Outsourced AC plant overhaul,BILL/84149,Vendor-C (dummy),53481.52,2025-02-07
+EXP000544,JOB/2024/0143,4,Hired scaffolding / crane,BILL/28719,Vendor-E (dummy),10320.77,2025-01-22
+EXP000545,JOB/2024/0144,3,Outsourced NDT / ultrasonic testing of axles,BILL/80773,Vendor-F (dummy),14562.62,2025-01-22
+EXP000546,JOB/2024/0145,3,Outsourced NDT / ultrasonic testing of axles,BILL/59896,Vendor-C (dummy),14849.58,2025-01-24
+EXP000547,JOB/2024/0145,6,Outsourced AC plant overhaul,BILL/77383,Vendor-E (dummy),45979.5,2025-02-07
+EXP000548,JOB/2024/0146,3,Outsourced NDT / ultrasonic testing of axles,BILL/99575,Vendor-G (dummy),9843.74,2025-01-24
+EXP000549,JOB/2024/0146,6,Outsourced AC plant overhaul,BILL/97521,Vendor-G (dummy),45862.3,2025-02-05
+EXP000550,JOB/2024/0147,3,Outsourced NDT / ultrasonic testing of axles,BILL/44819,Vendor-D (dummy),9696.23,2025-01-25
+EXP000551,JOB/2024/0148,3,Outsourced NDT / ultrasonic testing of axles,BILL/11921,Vendor-A (dummy),10254.52,2025-01-28
+EXP000552,JOB/2024/0148,6,Outsourced AC plant overhaul,BILL/71167,Vendor-D (dummy),54743.95,2025-02-10
+EXP000553,JOB/2024/0149,3,Outsourced NDT / ultrasonic testing of axles,BILL/51178,Vendor-D (dummy),15101.4,2025-02-04
+EXP000554,JOB/2024/0150,3,Outsourced NDT / ultrasonic testing of axles,BILL/91179,Vendor-A (dummy),15987.69,2025-01-27
+EXP000555,JOB/2024/0151,3,Outsourced NDT / ultrasonic testing of axles,BILL/19428,Vendor-F (dummy),10342.65,2025-01-31
+EXP000556,JOB/2024/0151,6,Outsourced AC plant overhaul,BILL/23134,Vendor-A (dummy),69420.46,2025-02-13
+EXP000557,JOB/2024/0151,8,Third-party brake test certification,BILL/23067,Vendor-E (dummy),6652.72,2025-02-24
+EXP000558,JOB/2024/0152,3,Outsourced NDT / ultrasonic testing of axles,BILL/36274,Vendor-B (dummy),15562.07,2025-02-07
+EXP000559,JOB/2024/0153,3,Outsourced NDT / ultrasonic testing of axles,BILL/78116,Vendor-A (dummy),11597.24,2025-02-04
+EXP000560,JOB/2024/0154,3,Outsourced NDT / ultrasonic testing of axles,BILL/64216,Vendor-G (dummy),15671.02,2025-02-10
+EXP000561,JOB/2024/0155,3,Outsourced NDT / ultrasonic testing of axles,BILL/35486,Vendor-G (dummy),15194.88,2025-02-05
+EXP000562,JOB/2024/0155,8,Third-party brake test certification,BILL/98647,Vendor-F (dummy),4927.69,2025-02-19
+EXP000563,JOB/2024/0156,3,Outsourced NDT / ultrasonic testing of axles,BILL/88965,Vendor-B (dummy),13141.1,2025-02-08
+EXP000564,JOB/2024/0156,6,Outsourced AC plant overhaul,BILL/82636,Vendor-A (dummy),60151.35,2025-02-20
+EXP000565,JOB/2024/0157,8,Third-party brake test certification,BILL/36435,Vendor-D (dummy),4960.87,2025-03-06
+EXP000566,JOB/2024/0158,3,Outsourced NDT / ultrasonic testing of axles,BILL/95539,Vendor-F (dummy),9985.77,2025-02-12
+EXP000567,JOB/2024/0159,3,Outsourced NDT / ultrasonic testing of axles,BILL/77006,Vendor-D (dummy),9094.27,2025-02-14
+EXP000568,JOB/2024/0159,6,Outsourced AC plant overhaul,BILL/78098,Vendor-B (dummy),51275.56,2025-02-28
+EXP000569,JOB/2024/0160,3,Outsourced NDT / ultrasonic testing of axles,BILL/78158,Vendor-C (dummy),11323.96,2025-02-18
+EXP000570,JOB/2024/0160,6,Outsourced AC plant overhaul,BILL/85653,Vendor-A (dummy),56136.4,2025-03-01
+EXP000571,JOB/2024/0161,3,Outsourced NDT / ultrasonic testing of axles,BILL/65433,Vendor-F (dummy),11707.44,2025-02-18
+EXP000572,JOB/2024/0162,3,Outsourced NDT / ultrasonic testing of axles,BILL/11262,Vendor-A (dummy),15926.5,2025-02-21
+EXP000573,JOB/2024/0162,6,Outsourced AC plant overhaul,BILL/64657,Vendor-C (dummy),50703.45,2025-03-06
+EXP000574,JOB/2024/0163,8,Third-party brake test certification,BILL/88006,Vendor-C (dummy),5884.9,2025-03-11
+EXP000575,JOB/2024/0163,4,Hired scaffolding / crane,BILL/12955,Vendor-D (dummy),10684.36,2025-02-21
+EXP000576,JOB/2024/0164,3,Outsourced NDT / ultrasonic testing of axles,BILL/85942,Vendor-A (dummy),12942.61,2025-02-26
+EXP000577,JOB/2024/0164,8,Third-party brake test certification,BILL/58738,Vendor-D (dummy),5483.31,2025-03-25
+EXP000578,JOB/2024/0165,6,Outsourced AC plant overhaul,BILL/73291,Vendor-F (dummy),45323.96,2025-03-18
+EXP000579,JOB/2024/0166,3,Outsourced NDT / ultrasonic testing of axles,BILL/54045,Vendor-D (dummy),10307.72,2025-03-04
+EXP000580,JOB/2024/0166,4,Hired scaffolding / crane,BILL/46677,Vendor-C (dummy),11792.91,2025-03-04
+EXP000581,JOB/2024/0167,3,Outsourced NDT / ultrasonic testing of axles,BILL/32421,Vendor-C (dummy),13987.13,2025-03-05
+EXP000582,JOB/2024/0168,3,Outsourced NDT / ultrasonic testing of axles,BILL/72635,Vendor-E (dummy),10543.63,2025-03-01
+EXP000583,JOB/2024/0169,3,Outsourced NDT / ultrasonic testing of axles,BILL/56619,Vendor-F (dummy),10405.55,2025-03-06
+EXP000584,JOB/2024/0169,6,Outsourced AC plant overhaul,BILL/47076,Vendor-B (dummy),64582.15,2025-03-24
+EXP000585,JOB/2024/0170,3,Outsourced NDT / ultrasonic testing of axles,BILL/47084,Vendor-B (dummy),13479.45,2025-03-04
+EXP000586,JOB/2024/0171,3,Outsourced NDT / ultrasonic testing of axles,BILL/48558,Vendor-B (dummy),9668.13,2025-03-11
+EXP000587,JOB/2024/0171,6,Outsourced AC plant overhaul,BILL/18670,Vendor-B (dummy),53045.92,2025-03-22
+EXP000588,JOB/2024/0172,3,Outsourced NDT / ultrasonic testing of axles,BILL/74984,Vendor-B (dummy),14569.39,2025-03-19
+EXP000589,JOB/2024/0172,4,Hired scaffolding / crane,BILL/35264,Vendor-B (dummy),7506.44,2025-03-19
+EXP000590,JOB/2024/0173,3,Outsourced NDT / ultrasonic testing of axles,BILL/61884,Vendor-B (dummy),12405.08,2025-03-14
+EXP000591,JOB/2024/0174,3,Outsourced NDT / ultrasonic testing of axles,BILL/92947,Vendor-E (dummy),13637.09,2025-03-17
+EXP000592,JOB/2024/0174,6,Outsourced AC plant overhaul,BILL/18075,Vendor-B (dummy),61553.53,2025-03-31
+EXP000593,JOB/2024/0174,4,Hired scaffolding / crane,BILL/50374,Vendor-E (dummy),7377.52,2025-03-17
+EXP000594,JOB/2024/0175,8,Third-party brake test certification,BILL/11443,Vendor-F (dummy),6961.35,2025-03-25
+EXP000595,JOB/2024/0176,3,Outsourced NDT / ultrasonic testing of axles,BILL/39789,Vendor-F (dummy),14210.11,2025-03-20
+EXP000596,JOB/2024/0177,3,Outsourced NDT / ultrasonic testing of axles,BILL/18769,Vendor-F (dummy),15551.91,2025-03-20
+EXP000597,JOB/2024/0177,6,Outsourced AC plant overhaul,BILL/75329,Vendor-D (dummy),58284.39,2025-04-01
+EXP000598,JOB/2024/0177,8,Third-party brake test certification,BILL/50559,Vendor-G (dummy),6667.51,2025-04-10
+EXP000599,JOB/2024/0178,3,Outsourced NDT / ultrasonic testing of axles,BILL/36097,Vendor-E (dummy),15743.32,2025-03-26
+EXP000600,JOB/2024/0179,3,Outsourced NDT / ultrasonic testing of axles,BILL/34338,Vendor-F (dummy),11453.15,2025-03-26
+EXP000601,JOB/2024/0180,3,Outsourced NDT / ultrasonic testing of axles,BILL/21196,Vendor-D (dummy),9043.95,2025-03-26
+EXP000602,JOB/2024/0180,6,Outsourced AC plant overhaul,BILL/28331,Vendor-G (dummy),65813.56,2025-04-05
+EXP000603,JOB/2025/0002,3,Outsourced NDT / ultrasonic testing of axles,BILL/36055,Vendor-A (dummy),15821.92,2025-04-11
+EXP000604,JOB/2025/0002,6,Outsourced AC plant overhaul,BILL/97510,Vendor-F (dummy),59773.99,2025-04-22
+EXP000605,JOB/2025/0002,8,Third-party brake test certification,BILL/27113,Vendor-D (dummy),5768.04,2025-04-29
+EXP000606,JOB/2025/0003,3,Outsourced NDT / ultrasonic testing of axles,BILL/20460,Vendor-F (dummy),13092.54,2025-04-14
+EXP000607,JOB/2025/0003,6,Outsourced AC plant overhaul,BILL/20569,Vendor-F (dummy),45482.98,2025-04-28
+EXP000608,JOB/2025/0003,4,Hired scaffolding / crane,BILL/80357,Vendor-C (dummy),14074.01,2025-04-14
+EXP000609,JOB/2025/0004,3,Outsourced NDT / ultrasonic testing of axles,BILL/32858,Vendor-D (dummy),9651.02,2025-04-11
+EXP000610,JOB/2025/0004,8,Third-party brake test certification,BILL/14084,Vendor-G (dummy),6988.66,2025-04-17
+EXP000611,JOB/2025/0005,3,Outsourced NDT / ultrasonic testing of axles,BILL/21784,Vendor-A (dummy),13600.68,2025-04-16
+EXP000612,JOB/2025/0006,3,Outsourced NDT / ultrasonic testing of axles,BILL/12738,Vendor-A (dummy),14282.1,2025-04-17
+EXP000613,JOB/2025/0007,3,Outsourced NDT / ultrasonic testing of axles,BILL/99965,Vendor-B (dummy),11225.13,2025-04-17
+EXP000614,JOB/2025/0007,8,Third-party brake test certification,BILL/37847,Vendor-A (dummy),6947.88,2025-05-07
+EXP000615,JOB/2025/0008,3,Outsourced NDT / ultrasonic testing of axles,BILL/93445,Vendor-A (dummy),11642.76,2025-04-19
+EXP000616,JOB/2025/0009,3,Outsourced NDT / ultrasonic testing of axles,BILL/46524,Vendor-B (dummy),15794.53,2025-04-23
+EXP000617,JOB/2025/0010,3,Outsourced NDT / ultrasonic testing of axles,BILL/51398,Vendor-D (dummy),13753.57,2025-04-24
+EXP000618,JOB/2025/0010,6,Outsourced AC plant overhaul,BILL/48197,Vendor-E (dummy),52329.62,2025-05-09
+EXP000619,JOB/2025/0011,3,Outsourced NDT / ultrasonic testing of axles,BILL/25587,Vendor-A (dummy),12786.09,2025-04-22
+EXP000620,JOB/2025/0012,3,Outsourced NDT / ultrasonic testing of axles,BILL/54793,Vendor-F (dummy),10200.95,2025-04-28
+EXP000621,JOB/2025/0012,6,Outsourced AC plant overhaul,BILL/69258,Vendor-C (dummy),56555.78,2025-05-14
+EXP000622,JOB/2025/0013,3,Outsourced NDT / ultrasonic testing of axles,BILL/27360,Vendor-G (dummy),12014.13,2025-04-28
+EXP000623,JOB/2025/0014,3,Outsourced NDT / ultrasonic testing of axles,BILL/64519,Vendor-C (dummy),15198.99,2025-04-28
+EXP000624,JOB/2025/0015,3,Outsourced NDT / ultrasonic testing of axles,BILL/50750,Vendor-G (dummy),13502.64,2025-05-05
+EXP000625,JOB/2025/0015,6,Outsourced AC plant overhaul,BILL/87503,Vendor-E (dummy),67079.02,2025-05-27
+EXP000626,JOB/2025/0016,3,Outsourced NDT / ultrasonic testing of axles,BILL/90632,Vendor-E (dummy),15180.07,2025-05-05
+EXP000627,JOB/2025/0016,8,Third-party brake test certification,BILL/61697,Vendor-F (dummy),5943.39,2025-05-30
+EXP000628,JOB/2025/0017,3,Outsourced NDT / ultrasonic testing of axles,BILL/10713,Vendor-C (dummy),13368.61,2025-05-05
+EXP000629,JOB/2025/0018,3,Outsourced NDT / ultrasonic testing of axles,BILL/97317,Vendor-G (dummy),15932.56,2025-05-09
+EXP000630,JOB/2025/0019,3,Outsourced NDT / ultrasonic testing of axles,BILL/47935,Vendor-A (dummy),14339.09,2025-05-08
+EXP000631,JOB/2025/0019,6,Outsourced AC plant overhaul,BILL/84937,Vendor-A (dummy),51221.48,2025-05-20
+EXP000632,JOB/2025/0019,4,Hired scaffolding / crane,BILL/70601,Vendor-E (dummy),7574.5,2025-05-08
+EXP000633,JOB/2025/0020,3,Outsourced NDT / ultrasonic testing of axles,BILL/75741,Vendor-E (dummy),13597.0,2025-05-10
+EXP000634,JOB/2025/0020,6,Outsourced AC plant overhaul,BILL/58396,Vendor-B (dummy),48773.05,2025-05-24
+EXP000635,JOB/2025/0020,8,Third-party brake test certification,BILL/46108,Vendor-A (dummy),6093.41,2025-06-04
+EXP000636,JOB/2025/0020,4,Hired scaffolding / crane,BILL/87624,Vendor-B (dummy),7866.03,2025-05-10
+EXP000637,JOB/2025/0021,3,Outsourced NDT / ultrasonic testing of axles,BILL/57769,Vendor-A (dummy),10976.99,2025-05-13
+EXP000638,JOB/2025/0022,3,Outsourced NDT / ultrasonic testing of axles,BILL/36180,Vendor-B (dummy),14088.55,2025-05-17
+EXP000639,JOB/2025/0022,6,Outsourced AC plant overhaul,BILL/58126,Vendor-B (dummy),62224.32,2025-05-30
+EXP000640,JOB/2025/0022,8,Third-party brake test certification,BILL/29863,Vendor-F (dummy),5837.84,2025-06-10
+EXP000641,JOB/2025/0022,4,Hired scaffolding / crane,BILL/99850,Vendor-C (dummy),13627.2,2025-05-17
+EXP000642,JOB/2025/0023,3,Outsourced NDT / ultrasonic testing of axles,BILL/20843,Vendor-C (dummy),9361.96,2025-05-20
+EXP000643,JOB/2025/0024,3,Outsourced NDT / ultrasonic testing of axles,BILL/88885,Vendor-G (dummy),10782.23,2025-05-19
+EXP000644,JOB/2025/0025,3,Outsourced NDT / ultrasonic testing of axles,BILL/92423,Vendor-B (dummy),10587.2,2025-05-19
+EXP000645,JOB/2025/0026,3,Outsourced NDT / ultrasonic testing of axles,BILL/83223,Vendor-G (dummy),9907.83,2025-05-22
+EXP000646,JOB/2025/0027,3,Outsourced NDT / ultrasonic testing of axles,BILL/93465,Vendor-E (dummy),9832.34,2025-05-24
+EXP000647,JOB/2025/0028,3,Outsourced NDT / ultrasonic testing of axles,BILL/14192,Vendor-A (dummy),9645.05,2025-05-27
+EXP000648,JOB/2025/0028,6,Outsourced AC plant overhaul,BILL/19543,Vendor-F (dummy),64317.77,2025-06-13
+EXP000649,JOB/2025/0029,3,Outsourced NDT / ultrasonic testing of axles,BILL/95012,Vendor-C (dummy),14477.48,2025-05-26
+EXP000650,JOB/2025/0030,3,Outsourced NDT / ultrasonic testing of axles,BILL/86504,Vendor-B (dummy),13844.05,2025-05-28
+EXP000651,JOB/2025/0030,8,Third-party brake test certification,BILL/70110,Vendor-G (dummy),4463.61,2025-06-04
+EXP000652,JOB/2025/0031,3,Outsourced NDT / ultrasonic testing of axles,BILL/93627,Vendor-E (dummy),10836.97,2025-06-04
+EXP000653,JOB/2025/0031,6,Outsourced AC plant overhaul,BILL/75606,Vendor-F (dummy),66336.03,2025-06-23
+EXP000654,JOB/2025/0031,8,Third-party brake test certification,BILL/30858,Vendor-C (dummy),6968.81,2025-07-08
+EXP000655,JOB/2025/0032,3,Outsourced NDT / ultrasonic testing of axles,BILL/45838,Vendor-E (dummy),12043.85,2025-06-06
+EXP000656,JOB/2025/0033,3,Outsourced NDT / ultrasonic testing of axles,BILL/17622,Vendor-A (dummy),10529.62,2025-06-16
+EXP000657,JOB/2025/0033,8,Third-party brake test certification,BILL/62663,Vendor-A (dummy),4253.09,2025-08-23
+EXP000658,JOB/2025/0034,3,Outsourced NDT / ultrasonic testing of axles,BILL/30121,Vendor-D (dummy),15882.08,2025-06-07
+EXP000659,JOB/2025/0034,8,Third-party brake test certification,BILL/97477,Vendor-D (dummy),6426.71,2025-06-25
+EXP000660,JOB/2025/0035,3,Outsourced NDT / ultrasonic testing of axles,BILL/17346,Vendor-E (dummy),14017.61,2025-06-11
+EXP000661,JOB/2025/0036,3,Outsourced NDT / ultrasonic testing of axles,BILL/40280,Vendor-B (dummy),10546.38,2025-06-09
+EXP000662,JOB/2025/0037,3,Outsourced NDT / ultrasonic testing of axles,BILL/98390,Vendor-C (dummy),14736.38,2025-06-14
+EXP000663,JOB/2025/0038,3,Outsourced NDT / ultrasonic testing of axles,BILL/93307,Vendor-C (dummy),10861.78,2025-06-17
+EXP000664,JOB/2025/0038,6,Outsourced AC plant overhaul,BILL/65712,Vendor-A (dummy),69954.03,2025-07-01
+EXP000665,JOB/2025/0039,6,Outsourced AC plant overhaul,BILL/29668,Vendor-D (dummy),56710.39,2025-07-11
+EXP000666,JOB/2025/0040,3,Outsourced NDT / ultrasonic testing of axles,BILL/76934,Vendor-D (dummy),9756.16,2025-06-17
+EXP000667,JOB/2025/0040,4,Hired scaffolding / crane,BILL/82764,Vendor-E (dummy),14488.26,2025-06-17
+EXP000668,JOB/2025/0041,3,Outsourced NDT / ultrasonic testing of axles,BILL/92909,Vendor-D (dummy),13945.64,2025-06-21
+EXP000669,JOB/2025/0041,8,Third-party brake test certification,BILL/78541,Vendor-D (dummy),5971.21,2025-07-08
+EXP000670,JOB/2025/0043,3,Outsourced NDT / ultrasonic testing of axles,BILL/75802,Vendor-A (dummy),9068.8,2025-07-01
+EXP000671,JOB/2025/0043,4,Hired scaffolding / crane,BILL/41207,Vendor-D (dummy),12452.69,2025-07-01
+EXP000672,JOB/2025/0044,3,Outsourced NDT / ultrasonic testing of axles,BILL/79792,Vendor-F (dummy),9111.64,2025-07-02
+EXP000673,JOB/2025/0044,6,Outsourced AC plant overhaul,BILL/65793,Vendor-G (dummy),55954.46,2025-07-17
+EXP000674,JOB/2025/0044,8,Third-party brake test certification,BILL/53575,Vendor-G (dummy),4493.02,2025-07-30
+EXP000675,JOB/2025/0045,3,Outsourced NDT / ultrasonic testing of axles,BILL/84034,Vendor-G (dummy),10367.55,2025-07-04
+EXP000676,JOB/2025/0045,8,Third-party brake test certification,BILL/94302,Vendor-C (dummy),5239.99,2025-07-22
+EXP000677,JOB/2025/0046,6,Outsourced AC plant overhaul,BILL/71897,Vendor-F (dummy),52505.66,2025-07-19
+EXP000678,JOB/2025/0047,3,Outsourced NDT / ultrasonic testing of axles,BILL/19749,Vendor-C (dummy),9805.13,2025-07-04
+EXP000679,JOB/2025/0048,3,Outsourced NDT / ultrasonic testing of axles,BILL/87060,Vendor-C (dummy),13673.77,2025-07-10
+EXP000680,JOB/2025/0048,8,Third-party brake test certification,BILL/85485,Vendor-D (dummy),6010.18,2025-08-11
+EXP000681,JOB/2025/0049,3,Outsourced NDT / ultrasonic testing of axles,BILL/15250,Vendor-B (dummy),14501.97,2025-07-16
+EXP000682,JOB/2025/0049,6,Outsourced AC plant overhaul,BILL/88140,Vendor-B (dummy),47333.85,2025-08-01
+EXP000683,JOB/2025/0050,3,Outsourced NDT / ultrasonic testing of axles,BILL/87479,Vendor-F (dummy),10220.16,2025-07-16
+EXP000684,JOB/2025/0050,8,Third-party brake test certification,BILL/42712,Vendor-B (dummy),5898.8,2025-08-13
+EXP000685,JOB/2025/0051,3,Outsourced NDT / ultrasonic testing of axles,BILL/61133,Vendor-C (dummy),15337.89,2025-07-18
+EXP000686,JOB/2025/0052,3,Outsourced NDT / ultrasonic testing of axles,BILL/63365,Vendor-D (dummy),14750.5,2025-07-24
+EXP000687,JOB/2025/0052,6,Outsourced AC plant overhaul,BILL/79480,Vendor-G (dummy),58772.23,2025-08-08
+EXP000688,JOB/2025/0053,3,Outsourced NDT / ultrasonic testing of axles,BILL/35740,Vendor-A (dummy),12393.59,2025-07-24
+EXP000689,JOB/2025/0053,6,Outsourced AC plant overhaul,BILL/39406,Vendor-E (dummy),67189.47,2025-08-08
+EXP000690,JOB/2025/0053,4,Hired scaffolding / crane,BILL/65744,Vendor-A (dummy),9695.39,2025-07-24
+EXP000691,JOB/2025/0054,3,Outsourced NDT / ultrasonic testing of axles,BILL/89289,Vendor-D (dummy),10911.36,2025-07-28
+EXP000692,JOB/2025/0055,3,Outsourced NDT / ultrasonic testing of axles,BILL/58493,Vendor-E (dummy),15525.08,2025-07-26
+EXP000693,JOB/2025/0056,3,Outsourced NDT / ultrasonic testing of axles,BILL/43563,Vendor-C (dummy),14566.85,2025-07-28
+EXP000694,JOB/2025/0056,8,Third-party brake test certification,BILL/26322,Vendor-C (dummy),4046.4,2025-08-16
+EXP000695,JOB/2025/0057,3,Outsourced NDT / ultrasonic testing of axles,BILL/57867,Vendor-G (dummy),13264.34,2025-07-30
+EXP000696,JOB/2025/0057,8,Third-party brake test certification,BILL/45095,Vendor-E (dummy),5149.34,2025-08-21
+EXP000697,JOB/2025/0058,3,Outsourced NDT / ultrasonic testing of axles,BILL/61412,Vendor-A (dummy),15296.62,2025-08-01
+EXP000698,JOB/2025/0058,6,Outsourced AC plant overhaul,BILL/66741,Vendor-F (dummy),50279.55,2025-08-18
+EXP000699,JOB/2025/0059,3,Outsourced NDT / ultrasonic testing of axles,BILL/53311,Vendor-G (dummy),11779.22,2025-08-01
+EXP000700,JOB/2025/0060,3,Outsourced NDT / ultrasonic testing of axles,BILL/13832,Vendor-F (dummy),11234.53,2025-08-05
+EXP000701,JOB/2025/0060,6,Outsourced AC plant overhaul,BILL/80704,Vendor-D (dummy),69689.68,2025-08-16
+EXP000702,JOB/2025/0060,8,Third-party brake test certification,BILL/20166,Vendor-A (dummy),6444.22,2025-08-23
+EXP000703,JOB/2025/0061,3,Outsourced NDT / ultrasonic testing of axles,BILL/86529,Vendor-D (dummy),15438.37,2025-08-08
+EXP000704,JOB/2025/0062,3,Outsourced NDT / ultrasonic testing of axles,BILL/12223,Vendor-C (dummy),15741.58,2025-08-08
+EXP000705,JOB/2025/0062,4,Hired scaffolding / crane,BILL/79020,Vendor-E (dummy),6498.93,2025-08-08
+EXP000706,JOB/2025/0063,3,Outsourced NDT / ultrasonic testing of axles,BILL/91344,Vendor-C (dummy),13781.03,2025-08-07
+EXP000707,JOB/2025/0064,3,Outsourced NDT / ultrasonic testing of axles,BILL/35868,Vendor-E (dummy),13035.3,2025-08-11
+EXP000708,JOB/2025/0065,3,Outsourced NDT / ultrasonic testing of axles,BILL/55864,Vendor-A (dummy),14087.04,2025-08-13
+EXP000709,JOB/2025/0065,4,Hired scaffolding / crane,BILL/48942,Vendor-D (dummy),11286.94,2025-08-13
+EXP000710,JOB/2025/0066,3,Outsourced NDT / ultrasonic testing of axles,BILL/87342,Vendor-A (dummy),10891.97,2025-08-16
+EXP000711,JOB/2025/0067,3,Outsourced NDT / ultrasonic testing of axles,BILL/81200,Vendor-E (dummy),11494.11,2025-08-20
+EXP000712,JOB/2025/0067,8,Third-party brake test certification,BILL/86189,Vendor-A (dummy),4074.59,2025-09-17
+EXP000713,JOB/2025/0067,4,Hired scaffolding / crane,BILL/81560,Vendor-A (dummy),14831.7,2025-08-20
+EXP000714,JOB/2025/0068,3,Outsourced NDT / ultrasonic testing of axles,BILL/31287,Vendor-A (dummy),13454.16,2025-08-20
+EXP000715,JOB/2025/0068,8,Third-party brake test certification,BILL/10022,Vendor-A (dummy),6168.79,2025-09-09
+EXP000716,JOB/2025/0069,3,Outsourced NDT / ultrasonic testing of axles,BILL/21850,Vendor-D (dummy),11143.48,2025-08-20
+EXP000717,JOB/2025/0069,8,Third-party brake test certification,BILL/51232,Vendor-C (dummy),6940.7,2025-09-04
+EXP000718,JOB/2025/0070,3,Outsourced NDT / ultrasonic testing of axles,BILL/76684,Vendor-F (dummy),14965.26,2025-08-22
+EXP000719,JOB/2025/0071,3,Outsourced NDT / ultrasonic testing of axles,BILL/75734,Vendor-G (dummy),11686.25,2025-08-25
+EXP000720,JOB/2025/0071,4,Hired scaffolding / crane,BILL/19593,Vendor-A (dummy),13610.28,2025-08-25
+EXP000721,JOB/2025/0072,3,Outsourced NDT / ultrasonic testing of axles,BILL/42309,Vendor-G (dummy),13671.9,2025-08-28
+EXP000722,JOB/2025/0073,3,Outsourced NDT / ultrasonic testing of axles,BILL/49782,Vendor-B (dummy),10073.53,2025-08-30
+EXP000723,JOB/2025/0074,3,Outsourced NDT / ultrasonic testing of axles,BILL/97730,Vendor-E (dummy),13443.06,2025-09-02
+EXP000724,JOB/2025/0074,6,Outsourced AC plant overhaul,BILL/80204,Vendor-E (dummy),66316.75,2025-09-18
+EXP000725,JOB/2025/0075,3,Outsourced NDT / ultrasonic testing of axles,BILL/99318,Vendor-D (dummy),13877.09,2025-09-03
+EXP000726,JOB/2025/0075,6,Outsourced AC plant overhaul,BILL/48461,Vendor-A (dummy),68430.18,2025-09-17
+EXP000727,JOB/2025/0076,3,Outsourced NDT / ultrasonic testing of axles,BILL/90950,Vendor-C (dummy),15125.27,2025-09-04
+EXP000728,JOB/2025/0076,6,Outsourced AC plant overhaul,BILL/80301,Vendor-E (dummy),52402.38,2025-09-18
+EXP000729,JOB/2025/0077,3,Outsourced NDT / ultrasonic testing of axles,BILL/75315,Vendor-F (dummy),10926.13,2025-09-05
+EXP000730,JOB/2025/0077,6,Outsourced AC plant overhaul,BILL/19036,Vendor-G (dummy),65170.72,2025-09-15
+EXP000731,JOB/2025/0078,3,Outsourced NDT / ultrasonic testing of axles,BILL/32230,Vendor-B (dummy),13903.77,2025-09-08
+EXP000732,JOB/2025/0079,3,Outsourced NDT / ultrasonic testing of axles,BILL/22173,Vendor-C (dummy),13441.87,2025-09-09
+EXP000733,JOB/2025/0079,6,Outsourced AC plant overhaul,BILL/83716,Vendor-B (dummy),65747.89,2025-09-22
+EXP000734,JOB/2025/0080,3,Outsourced NDT / ultrasonic testing of axles,BILL/50426,Vendor-C (dummy),13568.02,2025-09-11
+EXP000735,JOB/2025/0080,6,Outsourced AC plant overhaul,BILL/68914,Vendor-E (dummy),58868.22,2025-09-26
+EXP000736,JOB/2025/0081,3,Outsourced NDT / ultrasonic testing of axles,BILL/36795,Vendor-G (dummy),13643.84,2025-09-09
+EXP000737,JOB/2025/0081,8,Third-party brake test certification,BILL/35409,Vendor-D (dummy),4153.03,2025-09-18
+EXP000738,JOB/2025/0082,3,Outsourced NDT / ultrasonic testing of axles,BILL/88676,Vendor-A (dummy),15795.22,2025-09-16
+EXP000739,JOB/2025/0083,3,Outsourced NDT / ultrasonic testing of axles,BILL/73756,Vendor-F (dummy),9997.55,2025-09-18
+EXP000740,JOB/2025/0083,6,Outsourced AC plant overhaul,BILL/18151,Vendor-A (dummy),59147.67,2025-10-06
+EXP000741,JOB/2025/0083,8,Third-party brake test certification,BILL/33440,Vendor-D (dummy),4497.2,2025-10-17
+EXP000742,JOB/2025/0084,3,Outsourced NDT / ultrasonic testing of axles,BILL/27307,Vendor-B (dummy),13105.4,2025-09-16
+EXP000743,JOB/2025/0085,3,Outsourced NDT / ultrasonic testing of axles,BILL/73907,Vendor-A (dummy),12256.07,2025-09-19
+EXP000744,JOB/2025/0085,6,Outsourced AC plant overhaul,BILL/94670,Vendor-E (dummy),58746.76,2025-09-30
+EXP000745,JOB/2025/0086,3,Outsourced NDT / ultrasonic testing of axles,BILL/54918,Vendor-C (dummy),12613.75,2025-09-23
+EXP000746,JOB/2025/0086,8,Third-party brake test certification,BILL/37183,Vendor-D (dummy),6300.13,2025-10-15
+EXP000747,JOB/2025/0087,3,Outsourced NDT / ultrasonic testing of axles,BILL/16969,Vendor-C (dummy),11166.34,2025-09-22
+EXP000748,JOB/2025/0088,3,Outsourced NDT / ultrasonic testing of axles,BILL/33575,Vendor-G (dummy),14161.57,2025-09-26
+EXP000749,JOB/2025/0088,6,Outsourced AC plant overhaul,BILL/78059,Vendor-A (dummy),48942.75,2025-10-07
+EXP000750,JOB/2025/0088,8,Third-party brake test certification,BILL/48416,Vendor-F (dummy),6258.47,2025-10-15
+EXP000751,JOB/2025/0089,6,Outsourced AC plant overhaul,BILL/37418,Vendor-F (dummy),48791.82,2025-10-16
+EXP000752,JOB/2025/0090,3,Outsourced NDT / ultrasonic testing of axles,BILL/56471,Vendor-C (dummy),14554.89,2025-10-01
+EXP000753,JOB/2025/0090,8,Third-party brake test certification,BILL/86809,Vendor-G (dummy),6166.47,2025-10-08
+EXP000754,JOB/2025/0091,3,Outsourced NDT / ultrasonic testing of axles,BILL/43199,Vendor-D (dummy),11544.28,2025-10-03
+EXP000755,JOB/2025/0092,3,Outsourced NDT / ultrasonic testing of axles,BILL/22636,Vendor-A (dummy),15638.46,2025-10-07
+EXP000756,JOB/2025/0093,3,Outsourced NDT / ultrasonic testing of axles,BILL/77060,Vendor-E (dummy),14096.59,2025-10-08
+EXP000757,JOB/2025/0093,8,Third-party brake test certification,BILL/74039,Vendor-F (dummy),6175.22,2025-10-24
+EXP000758,JOB/2025/0093,4,Hired scaffolding / crane,BILL/45851,Vendor-B (dummy),9478.13,2025-10-08
+EXP000759,JOB/2025/0094,6,Outsourced AC plant overhaul,BILL/67637,Vendor-C (dummy),46494.29,2025-10-22
+EXP000760,JOB/2025/0095,3,Outsourced NDT / ultrasonic testing of axles,BILL/41948,Vendor-E (dummy),10625.83,2025-10-17
+EXP000761,JOB/2025/0096,3,Outsourced NDT / ultrasonic testing of axles,BILL/64567,Vendor-B (dummy),12341.26,2025-10-14
+EXP000762,JOB/2025/0097,3,Outsourced NDT / ultrasonic testing of axles,BILL/48086,Vendor-F (dummy),9970.86,2025-10-13
+EXP000763,JOB/2025/0098,3,Outsourced NDT / ultrasonic testing of axles,BILL/95290,Vendor-D (dummy),13346.73,2025-10-14
+EXP000764,JOB/2025/0098,8,Third-party brake test certification,BILL/19186,Vendor-E (dummy),4005.51,2025-10-20
+EXP000765,JOB/2025/0099,3,Outsourced NDT / ultrasonic testing of axles,BILL/78606,Vendor-E (dummy),13925.49,2025-10-21
+EXP000766,JOB/2025/0099,8,Third-party brake test certification,BILL/34815,Vendor-B (dummy),4827.78,2025-11-21
+EXP000767,JOB/2025/0100,3,Outsourced NDT / ultrasonic testing of axles,BILL/93338,Vendor-C (dummy),9610.05,2025-10-21
+EXP000768,JOB/2025/0100,6,Outsourced AC plant overhaul,BILL/21384,Vendor-F (dummy),60331.11,2025-11-04
+EXP000769,JOB/2025/0101,3,Outsourced NDT / ultrasonic testing of axles,BILL/82214,Vendor-F (dummy),11355.21,2025-10-23
+EXP000770,JOB/2025/0102,3,Outsourced NDT / ultrasonic testing of axles,BILL/48537,Vendor-D (dummy),11570.1,2025-10-22
+EXP000771,JOB/2025/0102,6,Outsourced AC plant overhaul,BILL/81791,Vendor-D (dummy),65942.23,2025-11-04
+EXP000772,JOB/2025/0102,8,Third-party brake test certification,BILL/27412,Vendor-C (dummy),6765.34,2025-11-13
+EXP000773,JOB/2025/0105,3,Outsourced NDT / ultrasonic testing of axles,BILL/16416,Vendor-G (dummy),11902.34,2025-10-30
+EXP000774,JOB/2025/0105,6,Outsourced AC plant overhaul,BILL/61373,Vendor-C (dummy),51034.05,2025-11-17
+EXP000775,JOB/2025/0105,4,Hired scaffolding / crane,BILL/11244,Vendor-E (dummy),6526.35,2025-10-30
+EXP000776,JOB/2025/0106,3,Outsourced NDT / ultrasonic testing of axles,BILL/64090,Vendor-D (dummy),12493.63,2025-10-31
+EXP000777,JOB/2025/0107,3,Outsourced NDT / ultrasonic testing of axles,BILL/99704,Vendor-E (dummy),11057.07,2025-11-03
+EXP000778,JOB/2025/0107,6,Outsourced AC plant overhaul,BILL/87382,Vendor-B (dummy),69931.45,2025-11-15
+EXP000779,JOB/2025/0108,3,Outsourced NDT / ultrasonic testing of axles,BILL/12073,Vendor-E (dummy),14109.16,2025-11-04
+EXP000780,JOB/2025/0108,6,Outsourced AC plant overhaul,BILL/33185,Vendor-B (dummy),53109.12,2025-11-15
+EXP000781,JOB/2025/0109,3,Outsourced NDT / ultrasonic testing of axles,BILL/11200,Vendor-C (dummy),14745.76,2025-11-08
+EXP000782,JOB/2025/0109,6,Outsourced AC plant overhaul,BILL/79304,Vendor-B (dummy),53959.92,2025-11-17
+EXP000783,JOB/2025/0111,3,Outsourced NDT / ultrasonic testing of axles,BILL/77763,Vendor-A (dummy),14775.15,2025-11-13
+EXP000784,JOB/2025/0111,6,Outsourced AC plant overhaul,BILL/92212,Vendor-F (dummy),49791.63,2025-11-25
+EXP000785,JOB/2025/0111,8,Third-party brake test certification,BILL/21994,Vendor-F (dummy),6751.85,2025-12-04
+EXP000786,JOB/2025/0112,3,Outsourced NDT / ultrasonic testing of axles,BILL/53472,Vendor-C (dummy),10733.19,2025-11-14
+EXP000787,JOB/2025/0112,8,Third-party brake test certification,BILL/12231,Vendor-E (dummy),5947.35,2025-12-02
+EXP000788,JOB/2025/0113,3,Outsourced NDT / ultrasonic testing of axles,BILL/12745,Vendor-F (dummy),10023.98,2025-11-15
+EXP000789,JOB/2025/0113,4,Hired scaffolding / crane,BILL/37805,Vendor-A (dummy),10101.2,2025-11-15
+EXP000790,JOB/2025/0114,3,Outsourced NDT / ultrasonic testing of axles,BILL/98662,Vendor-G (dummy),10424.28,2025-11-20
+EXP000791,JOB/2025/0114,6,Outsourced AC plant overhaul,BILL/27596,Vendor-F (dummy),57610.56,2025-12-04
+EXP000792,JOB/2025/0115,3,Outsourced NDT / ultrasonic testing of axles,BILL/18399,Vendor-E (dummy),13833.58,2025-11-21
+EXP000793,JOB/2025/0115,6,Outsourced AC plant overhaul,BILL/80358,Vendor-A (dummy),69923.9,2025-12-05
+EXP000794,JOB/2025/0115,8,Third-party brake test certification,BILL/23173,Vendor-E (dummy),6698.02,2025-12-16
+EXP000795,JOB/2025/0116,3,Outsourced NDT / ultrasonic testing of axles,BILL/28785,Vendor-C (dummy),9659.28,2025-11-21
+EXP000796,JOB/2025/0116,8,Third-party brake test certification,BILL/28546,Vendor-G (dummy),4621.8,2025-12-12
+EXP000797,JOB/2025/0117,3,Outsourced NDT / ultrasonic testing of axles,BILL/59319,Vendor-G (dummy),13802.94,2025-11-24
+EXP000798,JOB/2025/0118,3,Outsourced NDT / ultrasonic testing of axles,BILL/17654,Vendor-F (dummy),14590.9,2025-11-26
+EXP000799,JOB/2025/0119,3,Outsourced NDT / ultrasonic testing of axles,BILL/45108,Vendor-D (dummy),9252.33,2025-11-28
+EXP000800,JOB/2025/0119,6,Outsourced AC plant overhaul,BILL/12051,Vendor-F (dummy),58514.8,2025-12-12
+EXP000801,JOB/2025/0120,3,Outsourced NDT / ultrasonic testing of axles,BILL/32928,Vendor-B (dummy),14403.11,2025-11-26
+EXP000802,JOB/2025/0120,8,Third-party brake test certification,BILL/12602,Vendor-E (dummy),6017.87,2025-12-02
+EXP000803,JOB/2025/0121,3,Outsourced NDT / ultrasonic testing of axles,BILL/54315,Vendor-F (dummy),9640.7,2025-12-01
+EXP000804,JOB/2025/0121,6,Outsourced AC plant overhaul,BILL/99136,Vendor-D (dummy),59022.43,2025-12-15
+EXP000805,JOB/2025/0121,8,Third-party brake test certification,BILL/36031,Vendor-F (dummy),5137.7,2025-12-26
+EXP000806,JOB/2025/0122,3,Outsourced NDT / ultrasonic testing of axles,BILL/22116,Vendor-E (dummy),12502.85,2025-11-29
+EXP000807,JOB/2025/0123,3,Outsourced NDT / ultrasonic testing of axles,BILL/38795,Vendor-C (dummy),9031.35,2025-12-05
+EXP000808,JOB/2025/0124,3,Outsourced NDT / ultrasonic testing of axles,BILL/99274,Vendor-A (dummy),15602.06,2025-12-06
+EXP000809,JOB/2025/0124,4,Hired scaffolding / crane,BILL/72473,Vendor-F (dummy),12699.93,2025-12-06
+EXP000810,JOB/2025/0125,3,Outsourced NDT / ultrasonic testing of axles,BILL/77237,Vendor-E (dummy),12618.87,2025-12-10
+EXP000811,JOB/2025/0125,6,Outsourced AC plant overhaul,BILL/31644,Vendor-C (dummy),50597.31,2025-12-29
+EXP000812,JOB/2025/0125,8,Third-party brake test certification,BILL/52219,Vendor-C (dummy),5323.79,2026-01-12
+EXP000813,JOB/2025/0125,4,Hired scaffolding / crane,BILL/44804,Vendor-C (dummy),13489.64,2025-12-10
+EXP000814,JOB/2025/0126,3,Outsourced NDT / ultrasonic testing of axles,BILL/68659,Vendor-D (dummy),13575.76,2025-12-11
+EXP000815,JOB/2025/0126,6,Outsourced AC plant overhaul,BILL/22258,Vendor-A (dummy),68714.52,2025-12-31
+EXP000816,JOB/2025/0126,8,Third-party brake test certification,BILL/21433,Vendor-E (dummy),4396.46,2026-01-15
+EXP000817,JOB/2025/0127,3,Outsourced NDT / ultrasonic testing of axles,BILL/62307,Vendor-C (dummy),10354.44,2025-12-11
+EXP000818,JOB/2025/0128,3,Outsourced NDT / ultrasonic testing of axles,BILL/76486,Vendor-A (dummy),14184.66,2025-12-10
+EXP000819,JOB/2025/0129,3,Outsourced NDT / ultrasonic testing of axles,BILL/55152,Vendor-F (dummy),11905.28,2025-12-15
+EXP000820,JOB/2025/0129,8,Third-party brake test certification,BILL/70568,Vendor-D (dummy),4489.48,2026-01-06
+EXP000821,JOB/2025/0130,3,Outsourced NDT / ultrasonic testing of axles,BILL/54377,Vendor-F (dummy),15215.28,2025-12-18
+EXP000822,JOB/2025/0130,8,Third-party brake test certification,BILL/40272,Vendor-E (dummy),4215.14,2026-01-19
+EXP000823,JOB/2025/0131,3,Outsourced NDT / ultrasonic testing of axles,BILL/68848,Vendor-F (dummy),11700.06,2025-12-19
+EXP000824,JOB/2025/0132,3,Outsourced NDT / ultrasonic testing of axles,BILL/76825,Vendor-A (dummy),11551.36,2025-12-20
+EXP000825,JOB/2025/0133,3,Outsourced NDT / ultrasonic testing of axles,BILL/12471,Vendor-A (dummy),9082.89,2025-12-22
+EXP000826,JOB/2025/0134,3,Outsourced NDT / ultrasonic testing of axles,BILL/38763,Vendor-B (dummy),13691.98,2025-12-27
+EXP000827,JOB/2025/0134,6,Outsourced AC plant overhaul,BILL/90987,Vendor-E (dummy),68293.14,2026-01-12
+EXP000828,JOB/2025/0135,3,Outsourced NDT / ultrasonic testing of axles,BILL/73839,Vendor-B (dummy),9597.67,2025-12-23
+EXP000829,JOB/2025/0135,4,Hired scaffolding / crane,BILL/26086,Vendor-G (dummy),12057.71,2025-12-23
+EXP000830,JOB/2025/0136,3,Outsourced NDT / ultrasonic testing of axles,BILL/67848,Vendor-B (dummy),14530.56,2025-12-26
+EXP000831,JOB/2025/0137,3,Outsourced NDT / ultrasonic testing of axles,BILL/47082,Vendor-E (dummy),13454.47,2026-01-03
+EXP000832,JOB/2025/0138,3,Outsourced NDT / ultrasonic testing of axles,BILL/60278,Vendor-E (dummy),14544.38,2026-01-05
+EXP000833,JOB/2025/0138,8,Third-party brake test certification,BILL/18839,Vendor-F (dummy),5282.06,2026-02-03
+EXP000834,JOB/2025/0139,3,Outsourced NDT / ultrasonic testing of axles,BILL/54173,Vendor-E (dummy),11718.23,2026-01-03
+EXP000835,JOB/2025/0139,8,Third-party brake test certification,BILL/87834,Vendor-D (dummy),6218.93,2026-01-22
+EXP000836,JOB/2025/0140,3,Outsourced NDT / ultrasonic testing of axles,BILL/85473,Vendor-G (dummy),13769.7,2026-01-07
+EXP000837,JOB/2025/0140,6,Outsourced AC plant overhaul,BILL/20603,Vendor-B (dummy),57912.1,2026-01-24
+EXP000838,JOB/2025/0141,3,Outsourced NDT / ultrasonic testing of axles,BILL/93664,Vendor-G (dummy),12789.15,2026-01-08
+EXP000839,JOB/2025/0141,6,Outsourced AC plant overhaul,BILL/33587,Vendor-E (dummy),58976.09,2026-01-28
+EXP000840,JOB/2025/0141,8,Third-party brake test certification,BILL/43152,Vendor-D (dummy),4064.19,2026-02-11
+EXP000841,JOB/2025/0142,3,Outsourced NDT / ultrasonic testing of axles,BILL/67204,Vendor-B (dummy),14754.21,2026-01-08
+EXP000842,JOB/2025/0143,3,Outsourced NDT / ultrasonic testing of axles,BILL/51742,Vendor-A (dummy),10398.18,2026-01-10
+EXP000843,JOB/2025/0143,6,Outsourced AC plant overhaul,BILL/10908,Vendor-D (dummy),45848.31,2026-01-28
+EXP000844,JOB/2025/0143,8,Third-party brake test certification,BILL/33504,Vendor-D (dummy),6805.53,2026-02-09
+EXP000845,JOB/2025/0144,3,Outsourced NDT / ultrasonic testing of axles,BILL/23661,Vendor-D (dummy),15116.04,2026-01-20
+EXP000846,JOB/2025/0145,3,Outsourced NDT / ultrasonic testing of axles,BILL/41196,Vendor-E (dummy),10932.88,2026-01-15
+EXP000847,JOB/2025/0145,6,Outsourced AC plant overhaul,BILL/32497,Vendor-D (dummy),57117.92,2026-01-29
+EXP000848,JOB/2025/0146,3,Outsourced NDT / ultrasonic testing of axles,BILL/41363,Vendor-B (dummy),15658.06,2026-01-14
+EXP000849,JOB/2025/0146,8,Third-party brake test certification,BILL/24573,Vendor-E (dummy),5536.82,2026-01-20
+EXP000850,JOB/2025/0147,3,Outsourced NDT / ultrasonic testing of axles,BILL/27491,Vendor-B (dummy),11633.82,2026-01-19
+EXP000851,JOB/2025/0148,3,Outsourced NDT / ultrasonic testing of axles,BILL/86413,Vendor-D (dummy),12317.71,2026-01-19
+EXP000852,JOB/2025/0148,8,Third-party brake test certification,BILL/88174,Vendor-E (dummy),4600.72,2026-02-07
+EXP000853,JOB/2025/0149,3,Outsourced NDT / ultrasonic testing of axles,BILL/53465,Vendor-B (dummy),15337.27,2026-01-22
+EXP000854,JOB/2025/0149,6,Outsourced AC plant overhaul,BILL/64613,Vendor-E (dummy),60408.37,2026-02-06
+EXP000855,JOB/2025/0150,3,Outsourced NDT / ultrasonic testing of axles,BILL/99667,Vendor-A (dummy),11535.11,2026-01-23
+EXP000856,JOB/2025/0151,3,Outsourced NDT / ultrasonic testing of axles,BILL/51030,Vendor-A (dummy),12492.1,2026-01-27
+EXP000857,JOB/2025/0151,6,Outsourced AC plant overhaul,BILL/42152,Vendor-B (dummy),48278.08,2026-02-13
+EXP000858,JOB/2025/0152,3,Outsourced NDT / ultrasonic testing of axles,BILL/48856,Vendor-G (dummy),9828.81,2026-01-28
+EXP000859,JOB/2025/0152,6,Outsourced AC plant overhaul,BILL/21912,Vendor-G (dummy),49294.84,2026-02-10
+EXP000860,JOB/2025/0152,8,Third-party brake test certification,BILL/80607,Vendor-C (dummy),4198.13,2026-02-19
+EXP000861,JOB/2025/0153,3,Outsourced NDT / ultrasonic testing of axles,BILL/95023,Vendor-E (dummy),13686.55,2026-01-31
+EXP000862,JOB/2025/0154,3,Outsourced NDT / ultrasonic testing of axles,BILL/19535,Vendor-C (dummy),14971.31,2026-02-03
+EXP000863,JOB/2025/0154,6,Outsourced AC plant overhaul,BILL/73996,Vendor-C (dummy),53376.74,2026-02-17
+EXP000864,JOB/2025/0154,8,Third-party brake test certification,BILL/97701,Vendor-G (dummy),5596.86,2026-02-28
+EXP000865,JOB/2025/0155,3,Outsourced NDT / ultrasonic testing of axles,BILL/62456,Vendor-F (dummy),13104.85,2026-02-03
+EXP000866,JOB/2025/0155,4,Hired scaffolding / crane,BILL/35428,Vendor-E (dummy),10370.32,2026-02-03
+EXP000867,JOB/2025/0156,3,Outsourced NDT / ultrasonic testing of axles,BILL/17172,Vendor-A (dummy),13694.45,2026-02-05
+EXP000868,JOB/2025/0156,6,Outsourced AC plant overhaul,BILL/64327,Vendor-D (dummy),62946.84,2026-02-17
+EXP000869,JOB/2025/0157,3,Outsourced NDT / ultrasonic testing of axles,BILL/54766,Vendor-F (dummy),13861.3,2026-02-05
+EXP000870,JOB/2025/0157,6,Outsourced AC plant overhaul,BILL/28805,Vendor-B (dummy),62571.51,2026-02-16
+EXP000871,JOB/2025/0157,4,Hired scaffolding / crane,BILL/36888,Vendor-A (dummy),13710.15,2026-02-05
+EXP000872,JOB/2025/0158,3,Outsourced NDT / ultrasonic testing of axles,BILL/79732,Vendor-F (dummy),11984.51,2026-02-06
+EXP000873,JOB/2025/0159,3,Outsourced NDT / ultrasonic testing of axles,BILL/91920,Vendor-B (dummy),15449.41,2026-02-07
+EXP000874,JOB/2025/0160,3,Outsourced NDT / ultrasonic testing of axles,BILL/17275,Vendor-D (dummy),15273.31,2026-02-09
+EXP000875,JOB/2025/0161,3,Outsourced NDT / ultrasonic testing of axles,BILL/67962,Vendor-E (dummy),9113.22,2026-02-14
+EXP000876,JOB/2025/0161,6,Outsourced AC plant overhaul,BILL/89385,Vendor-G (dummy),59012.77,2026-02-25
+EXP000877,JOB/2025/0162,3,Outsourced NDT / ultrasonic testing of axles,BILL/21859,Vendor-F (dummy),14352.27,2026-02-17
+EXP000878,JOB/2025/0163,3,Outsourced NDT / ultrasonic testing of axles,BILL/14454,Vendor-D (dummy),9571.84,2026-02-20
+EXP000879,JOB/2025/0163,6,Outsourced AC plant overhaul,BILL/48337,Vendor-F (dummy),64368.99,2026-03-04
+EXP000880,JOB/2025/0164,3,Outsourced NDT / ultrasonic testing of axles,BILL/90081,Vendor-F (dummy),12170.07,2026-02-26
+EXP000881,JOB/2025/0164,6,Outsourced AC plant overhaul,BILL/29209,Vendor-D (dummy),48651.86,2026-03-20
+EXP000882,JOB/2025/0164,8,Third-party brake test certification,BILL/26291,Vendor-E (dummy),5755.12,2026-04-08
+EXP000883,JOB/2025/0165,3,Outsourced NDT / ultrasonic testing of axles,BILL/54398,Vendor-D (dummy),13685.85,2026-02-23
+EXP000884,JOB/2025/0166,3,Outsourced NDT / ultrasonic testing of axles,BILL/99109,Vendor-B (dummy),9553.53,2026-02-25
+EXP000885,JOB/2025/0166,8,Third-party brake test certification,BILL/14160,Vendor-G (dummy),4075.31,2026-03-21
+EXP000886,JOB/2025/0167,3,Outsourced NDT / ultrasonic testing of axles,BILL/67941,Vendor-B (dummy),14241.02,2026-02-23
+EXP000887,JOB/2025/0167,8,Third-party brake test certification,BILL/94079,Vendor-E (dummy),4134.08,2026-03-02
+EXP000888,JOB/2025/0167,4,Hired scaffolding / crane,BILL/46712,Vendor-B (dummy),11323.13,2026-02-23
+EXP000889,JOB/2025/0168,3,Outsourced NDT / ultrasonic testing of axles,BILL/73540,Vendor-G (dummy),15293.29,2026-02-24
+EXP000890,JOB/2025/0168,8,Third-party brake test certification,BILL/80353,Vendor-C (dummy),4165.18,2026-03-03
+EXP000891,JOB/2025/0169,3,Outsourced NDT / ultrasonic testing of axles,BILL/61498,Vendor-B (dummy),10275.3,2026-03-02
+EXP000892,JOB/2025/0169,6,Outsourced AC plant overhaul,BILL/94709,Vendor-F (dummy),63977.73,2026-03-14
+EXP000893,JOB/2025/0169,8,Third-party brake test certification,BILL/53760,Vendor-F (dummy),5344.25,2026-03-25
+EXP000894,JOB/2025/0170,3,Outsourced NDT / ultrasonic testing of axles,BILL/58276,Vendor-F (dummy),13093.78,2026-03-03
+EXP000895,JOB/2025/0170,6,Outsourced AC plant overhaul,BILL/58071,Vendor-D (dummy),64966.5,2026-03-17
+EXP000896,JOB/2025/0170,4,Hired scaffolding / crane,BILL/66744,Vendor-E (dummy),7952.03,2026-03-03
+EXP000897,JOB/2025/0171,6,Outsourced AC plant overhaul,BILL/50551,Vendor-F (dummy),68385.41,2026-03-17
+EXP000898,JOB/2025/0171,4,Hired scaffolding / crane,BILL/38857,Vendor-B (dummy),7415.79,2026-03-05
+EXP000899,JOB/2025/0172,3,Outsourced NDT / ultrasonic testing of axles,BILL/37546,Vendor-E (dummy),13242.28,2026-03-06
+EXP000900,JOB/2025/0173,3,Outsourced NDT / ultrasonic testing of axles,BILL/95934,Vendor-A (dummy),12324.58,2026-03-10
+EXP000901,JOB/2025/0173,6,Outsourced AC plant overhaul,BILL/81491,Vendor-E (dummy),45029.98,2026-03-20
+EXP000902,JOB/2025/0174,3,Outsourced NDT / ultrasonic testing of axles,BILL/79206,Vendor-C (dummy),9311.86,2026-03-12
+EXP000903,JOB/2025/0175,3,Outsourced NDT / ultrasonic testing of axles,BILL/21590,Vendor-A (dummy),12673.5,2026-03-19
+EXP000904,JOB/2025/0175,8,Third-party brake test certification,BILL/76667,Vendor-C (dummy),6177.68,2026-05-08
+EXP000905,JOB/2025/0176,3,Outsourced NDT / ultrasonic testing of axles,BILL/24918,Vendor-E (dummy),14880.89,2026-03-13
+EXP000906,JOB/2025/0176,8,Third-party brake test certification,BILL/57679,Vendor-D (dummy),5443.31,2026-03-21
+EXP000907,JOB/2025/0177,3,Outsourced NDT / ultrasonic testing of axles,BILL/75026,Vendor-G (dummy),13266.09,2026-03-17
+EXP000908,JOB/2025/0177,6,Outsourced AC plant overhaul,BILL/39971,Vendor-A (dummy),47155.46,2026-03-27
+EXP000909,JOB/2025/0177,8,Third-party brake test certification,BILL/66860,Vendor-B (dummy),4652.58,2026-04-04
+EXP000910,JOB/2025/0178,3,Outsourced NDT / ultrasonic testing of axles,BILL/72725,Vendor-C (dummy),13205.54,2026-03-24
+EXP000911,JOB/2025/0179,3,Outsourced NDT / ultrasonic testing of axles,BILL/44347,Vendor-E (dummy),12737.0,2026-03-25
+EXP000912,JOB/2025/0180,3,Outsourced NDT / ultrasonic testing of axles,BILL/34787,Vendor-C (dummy),10278.13,2026-03-25
+EXP000913,JOB/2025/0180,6,Outsourced AC plant overhaul,BILL/35605,Vendor-B (dummy),57599.1,2026-04-09
+EXP000914,JOB/2023/0127,5,Outsourced coupler repair,BILL/80530,Vendor-Z (dummy),58433.73,2024-01-04
+EXP000915,JOB/2023/0037,5,Outsourced coupler repair,BILL/21768,Vendor-Z (dummy),46069.13,2023-07-14
+EXP000916,JOB/2025/0095,5,Outsourced coupler repair,BILL/27116,Vendor-Z (dummy),31155.41,2025-12-20
+EXP000917,JOB/2024/0115,5,Outsourced coupler repair,BILL/66736,Vendor-Z (dummy),46269.51,2025-01-10
+EXP000918,JOB/2024/0066,5,Outsourced coupler repair,BILL/13965,Vendor-Z (dummy),49747.8,2024-09-27
+EXP000919,JOB/2024/0147,5,Outsourced coupler repair,BILL/70823,Vendor-Z (dummy),30626.7,2025-03-07
+EXP000920,JOB/2024/0078,5,Outsourced coupler repair,BILL/99316,Vendor-Z (dummy),37397.79,2024-09-30
+EXP000921,JOB/2023/0111,5,Outsourced coupler repair,BILL/31948,Vendor-Z (dummy),49739.84,2023-11-27

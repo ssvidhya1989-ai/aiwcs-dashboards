@@ -1,0 +1,392 @@
+anomaly_id,anomaly_type,table,record_ref,job_no,detail,in_historical_labels
+ANM0001,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2025/0171,~204 extra hours booked in Body shop,Y
+ANM0002,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2024/0095,~138 extra hours booked in Body shop,Y
+ANM0003,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2023/0160,~234 extra hours booked in Body shop,Y
+ANM0004,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2024/0079,~66 extra hours booked in Bogie shop,Y
+ANM0005,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2024/0164,~276 extra hours booked in Bogie shop,Y
+ANM0006,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2024/0107,~228 extra hours booked in Body shop,Y
+ANM0007,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2025/0034,~204 extra hours booked in Body shop,Y
+ANM0008,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2025/0166,~240 extra hours booked in Body shop,N
+ANM0009,Excess labour hours on coach-shop,labour_bookings,shop 4,JOB/2024/0004,~240 extra hours booked in Body shop,Y
+ANM0010,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2023/0048,~222 extra hours booked in Bogie shop,Y
+ANM0011,Excess labour hours on coach-shop,labour_bookings,shop 6,JOB/2025/0133,~156 extra hours booked in Electrical & Furnishing shop,Y
+ANM0012,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2023/0091,~252 extra hours booked in Bogie shop,Y
+ANM0013,Excess labour hours on coach-shop,labour_bookings,shop 6,JOB/2024/0015,~240 extra hours booked in Electrical & Furnishing shop,N
+ANM0014,Excess labour hours on coach-shop,labour_bookings,shop 3,JOB/2025/0039,~294 extra hours booked in Bogie shop,Y
+ANM0015,Hours booked while on leave,labour_bookings,LB0132893,JOB/2023/0003,STF0172 on leave 2026-02-02,Y
+ANM0016,Hours booked while on leave,labour_bookings,LB0132894,JOB/2023/0059,STF0136 on leave 2023-07-22,N
+ANM0017,Hours booked while on leave,labour_bookings,LB0132895,JOB/2025/0050,STF0151 on leave 2025-03-15,Y
+ANM0018,Hours booked while on leave,labour_bookings,LB0132896,JOB/2024/0045,STF0125 on leave 2024-12-03,Y
+ANM0019,Hours booked while on leave,labour_bookings,LB0132897,JOB/2024/0084,STF0154 on leave 2023-12-07,Y
+ANM0020,Hours booked while on leave,labour_bookings,LB0132898,JOB/2025/0031,STF0194 on leave 2026-01-22,Y
+ANM0021,Hours booked while on leave,labour_bookings,LB0132899,JOB/2025/0063,STF0098 on leave 2024-10-04,Y
+ANM0022,Hours booked while on leave,labour_bookings,LB0132900,JOB/2024/0034,STF0143 on leave 2026-06-19,N
+ANM0023,Hours booked while on leave,labour_bookings,LB0132901,JOB/2023/0099,STF0103 on leave 2026-05-25,Y
+ANM0024,Hours booked while on leave,labour_bookings,LB0132902,JOB/2023/0170,STF0060 on leave 2024-05-10,Y
+ANM0025,Hours booked while on leave,labour_bookings,LB0132903,JOB/2024/0090,STF0072 on leave 2025-10-28,N
+ANM0026,Hours booked while on leave,labour_bookings,LB0132904,JOB/2023/0114,STF0058 on leave 2023-07-07,N
+ANM0027,Hours booked while on leave,labour_bookings,LB0132905,JOB/2023/0005,STF0129 on leave 2024-05-27,Y
+ANM0028,Hours booked while on leave,labour_bookings,LB0132906,JOB/2023/0061,STF0012 on leave 2024-09-17,Y
+ANM0029,Hours booked while on leave,labour_bookings,LB0132907,JOB/2023/0149,STF0150 on leave 2025-02-18,Y
+ANM0030,Hours booked while on leave,labour_bookings,LB0132908,JOB/2024/0009,STF0115 on leave 2026-03-04,Y
+ANM0031,Hours booked while on leave,labour_bookings,LB0132909,JOB/2023/0134,STF0174 on leave 2024-02-05,N
+ANM0032,Hours booked while on leave,labour_bookings,LB0132910,JOB/2025/0104,STF0159 on leave 2024-07-12,N
+ANM0033,Hours booked while on leave,labour_bookings,LB0132911,JOB/2023/0170,STF0065 on leave 2023-04-27,Y
+ANM0034,Hours booked while on leave,labour_bookings,LB0132912,JOB/2025/0071,STF0100 on leave 2023-07-10,Y
+ANM0035,Hours booked while on leave,labour_bookings,LB0132913,JOB/2023/0042,STF0115 on leave 2025-11-29,N
+ANM0036,Hours booked while on leave,labour_bookings,LB0132914,JOB/2023/0123,STF0138 on leave 2023-05-13,Y
+ANM0037,Hours booked while on leave,labour_bookings,LB0132915,JOB/2025/0122,STF0052 on leave 2025-08-22,N
+ANM0038,Hours booked while on leave,labour_bookings,LB0132916,JOB/2023/0149,STF0013 on leave 2025-05-29,Y
+ANM0039,Hours booked while on leave,labour_bookings,LB0132917,JOB/2025/0057,STF0081 on leave 2025-11-29,Y
+ANM0040,Repeated drawal of same item (excess over need),material_issues,PL10010008,JOB/2025/0003,2 extra issues of PL10010008,Y
+ANM0041,Repeated drawal of same item (excess over need),material_issues,PL10050002,JOB/2023/0035,2 extra issues of PL10050002,Y
+ANM0042,Repeated drawal of same item (excess over need),material_issues,PL10030002,JOB/2024/0027,2 extra issues of PL10030002,Y
+ANM0043,Repeated drawal of same item (excess over need),material_issues,PL10010011,JOB/2024/0083,3 extra issues of PL10010011,Y
+ANM0044,Repeated drawal of same item (excess over need),material_issues,PL10050004,JOB/2024/0124,3 extra issues of PL10050004,Y
+ANM0045,Repeated drawal of same item (excess over need),material_issues,PL10040003,JOB/2025/0155,2 extra issues of PL10040003,Y
+ANM0046,Repeated drawal of same item (excess over need),material_issues,PL10010010,JOB/2024/0061,2 extra issues of PL10010010,N
+ANM0047,Repeated drawal of same item (excess over need),material_issues,PL10040002,JOB/2023/0091,2 extra issues of PL10040002,Y
+ANM0048,Repeated drawal of same item (excess over need),material_issues,PL10030002,JOB/2025/0057,3 extra issues of PL10030002,Y
+ANM0049,Repeated drawal of same item (excess over need),material_issues,PL10010002,JOB/2024/0179,3 extra issues of PL10010002,Y
+ANM0050,Repeated drawal of same item (excess over need),material_issues,PL10050003,JOB/2024/0099,2 extra issues of PL10050003,N
+ANM0051,Repeated drawal of same item (excess over need),material_issues,PL10020001,JOB/2025/0154,2 extra issues of PL10020001,N
+ANM0052,Repeated drawal of same item (excess over need),material_issues,PL10020003,JOB/2025/0005,3 extra issues of PL10020003,N
+ANM0053,Repeated drawal of same item (excess over need),material_issues,PL10050003,JOB/2023/0129,2 extra issues of PL10050003,N
+ANM0054,Repeated drawal of same item (excess over need),material_issues,PL10020003,JOB/2023/0156,2 extra issues of PL10020003,N
+ANM0055,Repeated drawal of same item (excess over need),material_issues,PL10020003,JOB/2023/0063,3 extra issues of PL10020003,N
+ANM0056,Repeated drawal of same item (excess over need),material_issues,PL10050004,JOB/2025/0129,2 extra issues of PL10050004,N
+ANM0057,Repeated drawal of same item (excess over need),material_issues,PL10010005,JOB/2023/0064,2 extra issues of PL10010005,Y
+ANM0058,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000914,JOB/2023/0127,"dated 2024-01-04, after dispatch 2023-12-18",Y
+ANM0059,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000915,JOB/2023/0037,"dated 2023-07-14, after dispatch 2023-06-27",Y
+ANM0060,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000916,JOB/2025/0095,"dated 2025-12-20, after dispatch 2025-12-15",N
+ANM0061,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000917,JOB/2024/0115,"dated 2025-01-10, after dispatch 2024-12-24",Y
+ANM0062,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000918,JOB/2024/0066,"dated 2024-09-27, after dispatch 2024-09-05",Y
+ANM0063,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000919,JOB/2024/0147,"dated 2025-03-07, after dispatch 2025-02-17",N
+ANM0064,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000920,JOB/2024/0078,"dated 2024-09-30, after dispatch 2024-09-10",Y
+ANM0065,Expense booked after coach dispatch / no matching work,direct_expenses,EXP000921,JOB/2023/0111,"dated 2023-11-27, after dispatch 2023-11-21",Y
+ANM0066,Year-end issue to already dispatched coach,material_issues,IN/0015669,JOB/2023/0088,PL10020003 x60 on 2024-03-31,Y
+ANM0067,Year-end issue to already dispatched coach,material_issues,IN/0015670,JOB/2023/0017,PL10020003 x60 on 2024-03-31,Y
+ANM0068,Year-end issue to already dispatched coach,material_issues,IN/0015671,JOB/2023/0152,PL10050001 x120 on 2024-03-31,N
+ANM0069,Year-end issue to already dispatched coach,material_issues,IN/0015672,JOB/2023/0086,PL10050001 x120 on 2024-03-31,Y
+ANM0070,Year-end issue to already dispatched coach,material_issues,IN/0015673,JOB/2023/0097,PL10040002 x400 on 2024-03-31,Y
+ANM0071,Year-end issue to already dispatched coach,material_issues,IN/0015674,JOB/2024/0155,PL10040002 x400 on 2025-03-31,Y
+ANM0072,Year-end issue to already dispatched coach,material_issues,IN/0015675,JOB/2024/0074,PL10050001 x120 on 2025-03-31,N
+ANM0073,Year-end issue to already dispatched coach,material_issues,IN/0015676,JOB/2024/0066,PL10040002 x400 on 2025-03-31,N
+ANM0074,Year-end issue to already dispatched coach,material_issues,IN/0015677,JOB/2024/0098,PL10050001 x120 on 2025-03-31,Y
+ANM0075,Year-end issue to already dispatched coach,material_issues,IN/0015678,JOB/2024/0077,PL10050001 x120 on 2025-03-31,Y
+ANM0076,Year-end issue to already dispatched coach,material_issues,IN/0015679,JOB/2025/0065,PL10020003 x60 on 2026-03-31,Y
+ANM0077,Year-end issue to already dispatched coach,material_issues,IN/0015680,JOB/2025/0073,PL10050001 x120 on 2026-03-31,Y
+ANM0078,Year-end issue to already dispatched coach,material_issues,IN/0015681,JOB/2025/0097,PL10050001 x120 on 2026-03-31,Y
+ANM0079,Year-end issue to already dispatched coach,material_issues,IN/0015682,JOB/2025/0051,PL10040002 x400 on 2026-03-31,Y
+ANM0080,Year-end issue to already dispatched coach,material_issues,IN/0015683,JOB/2025/0160,PL10040002 x400 on 2026-03-31,Y
+ANM0081,Missing job number on stores issue (data quality),material_issues,IN/0011807,JOB/2025/0049,job_no blanked,N
+ANM0082,Missing job number on stores issue (data quality),material_issues,IN/0014106,JOB/2025/0129,job_no blanked,N
+ANM0083,Missing job number on stores issue (data quality),material_issues,IN/0006736,JOB/2024/0052,job_no blanked,N
+ANM0084,Missing job number on stores issue (data quality),material_issues,IN/0011458,JOB/2025/0036,job_no blanked,N
+ANM0085,Missing job number on stores issue (data quality),material_issues,IN/0002513,JOB/2023/0087,job_no blanked,N
+ANM0086,Missing job number on stores issue (data quality),material_issues,IN/0005494,JOB/2024/0009,job_no blanked,N
+ANM0087,Missing job number on stores issue (data quality),material_issues,IN/0003038,JOB/2023/0104,job_no blanked,N
+ANM0088,Missing job number on stores issue (data quality),material_issues,IN/0002124,JOB/2023/0073,job_no blanked,N
+ANM0089,Missing job number on stores issue (data quality),material_issues,IN/0014316,JOB/2025/0136,job_no blanked,N
+ANM0090,Missing job number on stores issue (data quality),material_issues,IN/0001488,JOB/2023/0051,job_no blanked,N
+ANM0091,Missing job number on stores issue (data quality),material_issues,IN/0013749,JOB/2025/0116,job_no blanked,N
+ANM0092,Missing job number on stores issue (data quality),material_issues,IN/0001921,JOB/2023/0066,job_no blanked,N
+ANM0093,Missing job number on stores issue (data quality),material_issues,IN/0000575,JOB/2023/0020,job_no blanked,N
+ANM0094,Missing job number on stores issue (data quality),material_issues,IN/0002669,JOB/2023/0092,job_no blanked,N
+ANM0095,Missing job number on stores issue (data quality),material_issues,IN/0007914,JOB/2024/0093,job_no blanked,N
+ANM0096,Missing job number on stores issue (data quality),material_issues,IN/0010584,JOB/2025/0005,job_no blanked,N
+ANM0097,Missing job number on stores issue (data quality),material_issues,IN/0015650,JOB/2024/0179,job_no blanked,N
+ANM0098,Missing job number on stores issue (data quality),material_issues,IN/0000042,JOB/2023/0002,job_no blanked,N
+ANM0099,Missing job number on stores issue (data quality),material_issues,IN/0010481,JOB/2025/0002,job_no blanked,N
+ANM0100,Missing job number on stores issue (data quality),material_issues,IN/0013460,JOB/2025/0106,job_no blanked,N
+ANM0101,Missing job number on stores issue (data quality),material_issues,IN/0000835,JOB/2023/0029,job_no blanked,N
+ANM0102,Missing job number on stores issue (data quality),material_issues,IN/0001464,JOB/2023/0050,job_no blanked,N
+ANM0103,Missing job number on stores issue (data quality),material_issues,IN/0014953,JOB/2025/0157,job_no blanked,N
+ANM0104,Missing job number on stores issue (data quality),material_issues,IN/0012951,JOB/2025/0089,job_no blanked,N
+ANM0105,Missing job number on stores issue (data quality),material_issues,IN/0015583,JOB/2025/0179,job_no blanked,N
+ANM0106,Missing job number on stores issue (data quality),material_issues,IN/0008477,JOB/2024/0113,job_no blanked,N
+ANM0107,Missing job number on stores issue (data quality),material_issues,IN/0010055,JOB/2024/0167,job_no blanked,N
+ANM0108,Missing job number on stores issue (data quality),material_issues,IN/0014888,JOB/2025/0155,job_no blanked,N
+ANM0109,Missing job number on stores issue (data quality),material_issues,IN/0008756,JOB/2024/0122,job_no blanked,N
+ANM0110,Missing job number on stores issue (data quality),material_issues,IN/0012411,JOB/2025/0070,job_no blanked,N
+ANM0111,Unaccounted labour hours (no idle record),attendance / idle_time,STF0185 2025-07-14,,3.0 h attended but neither booked nor idle,N
+ANM0112,Unaccounted labour hours (no idle record),attendance / idle_time,STF0070 2025-04-11,,8.0 h attended but neither booked nor idle,N
+ANM0113,Unaccounted labour hours (no idle record),attendance / idle_time,STF0185 2026-04-09,,8.0 h attended but neither booked nor idle,N
+ANM0114,Unaccounted labour hours (no idle record),attendance / idle_time,STF0012 2025-02-01,,3.0 h attended but neither booked nor idle,N
+ANM0115,Unaccounted labour hours (no idle record),attendance / idle_time,STF0050 2026-02-26,,8.0 h attended but neither booked nor idle,N
+ANM0116,Unaccounted labour hours (no idle record),attendance / idle_time,STF0161 2025-10-29,,8.0 h attended but neither booked nor idle,N
+ANM0117,Unaccounted labour hours (no idle record),attendance / idle_time,STF0106 2024-03-20,,8.0 h attended but neither booked nor idle,N
+ANM0118,Unaccounted labour hours (no idle record),attendance / idle_time,STF0108 2024-03-19,,8.0 h attended but neither booked nor idle,N
+ANM0119,Unaccounted labour hours (no idle record),attendance / idle_time,STF0110 2026-04-22,,8.0 h attended but neither booked nor idle,N
+ANM0120,Unaccounted labour hours (no idle record),attendance / idle_time,STF0058 2026-05-02,,8.0 h attended but neither booked nor idle,N
+ANM0121,Unaccounted labour hours (no idle record),attendance / idle_time,STF0025 2025-12-01,,8.0 h attended but neither booked nor idle,N
+ANM0122,Unaccounted labour hours (no idle record),attendance / idle_time,STF0071 2023-07-20,,8.0 h attended but neither booked nor idle,N
+ANM0123,Unaccounted labour hours (no idle record),attendance / idle_time,STF0109 2024-10-11,,8.0 h attended but neither booked nor idle,N
+ANM0124,Unaccounted labour hours (no idle record),attendance / idle_time,STF0161 2025-03-14,,2.0 h attended but neither booked nor idle,N
+ANM0125,Unaccounted labour hours (no idle record),attendance / idle_time,STF0155 2026-04-28,,8.0 h attended but neither booked nor idle,N
+ANM0126,Unaccounted labour hours (no idle record),attendance / idle_time,STF0080 2026-05-28,,8.0 h attended but neither booked nor idle,N
+ANM0127,Unaccounted labour hours (no idle record),attendance / idle_time,STF0121 2024-11-05,,8.0 h attended but neither booked nor idle,N
+ANM0128,Unaccounted labour hours (no idle record),attendance / idle_time,STF0102 2025-08-22,,8.0 h attended but neither booked nor idle,N
+ANM0129,Unaccounted labour hours (no idle record),attendance / idle_time,STF0080 2025-03-24,,7.0 h attended but neither booked nor idle,N
+ANM0130,Unaccounted labour hours (no idle record),attendance / idle_time,STF0147 2024-03-26,,8.0 h attended but neither booked nor idle,N
+ANM0131,Unaccounted labour hours (no idle record),attendance / idle_time,STF0045 2024-01-20,,8.0 h attended but neither booked nor idle,N
+ANM0132,Unaccounted labour hours (no idle record),attendance / idle_time,STF0158 2025-12-05,,7.0 h attended but neither booked nor idle,N
+ANM0133,Unaccounted labour hours (no idle record),attendance / idle_time,STF0155 2026-01-13,,8.0 h attended but neither booked nor idle,N
+ANM0134,Unaccounted labour hours (no idle record),attendance / idle_time,STF0055 2024-05-21,,8.0 h attended but neither booked nor idle,N
+ANM0135,Unaccounted labour hours (no idle record),attendance / idle_time,STF0177 2023-11-08,,8.0 h attended but neither booked nor idle,N
+ANM0136,Unaccounted labour hours (no idle record),attendance / idle_time,STF0011 2025-10-07,,8.0 h attended but neither booked nor idle,N
+ANM0137,Unaccounted labour hours (no idle record),attendance / idle_time,STF0134 2024-09-10,,8.0 h attended but neither booked nor idle,N
+ANM0138,Unaccounted labour hours (no idle record),attendance / idle_time,STF0052 2026-03-27,,8.0 h attended but neither booked nor idle,N
+ANM0139,Unaccounted labour hours (no idle record),attendance / idle_time,STF0106 2025-06-23,,8.0 h attended but neither booked nor idle,N
+ANM0140,Unaccounted labour hours (no idle record),attendance / idle_time,STF0073 2023-06-24,,8.0 h attended but neither booked nor idle,N
+ANM0141,Unaccounted labour hours (no idle record),attendance / idle_time,STF0014 2023-09-13,,8.0 h attended but neither booked nor idle,N
+ANM0142,Unaccounted labour hours (no idle record),attendance / idle_time,STF0060 2023-07-26,,7.0 h attended but neither booked nor idle,N
+ANM0143,Unaccounted labour hours (no idle record),attendance / idle_time,STF0115 2024-02-22,,8.0 h attended but neither booked nor idle,N
+ANM0144,Unaccounted labour hours (no idle record),attendance / idle_time,STF0130 2025-02-25,,8.0 h attended but neither booked nor idle,N
+ANM0145,Unaccounted labour hours (no idle record),attendance / idle_time,STF0007 2026-04-15,,8.0 h attended but neither booked nor idle,N
+ANM0146,Unaccounted labour hours (no idle record),attendance / idle_time,STF0176 2023-08-08,,8.0 h attended but neither booked nor idle,N
+ANM0147,Unaccounted labour hours (no idle record),attendance / idle_time,STF0048 2024-10-28,,8.0 h attended but neither booked nor idle,N
+ANM0148,Unaccounted labour hours (no idle record),attendance / idle_time,STF0029 2025-05-13,,8.0 h attended but neither booked nor idle,N
+ANM0149,Unaccounted labour hours (no idle record),attendance / idle_time,STF0119 2025-04-15,,8.0 h attended but neither booked nor idle,N
+ANM0150,Unaccounted labour hours (no idle record),attendance / idle_time,STF0021 2023-04-04,,8.0 h attended but neither booked nor idle,N
+ANM0151,Unaccounted labour hours (no idle record),attendance / idle_time,STF0003 2023-11-28,,8.0 h attended but neither booked nor idle,N
+ANM0152,Unaccounted labour hours (no idle record),attendance / idle_time,STF0112 2026-05-21,,8.0 h attended but neither booked nor idle,N
+ANM0153,Unaccounted labour hours (no idle record),attendance / idle_time,STF0105 2024-03-26,,8.0 h attended but neither booked nor idle,N
+ANM0154,Unaccounted labour hours (no idle record),attendance / idle_time,STF0144 2024-09-16,,8.0 h attended but neither booked nor idle,N
+ANM0155,Unaccounted labour hours (no idle record),attendance / idle_time,STF0131 2024-08-22,,8.0 h attended but neither booked nor idle,N
+ANM0156,Unaccounted labour hours (no idle record),attendance / idle_time,STF0011 2023-05-30,,8.0 h attended but neither booked nor idle,N
+ANM0157,Unaccounted labour hours (no idle record),attendance / idle_time,STF0184 2023-06-12,,8.0 h attended but neither booked nor idle,N
+ANM0158,Unaccounted labour hours (no idle record),attendance / idle_time,STF0070 2025-06-02,,8.0 h attended but neither booked nor idle,N
+ANM0159,Unaccounted labour hours (no idle record),attendance / idle_time,STF0003 2026-01-16,,8.0 h attended but neither booked nor idle,N
+ANM0160,Unaccounted labour hours (no idle record),attendance / idle_time,STF0060 2026-05-22,,8.0 h attended but neither booked nor idle,N
+ANM0161,Unaccounted labour hours (no idle record),attendance / idle_time,STF0143 2023-11-02,,8.0 h attended but neither booked nor idle,N
+ANM0162,Unaccounted labour hours (no idle record),attendance / idle_time,STF0135 2024-09-02,,8.0 h attended but neither booked nor idle,N
+ANM0163,Unaccounted labour hours (no idle record),attendance / idle_time,STF0016 2024-07-23,,8.0 h attended but neither booked nor idle,N
+ANM0164,Unaccounted labour hours (no idle record),attendance / idle_time,STF0049 2026-05-04,,8.0 h attended but neither booked nor idle,N
+ANM0165,Unaccounted labour hours (no idle record),attendance / idle_time,STF0072 2026-01-14,,3.0 h attended but neither booked nor idle,N
+ANM0166,Unaccounted labour hours (no idle record),attendance / idle_time,STF0115 2026-01-08,,8.0 h attended but neither booked nor idle,N
+ANM0167,Unaccounted labour hours (no idle record),attendance / idle_time,STF0007 2024-02-05,,8.0 h attended but neither booked nor idle,N
+ANM0168,Unaccounted labour hours (no idle record),attendance / idle_time,STF0158 2024-09-14,,8.0 h attended but neither booked nor idle,N
+ANM0169,Unaccounted labour hours (no idle record),attendance / idle_time,STF0081 2023-04-03,,8.0 h attended but neither booked nor idle,N
+ANM0170,Unaccounted labour hours (no idle record),attendance / idle_time,STF0172 2024-07-24,,3.0 h attended but neither booked nor idle,N
+ANM0171,Unaccounted labour hours (no idle record),attendance / idle_time,STF0190 2024-06-24,,8.0 h attended but neither booked nor idle,N
+ANM0172,Unaccounted labour hours (no idle record),attendance / idle_time,STF0184 2024-09-30,,8.0 h attended but neither booked nor idle,N
+ANM0173,Unaccounted labour hours (no idle record),attendance / idle_time,STF0040 2024-08-10,,8.0 h attended but neither booked nor idle,N
+ANM0174,Unaccounted labour hours (no idle record),attendance / idle_time,STF0128 2023-04-03,,8.0 h attended but neither booked nor idle,N
+ANM0175,Unaccounted labour hours (no idle record),attendance / idle_time,STF0038 2026-04-07,,8.0 h attended but neither booked nor idle,N
+ANM0176,Unaccounted labour hours (no idle record),attendance / idle_time,STF0064 2025-06-02,,8.0 h attended but neither booked nor idle,N
+ANM0177,Unaccounted labour hours (no idle record),attendance / idle_time,STF0099 2024-08-21,,8.0 h attended but neither booked nor idle,N
+ANM0178,Unaccounted labour hours (no idle record),attendance / idle_time,STF0119 2023-04-11,,8.0 h attended but neither booked nor idle,N
+ANM0179,Unaccounted labour hours (no idle record),attendance / idle_time,STF0181 2024-05-13,,8.0 h attended but neither booked nor idle,N
+ANM0180,Unaccounted labour hours (no idle record),attendance / idle_time,STF0055 2026-05-18,,8.0 h attended but neither booked nor idle,N
+ANM0181,Unaccounted labour hours (no idle record),attendance / idle_time,STF0109 2025-12-20,,8.0 h attended but neither booked nor idle,N
+ANM0182,Unaccounted labour hours (no idle record),attendance / idle_time,STF0096 2025-07-28,,1.0 h attended but neither booked nor idle,N
+ANM0183,Unaccounted labour hours (no idle record),attendance / idle_time,STF0084 2024-04-05,,5.0 h attended but neither booked nor idle,N
+ANM0184,Unaccounted labour hours (no idle record),attendance / idle_time,STF0007 2026-02-24,,8.0 h attended but neither booked nor idle,N
+ANM0185,Unaccounted labour hours (no idle record),attendance / idle_time,STF0061 2023-05-15,,8.0 h attended but neither booked nor idle,N
+ANM0186,Unaccounted labour hours (no idle record),attendance / idle_time,STF0038 2023-08-29,,8.0 h attended but neither booked nor idle,N
+ANM0187,Unaccounted labour hours (no idle record),attendance / idle_time,STF0004 2024-01-02,,8.0 h attended but neither booked nor idle,N
+ANM0188,Unaccounted labour hours (no idle record),attendance / idle_time,STF0037 2024-01-19,,8.0 h attended but neither booked nor idle,N
+ANM0189,Unaccounted labour hours (no idle record),attendance / idle_time,STF0013 2024-10-01,,3.0 h attended but neither booked nor idle,N
+ANM0190,Unaccounted labour hours (no idle record),attendance / idle_time,STF0043 2025-10-20,,8.0 h attended but neither booked nor idle,N
+ANM0191,Unaccounted labour hours (no idle record),attendance / idle_time,STF0142 2026-01-03,,8.0 h attended but neither booked nor idle,N
+ANM0192,Unaccounted labour hours (no idle record),attendance / idle_time,STF0040 2023-10-14,,8.0 h attended but neither booked nor idle,N
+ANM0193,Unaccounted labour hours (no idle record),attendance / idle_time,STF0163 2025-06-18,,5.0 h attended but neither booked nor idle,N
+ANM0194,Unaccounted labour hours (no idle record),attendance / idle_time,STF0010 2026-04-01,,8.0 h attended but neither booked nor idle,N
+ANM0195,Unaccounted labour hours (no idle record),attendance / idle_time,STF0041 2026-06-26,,8.0 h attended but neither booked nor idle,N
+ANM0196,Unaccounted labour hours (no idle record),attendance / idle_time,STF0076 2023-11-02,,8.0 h attended but neither booked nor idle,N
+ANM0197,Unaccounted labour hours (no idle record),attendance / idle_time,STF0065 2026-03-30,,3.0 h attended but neither booked nor idle,N
+ANM0198,Unaccounted labour hours (no idle record),attendance / idle_time,STF0096 2024-08-03,,8.0 h attended but neither booked nor idle,N
+ANM0199,Unaccounted labour hours (no idle record),attendance / idle_time,STF0090 2023-04-07,,8.0 h attended but neither booked nor idle,N
+ANM0200,Unaccounted labour hours (no idle record),attendance / idle_time,STF0032 2025-04-07,,3.0 h attended but neither booked nor idle,N
+ANM0201,Unaccounted labour hours (no idle record),attendance / idle_time,STF0040 2024-01-09,,8.0 h attended but neither booked nor idle,N
+ANM0202,Unaccounted labour hours (no idle record),attendance / idle_time,STF0192 2025-12-23,,3.0 h attended but neither booked nor idle,N
+ANM0203,Unaccounted labour hours (no idle record),attendance / idle_time,STF0007 2025-05-23,,1.0 h attended but neither booked nor idle,N
+ANM0204,Unaccounted labour hours (no idle record),attendance / idle_time,STF0053 2025-07-04,,1.0 h attended but neither booked nor idle,N
+ANM0205,Unaccounted labour hours (no idle record),attendance / idle_time,STF0069 2025-10-08,,8.0 h attended but neither booked nor idle,N
+ANM0206,Unaccounted labour hours (no idle record),attendance / idle_time,STF0082 2026-05-18,,8.0 h attended but neither booked nor idle,N
+ANM0207,Unaccounted labour hours (no idle record),attendance / idle_time,STF0073 2024-11-29,,8.0 h attended but neither booked nor idle,N
+ANM0208,Unaccounted labour hours (no idle record),attendance / idle_time,STF0092 2023-04-08,,8.0 h attended but neither booked nor idle,N
+ANM0209,Unaccounted labour hours (no idle record),attendance / idle_time,STF0043 2025-09-08,,1.0 h attended but neither booked nor idle,N
+ANM0210,Unaccounted labour hours (no idle record),attendance / idle_time,STF0067 2024-09-12,,8.0 h attended but neither booked nor idle,N
+ANM0211,Unaccounted labour hours (no idle record),attendance / idle_time,STF0152 2023-04-12,,8.0 h attended but neither booked nor idle,N
+ANM0212,Unaccounted labour hours (no idle record),attendance / idle_time,STF0163 2023-07-03,,8.0 h attended but neither booked nor idle,N
+ANM0213,Unaccounted labour hours (no idle record),attendance / idle_time,STF0023 2025-07-01,,8.0 h attended but neither booked nor idle,N
+ANM0214,Unaccounted labour hours (no idle record),attendance / idle_time,STF0193 2025-03-22,,8.0 h attended but neither booked nor idle,N
+ANM0215,Unaccounted labour hours (no idle record),attendance / idle_time,STF0166 2023-06-01,,8.0 h attended but neither booked nor idle,N
+ANM0216,Unaccounted labour hours (no idle record),attendance / idle_time,STF0069 2024-09-18,,8.0 h attended but neither booked nor idle,N
+ANM0217,Unaccounted labour hours (no idle record),attendance / idle_time,STF0057 2025-02-08,,8.0 h attended but neither booked nor idle,N
+ANM0218,Unaccounted labour hours (no idle record),attendance / idle_time,STF0071 2025-06-19,,8.0 h attended but neither booked nor idle,N
+ANM0219,Unaccounted labour hours (no idle record),attendance / idle_time,STF0182 2023-12-23,,8.0 h attended but neither booked nor idle,N
+ANM0220,Unaccounted labour hours (no idle record),attendance / idle_time,STF0114 2023-07-03,,1.0 h attended but neither booked nor idle,N
+ANM0221,Unaccounted labour hours (no idle record),attendance / idle_time,STF0138 2024-12-12,,8.0 h attended but neither booked nor idle,N
+ANM0222,Unaccounted labour hours (no idle record),attendance / idle_time,STF0032 2026-06-02,,8.0 h attended but neither booked nor idle,N
+ANM0223,Unaccounted labour hours (no idle record),attendance / idle_time,STF0193 2024-01-05,,8.0 h attended but neither booked nor idle,N
+ANM0224,Unaccounted labour hours (no idle record),attendance / idle_time,STF0068 2024-11-15,,8.0 h attended but neither booked nor idle,N
+ANM0225,Unaccounted labour hours (no idle record),attendance / idle_time,STF0120 2024-09-09,,8.0 h attended but neither booked nor idle,N
+ANM0226,Unaccounted labour hours (no idle record),attendance / idle_time,STF0120 2023-08-18,,8.0 h attended but neither booked nor idle,N
+ANM0227,Unaccounted labour hours (no idle record),attendance / idle_time,STF0005 2023-04-04,,8.0 h attended but neither booked nor idle,N
+ANM0228,Unaccounted labour hours (no idle record),attendance / idle_time,STF0187 2026-06-05,,8.0 h attended but neither booked nor idle,N
+ANM0229,Unaccounted labour hours (no idle record),attendance / idle_time,STF0119 2025-07-24,,8.0 h attended but neither booked nor idle,N
+ANM0230,Unaccounted labour hours (no idle record),attendance / idle_time,STF0167 2026-01-02,,8.0 h attended but neither booked nor idle,N
+ANM0231,Unaccounted labour hours (no idle record),attendance / idle_time,STF0195 2026-06-12,,8.0 h attended but neither booked nor idle,N
+ANM0232,Unaccounted labour hours (no idle record),attendance / idle_time,STF0030 2025-03-31,,8.0 h attended but neither booked nor idle,N
+ANM0233,Unaccounted labour hours (no idle record),attendance / idle_time,STF0063 2025-06-19,,8.0 h attended but neither booked nor idle,N
+ANM0234,Unaccounted labour hours (no idle record),attendance / idle_time,STF0194 2025-05-06,,8.0 h attended but neither booked nor idle,N
+ANM0235,Unaccounted labour hours (no idle record),attendance / idle_time,STF0195 2025-03-26,,8.0 h attended but neither booked nor idle,N
+ANM0236,Unaccounted labour hours (no idle record),attendance / idle_time,STF0018 2025-04-29,,2.0 h attended but neither booked nor idle,N
+ANM0237,Unaccounted labour hours (no idle record),attendance / idle_time,STF0008 2024-08-26,,8.0 h attended but neither booked nor idle,N
+ANM0238,Unaccounted labour hours (no idle record),attendance / idle_time,STF0070 2025-06-13,,8.0 h attended but neither booked nor idle,N
+ANM0239,Unaccounted labour hours (no idle record),attendance / idle_time,STF0078 2025-07-23,,8.0 h attended but neither booked nor idle,N
+ANM0240,Unaccounted labour hours (no idle record),attendance / idle_time,STF0004 2024-01-10,,8.0 h attended but neither booked nor idle,N
+ANM0241,Unaccounted labour hours (no idle record),attendance / idle_time,STF0107 2025-12-30,,8.0 h attended but neither booked nor idle,N
+ANM0242,Unaccounted labour hours (no idle record),attendance / idle_time,STF0185 2026-04-25,,8.0 h attended but neither booked nor idle,N
+ANM0243,Unaccounted labour hours (no idle record),attendance / idle_time,STF0117 2024-09-05,,1.0 h attended but neither booked nor idle,N
+ANM0244,Unaccounted labour hours (no idle record),attendance / idle_time,STF0091 2025-12-05,,8.0 h attended but neither booked nor idle,N
+ANM0245,Unaccounted labour hours (no idle record),attendance / idle_time,STF0108 2024-01-23,,8.0 h attended but neither booked nor idle,N
+ANM0246,Unaccounted labour hours (no idle record),attendance / idle_time,STF0140 2023-08-22,,8.0 h attended but neither booked nor idle,N
+ANM0247,Unaccounted labour hours (no idle record),attendance / idle_time,STF0145 2024-02-26,,8.0 h attended but neither booked nor idle,N
+ANM0248,Unaccounted labour hours (no idle record),attendance / idle_time,STF0028 2026-06-23,,8.0 h attended but neither booked nor idle,N
+ANM0249,Unaccounted labour hours (no idle record),attendance / idle_time,STF0099 2026-01-02,,8.0 h attended but neither booked nor idle,N
+ANM0250,Unaccounted labour hours (no idle record),attendance / idle_time,STF0173 2026-05-25,,8.0 h attended but neither booked nor idle,N
+ANM0251,Unaccounted labour hours (no idle record),attendance / idle_time,STF0173 2024-06-24,,8.0 h attended but neither booked nor idle,N
+ANM0252,Unaccounted labour hours (no idle record),attendance / idle_time,STF0055 2023-04-10,,8.0 h attended but neither booked nor idle,N
+ANM0253,Unaccounted labour hours (no idle record),attendance / idle_time,STF0134 2023-08-24,,8.0 h attended but neither booked nor idle,N
+ANM0254,Unaccounted labour hours (no idle record),attendance / idle_time,STF0193 2025-05-05,,8.0 h attended but neither booked nor idle,N
+ANM0255,Unaccounted labour hours (no idle record),attendance / idle_time,STF0119 2024-01-27,,3.0 h attended but neither booked nor idle,N
+ANM0256,Unaccounted labour hours (no idle record),attendance / idle_time,STF0040 2026-05-29,,8.0 h attended but neither booked nor idle,N
+ANM0257,Unaccounted labour hours (no idle record),attendance / idle_time,STF0011 2025-05-29,,8.0 h attended but neither booked nor idle,N
+ANM0258,Unaccounted labour hours (no idle record),attendance / idle_time,STF0040 2025-12-31,,8.0 h attended but neither booked nor idle,N
+ANM0259,Unaccounted labour hours (no idle record),attendance / idle_time,STF0017 2024-08-30,,7.0 h attended but neither booked nor idle,N
+ANM0260,Unaccounted labour hours (no idle record),attendance / idle_time,STF0033 2024-08-09,,8.0 h attended but neither booked nor idle,N
+ANM0261,Unaccounted labour hours (no idle record),attendance / idle_time,STF0124 2024-02-17,,8.0 h attended but neither booked nor idle,N
+ANM0262,Unaccounted labour hours (no idle record),attendance / idle_time,STF0055 2025-06-05,,8.0 h attended but neither booked nor idle,N
+ANM0263,Unaccounted labour hours (no idle record),attendance / idle_time,STF0049 2025-02-17,,5.0 h attended but neither booked nor idle,N
+ANM0264,Unaccounted labour hours (no idle record),attendance / idle_time,STF0135 2026-02-11,,5.0 h attended but neither booked nor idle,N
+ANM0265,Unaccounted labour hours (no idle record),attendance / idle_time,STF0052 2026-06-12,,8.0 h attended but neither booked nor idle,N
+ANM0266,Unaccounted labour hours (no idle record),attendance / idle_time,STF0183 2023-08-09,,8.0 h attended but neither booked nor idle,N
+ANM0267,Unaccounted labour hours (no idle record),attendance / idle_time,STF0085 2025-04-10,,8.0 h attended but neither booked nor idle,N
+ANM0268,Unaccounted labour hours (no idle record),attendance / idle_time,STF0158 2025-09-19,,8.0 h attended but neither booked nor idle,N
+ANM0269,Unaccounted labour hours (no idle record),attendance / idle_time,STF0167 2023-05-19,,8.0 h attended but neither booked nor idle,N
+ANM0270,Unaccounted labour hours (no idle record),attendance / idle_time,STF0034 2024-05-15,,8.0 h attended but neither booked nor idle,N
+ANM0271,Unaccounted labour hours (no idle record),attendance / idle_time,STF0053 2025-04-25,,3.0 h attended but neither booked nor idle,N
+ANM0272,Unaccounted labour hours (no idle record),attendance / idle_time,STF0151 2025-12-26,,8.0 h attended but neither booked nor idle,N
+ANM0273,Unaccounted labour hours (no idle record),attendance / idle_time,STF0031 2025-09-01,,8.0 h attended but neither booked nor idle,N
+ANM0274,Unaccounted labour hours (no idle record),attendance / idle_time,STF0092 2025-09-30,,8.0 h attended but neither booked nor idle,N
+ANM0275,Unaccounted labour hours (no idle record),attendance / idle_time,STF0125 2024-11-20,,8.0 h attended but neither booked nor idle,N
+ANM0276,Unaccounted labour hours (no idle record),attendance / idle_time,STF0156 2023-04-18,,8.0 h attended but neither booked nor idle,N
+ANM0277,Unaccounted labour hours (no idle record),attendance / idle_time,STF0080 2025-12-01,,8.0 h attended but neither booked nor idle,N
+ANM0278,Unaccounted labour hours (no idle record),attendance / idle_time,STF0117 2026-04-13,,4.0 h attended but neither booked nor idle,N
+ANM0279,Unaccounted labour hours (no idle record),attendance / idle_time,STF0033 2026-06-09,,8.0 h attended but neither booked nor idle,N
+ANM0280,Unaccounted labour hours (no idle record),attendance / idle_time,STF0130 2023-11-14,,8.0 h attended but neither booked nor idle,N
+ANM0281,Unaccounted labour hours (no idle record),attendance / idle_time,STF0080 2023-12-06,,8.0 h attended but neither booked nor idle,N
+ANM0282,Unaccounted labour hours (no idle record),attendance / idle_time,STF0065 2024-04-04,,2.0 h attended but neither booked nor idle,N
+ANM0283,Unaccounted labour hours (no idle record),attendance / idle_time,STF0163 2023-04-20,,8.0 h attended but neither booked nor idle,N
+ANM0284,Unaccounted labour hours (no idle record),attendance / idle_time,STF0172 2024-01-03,,4.0 h attended but neither booked nor idle,N
+ANM0285,Unaccounted labour hours (no idle record),attendance / idle_time,STF0189 2026-05-02,,6.0 h attended but neither booked nor idle,N
+ANM0286,Unaccounted labour hours (no idle record),attendance / idle_time,STF0181 2023-12-27,,8.0 h attended but neither booked nor idle,N
+ANM0287,Unaccounted labour hours (no idle record),attendance / idle_time,STF0019 2025-09-06,,5.0 h attended but neither booked nor idle,N
+ANM0288,Unaccounted labour hours (no idle record),attendance / idle_time,STF0174 2023-07-28,,8.0 h attended but neither booked nor idle,N
+ANM0289,Unaccounted labour hours (no idle record),attendance / idle_time,STF0042 2025-04-22,,8.0 h attended but neither booked nor idle,N
+ANM0290,Unaccounted labour hours (no idle record),attendance / idle_time,STF0144 2023-12-30,,8.0 h attended but neither booked nor idle,N
+ANM0291,Unaccounted labour hours (no idle record),attendance / idle_time,STF0143 2026-05-26,,8.0 h attended but neither booked nor idle,N
+ANM0292,Unaccounted labour hours (no idle record),attendance / idle_time,STF0160 2024-03-01,,8.0 h attended but neither booked nor idle,N
+ANM0293,Unaccounted labour hours (no idle record),attendance / idle_time,STF0168 2025-09-01,,8.0 h attended but neither booked nor idle,N
+ANM0294,Unaccounted labour hours (no idle record),attendance / idle_time,STF0144 2024-02-02,,4.0 h attended but neither booked nor idle,N
+ANM0295,Unaccounted labour hours (no idle record),attendance / idle_time,STF0036 2026-06-23,,8.0 h attended but neither booked nor idle,N
+ANM0296,Unaccounted labour hours (no idle record),attendance / idle_time,STF0103 2026-04-28,,8.0 h attended but neither booked nor idle,N
+ANM0297,Unaccounted labour hours (no idle record),attendance / idle_time,STF0110 2025-12-13,,8.0 h attended but neither booked nor idle,N
+ANM0298,Unaccounted labour hours (no idle record),attendance / idle_time,STF0044 2024-08-21,,8.0 h attended but neither booked nor idle,N
+ANM0299,Unaccounted labour hours (no idle record),attendance / idle_time,STF0178 2025-12-23,,8.0 h attended but neither booked nor idle,N
+ANM0300,Unaccounted labour hours (no idle record),attendance / idle_time,STF0147 2025-04-17,,8.0 h attended but neither booked nor idle,N
+ANM0301,Unaccounted labour hours (no idle record),attendance / idle_time,STF0081 2026-06-24,,8.0 h attended but neither booked nor idle,N
+ANM0302,Unaccounted labour hours (no idle record),attendance / idle_time,STF0052 2026-06-30,,8.0 h attended but neither booked nor idle,N
+ANM0303,Unaccounted labour hours (no idle record),attendance / idle_time,STF0049 2025-07-15,,8.0 h attended but neither booked nor idle,N
+ANM0304,Unaccounted labour hours (no idle record),attendance / idle_time,STF0047 2023-04-17,,8.0 h attended but neither booked nor idle,N
+ANM0305,Unaccounted labour hours (no idle record),attendance / idle_time,STF0003 2024-05-03,,8.0 h attended but neither booked nor idle,N
+ANM0306,Unaccounted labour hours (no idle record),attendance / idle_time,STF0173 2026-04-06,,8.0 h attended but neither booked nor idle,N
+ANM0307,Unaccounted labour hours (no idle record),attendance / idle_time,STF0139 2025-03-12,,8.0 h attended but neither booked nor idle,N
+ANM0308,Unaccounted labour hours (no idle record),attendance / idle_time,STF0113 2024-05-10,,7.0 h attended but neither booked nor idle,N
+ANM0309,Unaccounted labour hours (no idle record),attendance / idle_time,STF0004 2024-04-01,,8.0 h attended but neither booked nor idle,N
+ANM0310,Unaccounted labour hours (no idle record),attendance / idle_time,STF0165 2024-03-01,,8.0 h attended but neither booked nor idle,N
+ANM0311,Unaccounted labour hours (no idle record),attendance / idle_time,STF0187 2026-03-09,,8.0 h attended but neither booked nor idle,N
+ANM0312,Unaccounted labour hours (no idle record),attendance / idle_time,STF0088 2025-12-31,,8.0 h attended but neither booked nor idle,N
+ANM0313,Unaccounted labour hours (no idle record),attendance / idle_time,STF0157 2026-05-08,,8.0 h attended but neither booked nor idle,N
+ANM0314,Unaccounted labour hours (no idle record),attendance / idle_time,STF0146 2026-05-05,,8.0 h attended but neither booked nor idle,N
+ANM0315,Unaccounted labour hours (no idle record),attendance / idle_time,STF0180 2023-08-12,,8.0 h attended but neither booked nor idle,N
+ANM0316,Unaccounted labour hours (no idle record),attendance / idle_time,STF0133 2024-11-29,,8.0 h attended but neither booked nor idle,N
+ANM0317,Unaccounted labour hours (no idle record),attendance / idle_time,STF0124 2025-04-07,,8.0 h attended but neither booked nor idle,N
+ANM0318,Unaccounted labour hours (no idle record),attendance / idle_time,STF0172 2025-02-10,,7.0 h attended but neither booked nor idle,N
+ANM0319,Unaccounted labour hours (no idle record),attendance / idle_time,STF0122 2024-10-05,,1.0 h attended but neither booked nor idle,N
+ANM0320,Unaccounted labour hours (no idle record),attendance / idle_time,STF0139 2026-04-06,,8.0 h attended but neither booked nor idle,N
+ANM0321,Unaccounted labour hours (no idle record),attendance / idle_time,STF0141 2026-03-31,,8.0 h attended but neither booked nor idle,N
+ANM0322,Unaccounted labour hours (no idle record),attendance / idle_time,STF0175 2025-09-19,,8.0 h attended but neither booked nor idle,N
+ANM0323,Unaccounted labour hours (no idle record),attendance / idle_time,STF0015 2025-06-02,,8.0 h attended but neither booked nor idle,N
+ANM0324,Unaccounted labour hours (no idle record),attendance / idle_time,STF0002 2026-03-25,,8.0 h attended but neither booked nor idle,N
+ANM0325,Unaccounted labour hours (no idle record),attendance / idle_time,STF0154 2024-09-25,,8.0 h attended but neither booked nor idle,N
+ANM0326,Unaccounted labour hours (no idle record),attendance / idle_time,STF0101 2023-12-04,,8.0 h attended but neither booked nor idle,N
+ANM0327,Unaccounted labour hours (no idle record),attendance / idle_time,STF0179 2023-10-11,,2.0 h attended but neither booked nor idle,N
+ANM0328,Unaccounted labour hours (no idle record),attendance / idle_time,STF0032 2026-01-02,,8.0 h attended but neither booked nor idle,N
+ANM0329,Unaccounted labour hours (no idle record),attendance / idle_time,STF0088 2023-10-21,,8.0 h attended but neither booked nor idle,N
+ANM0330,Unaccounted labour hours (no idle record),attendance / idle_time,STF0132 2023-04-07,,8.0 h attended but neither booked nor idle,N
+ANM0331,Unaccounted labour hours (no idle record),attendance / idle_time,STF0102 2023-10-16,,8.0 h attended but neither booked nor idle,N
+ANM0332,Unaccounted labour hours (no idle record),attendance / idle_time,STF0075 2024-02-24,,3.0 h attended but neither booked nor idle,N
+ANM0333,Unaccounted labour hours (no idle record),attendance / idle_time,STF0128 2025-02-25,,5.0 h attended but neither booked nor idle,N
+ANM0334,Unaccounted labour hours (no idle record),attendance / idle_time,STF0182 2024-10-30,,2.0 h attended but neither booked nor idle,N
+ANM0335,Unaccounted labour hours (no idle record),attendance / idle_time,STF0023 2025-08-26,,8.0 h attended but neither booked nor idle,N
+ANM0336,Unaccounted labour hours (no idle record),attendance / idle_time,STF0036 2024-01-01,,2.0 h attended but neither booked nor idle,N
+ANM0337,Unaccounted labour hours (no idle record),attendance / idle_time,STF0057 2023-04-15,,8.0 h attended but neither booked nor idle,N
+ANM0338,Unaccounted labour hours (no idle record),attendance / idle_time,STF0077 2023-12-16,,8.0 h attended but neither booked nor idle,N
+ANM0339,Unaccounted labour hours (no idle record),attendance / idle_time,STF0025 2025-08-18,,8.0 h attended but neither booked nor idle,N
+ANM0340,Unaccounted labour hours (no idle record),attendance / idle_time,STF0134 2024-01-03,,8.0 h attended but neither booked nor idle,N
+ANM0341,Unaccounted labour hours (no idle record),attendance / idle_time,STF0021 2026-01-16,,5.0 h attended but neither booked nor idle,N
+ANM0342,Unaccounted labour hours (no idle record),attendance / idle_time,STF0080 2025-10-03,,8.0 h attended but neither booked nor idle,N
+ANM0343,Unaccounted labour hours (no idle record),attendance / idle_time,STF0018 2026-04-29,,8.0 h attended but neither booked nor idle,N
+ANM0344,Unaccounted labour hours (no idle record),attendance / idle_time,STF0039 2023-11-22,,8.0 h attended but neither booked nor idle,N
+ANM0345,Unaccounted labour hours (no idle record),attendance / idle_time,STF0028 2025-03-27,,8.0 h attended but neither booked nor idle,N
+ANM0346,Unaccounted labour hours (no idle record),attendance / idle_time,STF0088 2024-01-22,,8.0 h attended but neither booked nor idle,N
+ANM0347,Unaccounted labour hours (no idle record),attendance / idle_time,STF0169 2024-04-23,,6.0 h attended but neither booked nor idle,N
+ANM0348,Unaccounted labour hours (no idle record),attendance / idle_time,STF0025 2026-06-24,,8.0 h attended but neither booked nor idle,N
+ANM0349,Unaccounted labour hours (no idle record),attendance / idle_time,STF0079 2025-04-14,,8.0 h attended but neither booked nor idle,N
+ANM0350,Unaccounted labour hours (no idle record),attendance / idle_time,STF0069 2025-10-21,,8.0 h attended but neither booked nor idle,N
+ANM0351,Unaccounted labour hours (no idle record),attendance / idle_time,STF0169 2023-10-27,,3.0 h attended but neither booked nor idle,N
+ANM0352,Unaccounted labour hours (no idle record),attendance / idle_time,STF0124 2023-04-06,,8.0 h attended but neither booked nor idle,N
+ANM0353,Unaccounted labour hours (no idle record),attendance / idle_time,STF0121 2026-04-27,,8.0 h attended but neither booked nor idle,N
+ANM0354,Unaccounted labour hours (no idle record),attendance / idle_time,STF0100 2023-04-24,,8.0 h attended but neither booked nor idle,N
+ANM0355,Unaccounted labour hours (no idle record),attendance / idle_time,STF0124 2025-06-12,,8.0 h attended but neither booked nor idle,N
+ANM0356,Unaccounted labour hours (no idle record),attendance / idle_time,STF0086 2026-05-23,,8.0 h attended but neither booked nor idle,N
+ANM0357,Unaccounted labour hours (no idle record),attendance / idle_time,STF0017 2023-04-22,,8.0 h attended but neither booked nor idle,N
+ANM0358,Unaccounted labour hours (no idle record),attendance / idle_time,STF0191 2024-04-13,,8.0 h attended but neither booked nor idle,N
+ANM0359,Unaccounted labour hours (no idle record),attendance / idle_time,STF0057 2026-03-02,,8.0 h attended but neither booked nor idle,N
+ANM0360,Unaccounted labour hours (no idle record),attendance / idle_time,STF0101 2025-08-23,,3.0 h attended but neither booked nor idle,N
+ANM0361,Unaccounted labour hours (no idle record),attendance / idle_time,STF0111 2025-07-03,,8.0 h attended but neither booked nor idle,N
+ANM0362,Unaccounted labour hours (no idle record),attendance / idle_time,STF0083 2026-05-05,,8.0 h attended but neither booked nor idle,N
+ANM0363,Unaccounted labour hours (no idle record),attendance / idle_time,STF0004 2025-03-14,,8.0 h attended but neither booked nor idle,N
+ANM0364,Unaccounted labour hours (no idle record),attendance / idle_time,STF0063 2023-04-03,,8.0 h attended but neither booked nor idle,N
+ANM0365,Unaccounted labour hours (no idle record),attendance / idle_time,STF0031 2024-08-06,,8.0 h attended but neither booked nor idle,N
+ANM0366,Unaccounted labour hours (no idle record),attendance / idle_time,STF0013 2024-12-23,,6.0 h attended but neither booked nor idle,N
+ANM0367,Unaccounted labour hours (no idle record),attendance / idle_time,STF0083 2023-04-06,,8.0 h attended but neither booked nor idle,N
+ANM0368,Unaccounted labour hours (no idle record),attendance / idle_time,STF0168 2023-07-29,,8.0 h attended but neither booked nor idle,N
+ANM0369,Unaccounted labour hours (no idle record),attendance / idle_time,STF0097 2026-04-27,,8.0 h attended but neither booked nor idle,N
+ANM0370,Unaccounted labour hours (no idle record),attendance / idle_time,STF0055 2023-08-28,,8.0 h attended but neither booked nor idle,N
+ANM0371,Unaccounted labour hours (no idle record),attendance / idle_time,STF0172 2024-01-06,,1.0 h attended but neither booked nor idle,N
+ANM0372,Unaccounted labour hours (no idle record),attendance / idle_time,STF0104 2024-11-28,,8.0 h attended but neither booked nor idle,N
+ANM0373,Unaccounted labour hours (no idle record),attendance / idle_time,STF0194 2025-10-18,,8.0 h attended but neither booked nor idle,N
+ANM0374,Unaccounted labour hours (no idle record),attendance / idle_time,STF0093 2024-03-05,,4.0 h attended but neither booked nor idle,N
+ANM0375,Unaccounted labour hours (no idle record),attendance / idle_time,STF0111 2026-04-01,,8.0 h attended but neither booked nor idle,N
+ANM0376,Unaccounted labour hours (no idle record),attendance / idle_time,STF0187 2024-05-16,,7.0 h attended but neither booked nor idle,N
+ANM0377,Unaccounted labour hours (no idle record),attendance / idle_time,STF0159 2024-04-03,,8.0 h attended but neither booked nor idle,N
+ANM0378,Unaccounted labour hours (no idle record),attendance / idle_time,STF0015 2026-04-14,,8.0 h attended but neither booked nor idle,N
+ANM0379,Unaccounted labour hours (no idle record),attendance / idle_time,STF0030 2024-11-20,,8.0 h attended but neither booked nor idle,N
+ANM0380,Unaccounted labour hours (no idle record),attendance / idle_time,STF0108 2026-02-14,,8.0 h attended but neither booked nor idle,N
+ANM0381,Unaccounted labour hours (no idle record),attendance / idle_time,STF0100 2024-10-28,,8.0 h attended but neither booked nor idle,N
+ANM0382,Unaccounted labour hours (no idle record),attendance / idle_time,STF0024 2024-08-03,,8.0 h attended but neither booked nor idle,N
+ANM0383,Unaccounted labour hours (no idle record),attendance / idle_time,STF0092 2023-08-05,,8.0 h attended but neither booked nor idle,N
+ANM0384,Unaccounted labour hours (no idle record),attendance / idle_time,STF0065 2026-05-23,,8.0 h attended but neither booked nor idle,N
+ANM0385,Unaccounted labour hours (no idle record),attendance / idle_time,STF0034 2024-05-13,,8.0 h attended but neither booked nor idle,N
+ANM0386,Unaccounted labour hours (no idle record),attendance / idle_time,STF0123 2025-02-26,,8.0 h attended but neither booked nor idle,N
+ANM0387,Unaccounted labour hours (no idle record),attendance / idle_time,STF0140 2023-08-11,,8.0 h attended but neither booked nor idle,N
+ANM0388,Unaccounted labour hours (no idle record),attendance / idle_time,STF0126 2025-07-17,,8.0 h attended but neither booked nor idle,N
+ANM0389,Unaccounted labour hours (no idle record),attendance / idle_time,STF0009 2025-11-11,,8.0 h attended but neither booked nor idle,N
+ANM0390,Unaccounted labour hours (no idle record),attendance / idle_time,STF0080 2024-10-10,,8.0 h attended but neither booked nor idle,N
+ANM0391,Unaccounted labour hours (no idle record),attendance / idle_time,STF0025 2025-05-12,,8.0 h attended but neither booked nor idle,N

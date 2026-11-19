@@ -1,0 +1,208 @@
+rs_type_code,pl_no,description,shop_no,std_qty_per_poh
+ICFNAC,PL10010002,Axle box bearing cartridge,3,2.0
+ICFNAC,PL10010004,Primary coil spring,3,4.0
+ICFNAC,PL10010005,Vertical damper (primary),3,4.0
+ICFNAC,PL10010006,Lateral damper (secondary),3,2.0
+ICFNAC,PL10010009,Brake pad set,3,7.0
+ICFNAC,PL10010010,Bogie frame paint (primer+top),3,21.6
+ICFNAC,PL10020003,Welding electrode / wire,4,16.2
+ICFNAC,PL10020004,Anti-corrosive compound,4,27.0
+ICFNAC,PL10030001,Brake cylinder overhaul kit,5,4.0
+ICFNAC,PL10030002,Distributor valve overhaul kit,5,1.0
+ICFNAC,PL10030003,Brake hose coupling,5,5.0
+ICFNAC,PL10030004,CBC coupler overhaul kit,5,2.0
+ICFNAC,PL10040001,LED light fitting,6,9.0
+ICFNAC,PL10040002,Wiring cable 2.5 sq mm,6,108.0
+ICFNAC,PL10040005,Toilet fittings set,6,1.0
+ICFNAC,PL10050001,PU paint (exterior),7,54.0
+ICFNAC,PL10050002,Primer (epoxy),7,36.0
+ICFNAC,PL10050003,Thinner,7,31.5
+ICFNAC,PL10050004,Surface prep abrasive,7,72.0
+ICFNAC,PL10060001,"Test consumables (gauges, seals)",8,1.0
+ICFNAC,PL10060002,Number plates & decals,8,1.0
+ICFNAC,PL10010011,Centre pivot / side bearer kit,2,2.0
+ICFNAC,PL10070001,Inspection consumables,1,1.0
+ICFAC,PL10010002,Axle box bearing cartridge,3,2.0
+ICFAC,PL10010004,Primary coil spring,3,4.0
+ICFAC,PL10010005,Vertical damper (primary),3,4.0
+ICFAC,PL10010006,Lateral damper (secondary),3,2.0
+ICFAC,PL10010009,Brake pad set,3,8.0
+ICFAC,PL10010010,Bogie frame paint (primer+top),3,24.0
+ICFAC,PL10020003,Welding electrode / wire,4,18.0
+ICFAC,PL10020004,Anti-corrosive compound,4,30.0
+ICFAC,PL10030001,Brake cylinder overhaul kit,5,4.0
+ICFAC,PL10030002,Distributor valve overhaul kit,5,1.0
+ICFAC,PL10030003,Brake hose coupling,5,6.0
+ICFAC,PL10030004,CBC coupler overhaul kit,5,2.0
+ICFAC,PL10040001,LED light fitting,6,10.0
+ICFAC,PL10040002,Wiring cable 2.5 sq mm,6,120.0
+ICFAC,PL10040005,Toilet fittings set,6,1.0
+ICFAC,PL10040006,AC unit service kit,6,1.0
+ICFAC,PL10050001,PU paint (exterior),7,60.0
+ICFAC,PL10050002,Primer (epoxy),7,40.0
+ICFAC,PL10050003,Thinner,7,35.0
+ICFAC,PL10050004,Surface prep abrasive,7,80.0
+ICFAC,PL10060001,"Test consumables (gauges, seals)",8,1.0
+ICFAC,PL10060002,Number plates & decals,8,1.0
+ICFAC,PL10010011,Centre pivot / side bearer kit,2,2.0
+ICFAC,PL10070001,Inspection consumables,1,1.0
+LHBNAC,PL10010002,Axle box bearing cartridge,3,2.0
+LHBNAC,PL10010004,Primary coil spring,3,4.0
+LHBNAC,PL10010005,Vertical damper (primary),3,4.0
+LHBNAC,PL10010006,Lateral damper (secondary),3,2.0
+LHBNAC,PL10010009,Brake pad set,3,8.0
+LHBNAC,PL10010010,Bogie frame paint (primer+top),3,24.0
+LHBNAC,PL10020003,Welding electrode / wire,4,18.0
+LHBNAC,PL10020004,Anti-corrosive compound,4,30.0
+LHBNAC,PL10030001,Brake cylinder overhaul kit,5,4.0
+LHBNAC,PL10030002,Distributor valve overhaul kit,5,1.0
+LHBNAC,PL10030003,Brake hose coupling,5,6.0
+LHBNAC,PL10030004,CBC coupler overhaul kit,5,2.0
+LHBNAC,PL10040001,LED light fitting,6,10.0
+LHBNAC,PL10040002,Wiring cable 2.5 sq mm,6,120.0
+LHBNAC,PL10040005,Toilet fittings set,6,1.0
+LHBNAC,PL10050001,PU paint (exterior),7,60.0
+LHBNAC,PL10050002,Primer (epoxy),7,40.0
+LHBNAC,PL10050003,Thinner,7,35.0
+LHBNAC,PL10050004,Surface prep abrasive,7,80.0
+LHBNAC,PL10060001,"Test consumables (gauges, seals)",8,1.0
+LHBNAC,PL10060002,Number plates & decals,8,1.0
+LHBNAC,PL10010011,Centre pivot / side bearer kit,2,2.0
+LHBNAC,PL10070001,Inspection consumables,1,1.0
+LHBAC,PL10010002,Axle box bearing cartridge,3,2.0
+LHBAC,PL10010004,Primary coil spring,3,4.0
+LHBAC,PL10010005,Vertical damper (primary),3,4.0
+LHBAC,PL10010006,Lateral damper (secondary),3,2.0
+LHBAC,PL10010009,Brake pad set,3,9.0
+LHBAC,PL10010010,Bogie frame paint (primer+top),3,25.9
+LHBAC,PL10020003,Welding electrode / wire,4,19.4
+LHBAC,PL10020004,Anti-corrosive compound,4,32.4
+LHBAC,PL10030001,Brake cylinder overhaul kit,5,4.0
+LHBAC,PL10030002,Distributor valve overhaul kit,5,1.0
+LHBAC,PL10030003,Brake hose coupling,5,6.0
+LHBAC,PL10030004,CBC coupler overhaul kit,5,2.0
+LHBAC,PL10040001,LED light fitting,6,11.0
+LHBAC,PL10040002,Wiring cable 2.5 sq mm,6,129.6
+LHBAC,PL10040005,Toilet fittings set,6,1.0
+LHBAC,PL10040006,AC unit service kit,6,1.0
+LHBAC,PL10050001,PU paint (exterior),7,64.8
+LHBAC,PL10050002,Primer (epoxy),7,43.2
+LHBAC,PL10050003,Thinner,7,37.8
+LHBAC,PL10050004,Surface prep abrasive,7,86.4
+LHBAC,PL10060001,"Test consumables (gauges, seals)",8,1.0
+LHBAC,PL10060002,Number plates & decals,8,1.0
+LHBAC,PL10010011,Centre pivot / side bearer kit,2,2.0
+LHBAC,PL10070001,Inspection consumables,1,1.0
+VB,PL10010002,Axle box bearing cartridge,3,3.0
+VB,PL10010004,Primary coil spring,3,5.0
+VB,PL10010005,Vertical damper (primary),3,5.0
+VB,PL10010006,Lateral damper (secondary),3,3.0
+VB,PL10010009,Brake pad set,3,11.0
+VB,PL10010010,Bogie frame paint (primer+top),3,32.4
+VB,PL10020003,Welding electrode / wire,4,24.3
+VB,PL10020004,Anti-corrosive compound,4,40.5
+VB,PL10030001,Brake cylinder overhaul kit,5,5.0
+VB,PL10030002,Distributor valve overhaul kit,5,1.0
+VB,PL10030003,Brake hose coupling,5,8.0
+VB,PL10030004,CBC coupler overhaul kit,5,3.0
+VB,PL10040001,LED light fitting,6,14.0
+VB,PL10040002,Wiring cable 2.5 sq mm,6,162.0
+VB,PL10040005,Toilet fittings set,6,1.0
+VB,PL10040006,AC unit service kit,6,1.0
+VB,PL10050001,PU paint (exterior),7,81.0
+VB,PL10050002,Primer (epoxy),7,54.0
+VB,PL10050003,Thinner,7,47.2
+VB,PL10050004,Surface prep abrasive,7,108.0
+VB,PL10060001,"Test consumables (gauges, seals)",8,1.0
+VB,PL10060002,Number plates & decals,8,1.0
+VB,PL10010011,Centre pivot / side bearer kit,2,3.0
+VB,PL10070001,Inspection consumables,1,1.0
+EMU,PL10010002,Axle box bearing cartridge,3,2.0
+EMU,PL10010004,Primary coil spring,3,5.0
+EMU,PL10010005,Vertical damper (primary),3,5.0
+EMU,PL10010006,Lateral damper (secondary),3,2.0
+EMU,PL10010009,Brake pad set,3,9.0
+EMU,PL10010010,Bogie frame paint (primer+top),3,27.6
+EMU,PL10020003,Welding electrode / wire,4,20.7
+EMU,PL10020004,Anti-corrosive compound,4,34.5
+EMU,PL10030001,Brake cylinder overhaul kit,5,5.0
+EMU,PL10030002,Distributor valve overhaul kit,5,1.0
+EMU,PL10030003,Brake hose coupling,5,7.0
+EMU,PL10030004,CBC coupler overhaul kit,5,2.0
+EMU,PL10040001,LED light fitting,6,12.0
+EMU,PL10040002,Wiring cable 2.5 sq mm,6,138.0
+EMU,PL10040005,Toilet fittings set,6,1.0
+EMU,PL10050001,PU paint (exterior),7,69.0
+EMU,PL10050002,Primer (epoxy),7,46.0
+EMU,PL10050003,Thinner,7,40.2
+EMU,PL10050004,Surface prep abrasive,7,92.0
+EMU,PL10060001,"Test consumables (gauges, seals)",8,1.0
+EMU,PL10060002,Number plates & decals,8,1.0
+EMU,PL10010011,Centre pivot / side bearer kit,2,2.0
+EMU,PL10070001,Inspection consumables,1,1.0
+DEMU,PL10010002,Axle box bearing cartridge,3,2.0
+DEMU,PL10010004,Primary coil spring,3,5.0
+DEMU,PL10010005,Vertical damper (primary),3,5.0
+DEMU,PL10010006,Lateral damper (secondary),3,2.0
+DEMU,PL10010009,Brake pad set,3,10.0
+DEMU,PL10010010,Bogie frame paint (primer+top),3,30.0
+DEMU,PL10020003,Welding electrode / wire,4,22.5
+DEMU,PL10020004,Anti-corrosive compound,4,37.5
+DEMU,PL10030001,Brake cylinder overhaul kit,5,5.0
+DEMU,PL10030002,Distributor valve overhaul kit,5,1.0
+DEMU,PL10030003,Brake hose coupling,5,8.0
+DEMU,PL10030004,CBC coupler overhaul kit,5,2.0
+DEMU,PL10040001,LED light fitting,6,12.0
+DEMU,PL10040002,Wiring cable 2.5 sq mm,6,150.0
+DEMU,PL10040005,Toilet fittings set,6,1.0
+DEMU,PL10040007,Diesel engine / DG set service kit,6,1.0
+DEMU,PL10050001,PU paint (exterior),7,75.0
+DEMU,PL10050002,Primer (epoxy),7,50.0
+DEMU,PL10050003,Thinner,7,43.8
+DEMU,PL10050004,Surface prep abrasive,7,100.0
+DEMU,PL10060001,"Test consumables (gauges, seals)",8,1.0
+DEMU,PL10060002,Number plates & decals,8,1.0
+DEMU,PL10010011,Centre pivot / side bearer kit,2,2.0
+DEMU,PL10070001,Inspection consumables,1,1.0
+WAGON,PL10010002,Axle box bearing cartridge,3,1.0
+WAGON,PL10010004,Primary coil spring,3,2.0
+WAGON,PL10010005,Vertical damper (primary),3,2.0
+WAGON,PL10010006,Lateral damper (secondary),3,1.0
+WAGON,PL10010009,Brake pad set,3,3.0
+WAGON,PL10010010,Bogie frame paint (primer+top),3,9.6
+WAGON,PL10020003,Welding electrode / wire,4,7.2
+WAGON,PL10020004,Anti-corrosive compound,4,12.0
+WAGON,PL10030001,Brake cylinder overhaul kit,5,2.0
+WAGON,PL10030003,Brake hose coupling,5,2.0
+WAGON,PL10030004,CBC coupler overhaul kit,5,1.0
+WAGON,PL10040001,LED light fitting,6,4.0
+WAGON,PL10040002,Wiring cable 2.5 sq mm,6,48.0
+WAGON,PL10050001,PU paint (exterior),7,24.0
+WAGON,PL10050002,Primer (epoxy),7,16.0
+WAGON,PL10050003,Thinner,7,14.0
+WAGON,PL10050004,Surface prep abrasive,7,32.0
+WAGON,PL10010011,Centre pivot / side bearer kit,2,1.0
+LOCO,PL10010002,Axle box bearing cartridge,3,4.0
+LOCO,PL10010004,Primary coil spring,3,8.0
+LOCO,PL10010005,Vertical damper (primary),3,8.0
+LOCO,PL10010006,Lateral damper (secondary),3,4.0
+LOCO,PL10010009,Brake pad set,3,16.0
+LOCO,PL10010010,Bogie frame paint (primer+top),3,48.0
+LOCO,PL10020003,Welding electrode / wire,4,36.0
+LOCO,PL10020004,Anti-corrosive compound,4,60.0
+LOCO,PL10030001,Brake cylinder overhaul kit,5,8.0
+LOCO,PL10030002,Distributor valve overhaul kit,5,2.0
+LOCO,PL10030003,Brake hose coupling,5,12.0
+LOCO,PL10030004,CBC coupler overhaul kit,5,4.0
+LOCO,PL10040001,LED light fitting,6,20.0
+LOCO,PL10040002,Wiring cable 2.5 sq mm,6,240.0
+LOCO,PL10040005,Toilet fittings set,6,2.0
+LOCO,PL10040007,Diesel engine / DG set service kit,6,1.0
+LOCO,PL10050001,PU paint (exterior),7,120.0
+LOCO,PL10050002,Primer (epoxy),7,80.0
+LOCO,PL10050003,Thinner,7,70.0
+LOCO,PL10050004,Surface prep abrasive,7,160.0
+LOCO,PL10060001,"Test consumables (gauges, seals)",8,2.0
+LOCO,PL10060002,Number plates & decals,8,2.0
+LOCO,PL10010011,Centre pivot / side bearer kit,2,4.0
+LOCO,PL10070001,Inspection consumables,1,2.0

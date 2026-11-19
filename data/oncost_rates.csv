@@ -1,0 +1,25 @@
+shop_no,shop,fy,labour_oncost_pct,stores_oncost_pct
+1,Inspection shop,2023-24,96.6,8.9
+1,Inspection shop,2024-25,95.8,9.4
+1,Inspection shop,2025-26,100.1,9.5
+2,Lifting shop,2023-24,111.0,10.2
+2,Lifting shop,2024-25,111.5,9.5
+2,Lifting shop,2025-26,115.7,9.8
+3,Bogie shop,2023-24,120.5,10.6
+3,Bogie shop,2024-25,122.5,10.9
+3,Bogie shop,2025-26,126.0,11.0
+4,Body shop,2023-24,106.9,10.3
+4,Body shop,2024-25,106.9,10.2
+4,Body shop,2025-26,109.9,10.5
+5,Air Brake shop,2023-24,100.9,10.5
+5,Air Brake shop,2024-25,101.0,10.4
+5,Air Brake shop,2025-26,104.6,9.8
+6,Electrical & Furnishing shop,2023-24,91.4,8.8
+6,Electrical & Furnishing shop,2024-25,91.9,9.0
+6,Electrical & Furnishing shop,2025-26,92.6,8.9
+7,Paint shop,2023-24,131.3,11.7
+7,Paint shop,2024-25,131.4,11.9
+7,Paint shop,2025-26,134.8,12.0
+8,Testing shop,2023-24,99.3,8.6
+8,Testing shop,2024-25,103.1,9.1
+8,Testing shop,2025-26,104.5,9.1

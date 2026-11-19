@@ -1,0 +1,676 @@
+job_no,credit_type,credit_value
+JOB/2023/0001,Scrap (ferrous),14573.99
+JOB/2023/0002,Scrap (ferrous),9761.97
+JOB/2023/0003,Scrap (ferrous),9584.57
+JOB/2023/0003,Serviceable release (wheelset/air spring),57983.89
+JOB/2023/0004,Scrap (ferrous),8264.06
+JOB/2023/0005,Scrap (ferrous),11806.3
+JOB/2023/0005,Serviceable release (wheelset/air spring),50943.29
+JOB/2023/0006,Scrap (ferrous),10824.65
+JOB/2023/0006,Serviceable release (wheelset/air spring),43876.78
+JOB/2023/0007,Scrap (ferrous),5493.77
+JOB/2023/0008,Scrap (ferrous),11595.04
+JOB/2023/0009,Scrap (ferrous),7948.5
+JOB/2023/0010,Scrap (ferrous),6952.02
+JOB/2023/0011,Scrap (ferrous),7279.3
+JOB/2023/0011,Serviceable release (wheelset/air spring),41205.58
+JOB/2023/0012,Scrap (ferrous),4720.39
+JOB/2023/0013,Scrap (ferrous),7491.19
+JOB/2023/0014,Scrap (ferrous),14580.04
+JOB/2023/0015,Scrap (ferrous),7333.57
+JOB/2023/0015,Serviceable release (wheelset/air spring),32931.6
+JOB/2023/0016,Scrap (ferrous),5049.08
+JOB/2023/0017,Scrap (ferrous),8481.57
+JOB/2023/0018,Scrap (ferrous),5524.34
+JOB/2023/0019,Scrap (ferrous),11170.99
+JOB/2023/0019,Serviceable release (wheelset/air spring),15717.02
+JOB/2023/0020,Scrap (ferrous),7501.34
+JOB/2023/0020,Serviceable release (wheelset/air spring),35884.06
+JOB/2023/0021,Scrap (ferrous),11932.98
+JOB/2023/0022,Scrap (ferrous),13215.54
+JOB/2023/0023,Scrap (ferrous),10673.3
+JOB/2023/0023,Serviceable release (wheelset/air spring),46983.93
+JOB/2023/0024,Scrap (ferrous),5728.37
+JOB/2023/0024,Serviceable release (wheelset/air spring),22336.67
+JOB/2023/0025,Scrap (ferrous),7269.33
+JOB/2023/0026,Scrap (ferrous),17854.0
+JOB/2023/0027,Scrap (ferrous),6235.38
+JOB/2023/0028,Scrap (ferrous),6653.7
+JOB/2023/0028,Serviceable release (wheelset/air spring),54149.41
+JOB/2023/0029,Scrap (ferrous),6086.58
+JOB/2023/0029,Serviceable release (wheelset/air spring),55266.85
+JOB/2023/0030,Scrap (ferrous),7568.36
+JOB/2023/0031,Scrap (ferrous),5663.42
+JOB/2023/0031,Serviceable release (wheelset/air spring),27898.3
+JOB/2023/0032,Scrap (ferrous),7285.3
+JOB/2023/0033,Scrap (ferrous),4101.63
+JOB/2023/0034,Scrap (ferrous),8988.05
+JOB/2023/0035,Scrap (ferrous),9932.9
+JOB/2023/0036,Scrap (ferrous),4455.36
+JOB/2023/0036,Serviceable release (wheelset/air spring),54902.59
+JOB/2023/0037,Scrap (ferrous),15228.0
+JOB/2023/0038,Scrap (ferrous),14827.79
+JOB/2023/0039,Scrap (ferrous),14705.47
+JOB/2023/0039,Serviceable release (wheelset/air spring),19695.74
+JOB/2023/0040,Scrap (ferrous),10234.18
+JOB/2023/0040,Serviceable release (wheelset/air spring),52935.16
+JOB/2023/0041,Scrap (ferrous),7335.8
+JOB/2023/0042,Scrap (ferrous),8668.22
+JOB/2023/0042,Serviceable release (wheelset/air spring),43588.82
+JOB/2023/0043,Scrap (ferrous),7056.45
+JOB/2023/0044,Scrap (ferrous),8722.5
+JOB/2023/0045,Scrap (ferrous),5643.14
+JOB/2023/0046,Scrap (ferrous),7662.55
+JOB/2023/0047,Scrap (ferrous),10178.32
+JOB/2023/0048,Scrap (ferrous),11602.68
+JOB/2023/0049,Scrap (ferrous),5871.09
+JOB/2023/0050,Scrap (ferrous),6230.18
+JOB/2023/0051,Scrap (ferrous),6087.58
+JOB/2023/0052,Scrap (ferrous),13330.34
+JOB/2023/0053,Scrap (ferrous),15224.23
+JOB/2023/0053,Serviceable release (wheelset/air spring),26014.25
+JOB/2023/0054,Scrap (ferrous),14782.05
+JOB/2023/0055,Scrap (ferrous),8834.23
+JOB/2023/0056,Scrap (ferrous),11244.39
+JOB/2023/0056,Serviceable release (wheelset/air spring),46437.09
+JOB/2023/0057,Scrap (ferrous),5203.51
+JOB/2023/0058,Scrap (ferrous),7635.81
+JOB/2023/0059,Scrap (ferrous),5800.17
+JOB/2023/0059,Serviceable release (wheelset/air spring),58645.46
+JOB/2023/0060,Scrap (ferrous),14184.76
+JOB/2023/0061,Scrap (ferrous),10919.49
+JOB/2023/0062,Scrap (ferrous),5644.57
+JOB/2023/0063,Scrap (ferrous),11349.01
+JOB/2023/0064,Scrap (ferrous),8498.43
+JOB/2023/0065,Scrap (ferrous),4817.08
+JOB/2023/0066,Scrap (ferrous),10194.55
+JOB/2023/0066,Serviceable release (wheelset/air spring),15563.64
+JOB/2023/0067,Scrap (ferrous),17027.39
+JOB/2023/0068,Scrap (ferrous),10147.09
+JOB/2023/0069,Scrap (ferrous),8431.17
+JOB/2023/0070,Scrap (ferrous),10121.01
+JOB/2023/0071,Scrap (ferrous),14150.37
+JOB/2023/0072,Scrap (ferrous),13143.76
+JOB/2023/0072,Serviceable release (wheelset/air spring),21609.34
+JOB/2023/0073,Scrap (ferrous),11736.13
+JOB/2023/0073,Serviceable release (wheelset/air spring),15253.8
+JOB/2023/0074,Scrap (ferrous),8414.13
+JOB/2023/0075,Scrap (ferrous),12266.99
+JOB/2023/0076,Scrap (ferrous),10360.03
+JOB/2023/0077,Scrap (ferrous),9314.71
+JOB/2023/0077,Serviceable release (wheelset/air spring),19660.99
+JOB/2023/0078,Scrap (ferrous),6944.28
+JOB/2023/0078,Serviceable release (wheelset/air spring),40240.97
+JOB/2023/0079,Scrap (ferrous),15127.42
+JOB/2023/0080,Scrap (ferrous),21888.98
+JOB/2023/0081,Scrap (ferrous),10108.51
+JOB/2023/0081,Serviceable release (wheelset/air spring),52985.41
+JOB/2023/0082,Scrap (ferrous),8643.7
+JOB/2023/0083,Scrap (ferrous),8279.94
+JOB/2023/0084,Scrap (ferrous),7061.64
+JOB/2023/0085,Scrap (ferrous),11290.54
+JOB/2023/0086,Scrap (ferrous),8968.89
+JOB/2023/0087,Scrap (ferrous),8731.88
+JOB/2023/0087,Serviceable release (wheelset/air spring),58331.05
+JOB/2023/0088,Scrap (ferrous),13521.6
+JOB/2023/0089,Scrap (ferrous),12515.07
+JOB/2023/0089,Serviceable release (wheelset/air spring),46343.42
+JOB/2023/0090,Scrap (ferrous),17348.74
+JOB/2023/0091,Scrap (ferrous),7721.53
+JOB/2023/0092,Scrap (ferrous),15306.58
+JOB/2023/0093,Scrap (ferrous),14028.62
+JOB/2023/0094,Scrap (ferrous),5446.24
+JOB/2023/0094,Serviceable release (wheelset/air spring),24400.69
+JOB/2023/0095,Scrap (ferrous),6306.05
+JOB/2023/0096,Scrap (ferrous),14118.75
+JOB/2023/0097,Scrap (ferrous),14694.93
+JOB/2023/0098,Scrap (ferrous),4421.9
+JOB/2023/0098,Serviceable release (wheelset/air spring),38177.13
+JOB/2023/0099,Scrap (ferrous),9941.14
+JOB/2023/0100,Scrap (ferrous),12141.63
+JOB/2023/0100,Serviceable release (wheelset/air spring),34867.74
+JOB/2023/0101,Scrap (ferrous),12882.94
+JOB/2023/0101,Serviceable release (wheelset/air spring),33760.55
+JOB/2023/0102,Scrap (ferrous),11722.82
+JOB/2023/0102,Serviceable release (wheelset/air spring),43409.32
+JOB/2023/0103,Scrap (ferrous),14281.15
+JOB/2023/0104,Scrap (ferrous),8708.64
+JOB/2023/0105,Scrap (ferrous),8231.27
+JOB/2023/0106,Scrap (ferrous),4373.12
+JOB/2023/0107,Scrap (ferrous),10338.34
+JOB/2023/0108,Scrap (ferrous),9684.45
+JOB/2023/0109,Scrap (ferrous),18732.5
+JOB/2023/0110,Scrap (ferrous),14697.36
+JOB/2023/0111,Scrap (ferrous),7800.18
+JOB/2023/0112,Scrap (ferrous),11372.86
+JOB/2023/0112,Serviceable release (wheelset/air spring),38821.15
+JOB/2023/0113,Scrap (ferrous),9671.67
+JOB/2023/0114,Scrap (ferrous),7029.33
+JOB/2023/0115,Scrap (ferrous),5469.34
+JOB/2023/0115,Serviceable release (wheelset/air spring),45319.38
+JOB/2023/0116,Scrap (ferrous),9785.49
+JOB/2023/0117,Scrap (ferrous),9359.87
+JOB/2023/0118,Scrap (ferrous),16694.14
+JOB/2023/0119,Scrap (ferrous),13089.47
+JOB/2023/0120,Scrap (ferrous),11161.6
+JOB/2023/0121,Scrap (ferrous),16284.53
+JOB/2023/0122,Scrap (ferrous),9070.01
+JOB/2023/0122,Serviceable release (wheelset/air spring),33028.81
+JOB/2023/0123,Scrap (ferrous),16911.32
+JOB/2023/0124,Scrap (ferrous),11520.69
+JOB/2023/0124,Serviceable release (wheelset/air spring),57491.42
+JOB/2023/0125,Scrap (ferrous),10668.04
+JOB/2023/0126,Scrap (ferrous),16623.9
+JOB/2023/0127,Scrap (ferrous),10561.46
+JOB/2023/0127,Serviceable release (wheelset/air spring),27384.61
+JOB/2023/0128,Scrap (ferrous),17519.4
+JOB/2023/0128,Serviceable release (wheelset/air spring),46079.74
+JOB/2023/0129,Scrap (ferrous),9346.95
+JOB/2023/0130,Scrap (ferrous),6228.36
+JOB/2023/0131,Scrap (ferrous),10872.38
+JOB/2023/0131,Serviceable release (wheelset/air spring),58845.63
+JOB/2023/0132,Scrap (ferrous),11466.22
+JOB/2023/0133,Scrap (ferrous),13694.05
+JOB/2023/0134,Scrap (ferrous),5682.24
+JOB/2023/0135,Scrap (ferrous),7643.64
+JOB/2023/0136,Scrap (ferrous),7568.8
+JOB/2023/0137,Scrap (ferrous),5303.21
+JOB/2023/0138,Scrap (ferrous),11517.2
+JOB/2023/0139,Scrap (ferrous),9077.48
+JOB/2023/0139,Serviceable release (wheelset/air spring),25018.01
+JOB/2023/0140,Scrap (ferrous),5281.41
+JOB/2023/0141,Scrap (ferrous),14127.65
+JOB/2023/0142,Scrap (ferrous),13601.66
+JOB/2023/0143,Scrap (ferrous),16685.35
+JOB/2023/0143,Serviceable release (wheelset/air spring),24383.3
+JOB/2023/0144,Scrap (ferrous),10745.27
+JOB/2023/0145,Scrap (ferrous),6406.3
+JOB/2023/0146,Scrap (ferrous),12454.02
+JOB/2023/0147,Scrap (ferrous),9406.13
+JOB/2023/0147,Serviceable release (wheelset/air spring),36421.88
+JOB/2023/0148,Scrap (ferrous),10633.48
+JOB/2023/0149,Scrap (ferrous),19596.94
+JOB/2023/0150,Scrap (ferrous),7418.93
+JOB/2023/0151,Scrap (ferrous),8849.13
+JOB/2023/0152,Scrap (ferrous),8397.51
+JOB/2023/0153,Scrap (ferrous),12631.65
+JOB/2023/0154,Scrap (ferrous),10014.74
+JOB/2023/0155,Scrap (ferrous),11989.71
+JOB/2023/0155,Serviceable release (wheelset/air spring),53214.26
+JOB/2023/0156,Scrap (ferrous),4800.15
+JOB/2023/0157,Scrap (ferrous),10120.24
+JOB/2023/0158,Scrap (ferrous),13696.0
+JOB/2023/0159,Scrap (ferrous),5439.14
+JOB/2023/0160,Scrap (ferrous),14921.2
+JOB/2023/0161,Scrap (ferrous),4611.06
+JOB/2023/0161,Serviceable release (wheelset/air spring),56305.36
+JOB/2023/0162,Scrap (ferrous),6067.22
+JOB/2023/0162,Serviceable release (wheelset/air spring),15500.57
+JOB/2023/0163,Scrap (ferrous),14470.24
+JOB/2023/0164,Scrap (ferrous),5693.06
+JOB/2023/0165,Scrap (ferrous),12732.59
+JOB/2023/0166,Scrap (ferrous),15008.69
+JOB/2023/0167,Scrap (ferrous),9760.78
+JOB/2023/0168,Scrap (ferrous),7346.19
+JOB/2023/0169,Scrap (ferrous),6614.35
+JOB/2023/0170,Scrap (ferrous),6616.64
+JOB/2023/0171,Scrap (ferrous),9637.65
+JOB/2023/0172,Scrap (ferrous),9414.11
+JOB/2023/0173,Scrap (ferrous),5543.81
+JOB/2023/0174,Scrap (ferrous),7978.29
+JOB/2023/0175,Scrap (ferrous),8518.35
+JOB/2023/0175,Serviceable release (wheelset/air spring),43191.35
+JOB/2023/0176,Scrap (ferrous),4942.11
+JOB/2023/0176,Serviceable release (wheelset/air spring),29818.92
+JOB/2023/0177,Scrap (ferrous),10084.83
+JOB/2023/0178,Scrap (ferrous),13011.85
+JOB/2023/0178,Serviceable release (wheelset/air spring),21567.31
+JOB/2023/0179,Scrap (ferrous),11368.88
+JOB/2023/0179,Serviceable release (wheelset/air spring),18473.63
+JOB/2023/0180,Scrap (ferrous),7579.34
+JOB/2024/0001,Scrap (ferrous),9354.48
+JOB/2024/0002,Scrap (ferrous),21075.11
+JOB/2024/0003,Scrap (ferrous),5301.64
+JOB/2024/0004,Scrap (ferrous),7192.14
+JOB/2024/0005,Scrap (ferrous),5947.27
+JOB/2024/0006,Scrap (ferrous),11834.77
+JOB/2024/0007,Scrap (ferrous),11258.81
+JOB/2024/0008,Scrap (ferrous),6062.8
+JOB/2024/0009,Scrap (ferrous),17489.09
+JOB/2024/0009,Serviceable release (wheelset/air spring),47134.18
+JOB/2024/0010,Scrap (ferrous),12852.54
+JOB/2024/0010,Serviceable release (wheelset/air spring),53687.51
+JOB/2024/0011,Scrap (ferrous),9986.53
+JOB/2024/0011,Serviceable release (wheelset/air spring),56584.87
+JOB/2024/0012,Scrap (ferrous),13842.82
+JOB/2024/0013,Scrap (ferrous),12891.41
+JOB/2024/0014,Scrap (ferrous),7532.85
+JOB/2024/0015,Scrap (ferrous),7476.42
+JOB/2024/0016,Scrap (ferrous),5047.23
+JOB/2024/0017,Scrap (ferrous),5327.24
+JOB/2024/0017,Serviceable release (wheelset/air spring),35085.96
+JOB/2024/0018,Scrap (ferrous),5457.06
+JOB/2024/0019,Scrap (ferrous),16285.78
+JOB/2024/0020,Scrap (ferrous),7164.85
+JOB/2024/0021,Scrap (ferrous),10925.81
+JOB/2024/0022,Scrap (ferrous),12045.7
+JOB/2024/0022,Serviceable release (wheelset/air spring),26932.02
+JOB/2024/0023,Scrap (ferrous),18803.19
+JOB/2024/0024,Scrap (ferrous),6925.88
+JOB/2024/0025,Scrap (ferrous),11636.62
+JOB/2024/0025,Serviceable release (wheelset/air spring),39994.16
+JOB/2024/0026,Scrap (ferrous),15613.92
+JOB/2024/0027,Scrap (ferrous),18299.18
+JOB/2024/0028,Scrap (ferrous),9356.28
+JOB/2024/0029,Scrap (ferrous),7097.64
+JOB/2024/0029,Serviceable release (wheelset/air spring),26767.12
+JOB/2024/0030,Scrap (ferrous),5765.11
+JOB/2024/0031,Scrap (ferrous),4793.0
+JOB/2024/0032,Scrap (ferrous),10344.94
+JOB/2024/0032,Serviceable release (wheelset/air spring),49907.43
+JOB/2024/0033,Scrap (ferrous),19033.33
+JOB/2024/0033,Serviceable release (wheelset/air spring),36359.44
+JOB/2024/0034,Scrap (ferrous),6828.71
+JOB/2024/0035,Scrap (ferrous),12007.81
+JOB/2024/0035,Serviceable release (wheelset/air spring),21275.03
+JOB/2024/0036,Scrap (ferrous),9465.75
+JOB/2024/0037,Scrap (ferrous),13402.85
+JOB/2024/0037,Serviceable release (wheelset/air spring),59424.51
+JOB/2024/0038,Scrap (ferrous),10089.3
+JOB/2024/0039,Scrap (ferrous),7256.06
+JOB/2024/0040,Scrap (ferrous),13760.17
+JOB/2024/0041,Scrap (ferrous),10624.03
+JOB/2024/0042,Scrap (ferrous),5571.47
+JOB/2024/0043,Scrap (ferrous),6730.71
+JOB/2024/0044,Scrap (ferrous),6978.41
+JOB/2024/0045,Scrap (ferrous),10777.72
+JOB/2024/0045,Serviceable release (wheelset/air spring),18155.58
+JOB/2024/0046,Scrap (ferrous),12876.75
+JOB/2024/0047,Scrap (ferrous),8196.23
+JOB/2024/0048,Scrap (ferrous),10903.02
+JOB/2024/0049,Scrap (ferrous),13967.65
+JOB/2024/0050,Scrap (ferrous),7517.05
+JOB/2024/0051,Scrap (ferrous),7154.18
+JOB/2024/0051,Serviceable release (wheelset/air spring),49265.8
+JOB/2024/0052,Scrap (ferrous),10482.77
+JOB/2024/0053,Scrap (ferrous),14173.7
+JOB/2024/0053,Serviceable release (wheelset/air spring),49941.28
+JOB/2024/0054,Scrap (ferrous),14227.67
+JOB/2024/0055,Scrap (ferrous),7971.38
+JOB/2024/0056,Scrap (ferrous),11649.77
+JOB/2024/0056,Serviceable release (wheelset/air spring),19351.48
+JOB/2024/0057,Scrap (ferrous),4457.17
+JOB/2024/0057,Serviceable release (wheelset/air spring),29484.44
+JOB/2024/0058,Scrap (ferrous),12823.46
+JOB/2024/0059,Scrap (ferrous),15576.97
+JOB/2024/0060,Scrap (ferrous),4560.1
+JOB/2024/0061,Scrap (ferrous),4394.32
+JOB/2024/0061,Serviceable release (wheelset/air spring),34211.69
+JOB/2024/0062,Scrap (ferrous),10357.24
+JOB/2024/0062,Serviceable release (wheelset/air spring),26342.45
+JOB/2024/0063,Scrap (ferrous),8867.71
+JOB/2024/0064,Scrap (ferrous),14543.34
+JOB/2024/0064,Serviceable release (wheelset/air spring),22436.76
+JOB/2024/0065,Scrap (ferrous),10531.18
+JOB/2024/0066,Scrap (ferrous),13003.18
+JOB/2024/0067,Scrap (ferrous),6983.22
+JOB/2024/0068,Scrap (ferrous),12656.8
+JOB/2024/0069,Scrap (ferrous),4894.29
+JOB/2024/0070,Scrap (ferrous),17606.13
+JOB/2024/0071,Scrap (ferrous),9029.24
+JOB/2024/0071,Serviceable release (wheelset/air spring),35807.34
+JOB/2024/0072,Scrap (ferrous),15594.91
+JOB/2024/0073,Scrap (ferrous),15430.87
+JOB/2024/0074,Scrap (ferrous),11865.27
+JOB/2024/0074,Serviceable release (wheelset/air spring),52560.0
+JOB/2024/0075,Scrap (ferrous),5824.3
+JOB/2024/0076,Scrap (ferrous),8429.84
+JOB/2024/0076,Serviceable release (wheelset/air spring),32390.03
+JOB/2024/0077,Scrap (ferrous),7731.74
+JOB/2024/0078,Scrap (ferrous),6823.93
+JOB/2024/0079,Scrap (ferrous),14275.71
+JOB/2024/0080,Scrap (ferrous),8473.12
+JOB/2024/0081,Scrap (ferrous),12763.95
+JOB/2024/0082,Scrap (ferrous),11400.75
+JOB/2024/0082,Serviceable release (wheelset/air spring),59438.7
+JOB/2024/0083,Scrap (ferrous),7459.36
+JOB/2024/0083,Serviceable release (wheelset/air spring),31415.02
+JOB/2024/0084,Scrap (ferrous),6902.53
+JOB/2024/0084,Serviceable release (wheelset/air spring),39089.85
+JOB/2024/0085,Scrap (ferrous),7794.61
+JOB/2024/0086,Scrap (ferrous),6902.32
+JOB/2024/0086,Serviceable release (wheelset/air spring),25119.39
+JOB/2024/0087,Scrap (ferrous),9049.78
+JOB/2024/0087,Serviceable release (wheelset/air spring),36775.43
+JOB/2024/0088,Scrap (ferrous),8132.21
+JOB/2024/0089,Scrap (ferrous),12076.73
+JOB/2024/0089,Serviceable release (wheelset/air spring),42714.96
+JOB/2024/0090,Scrap (ferrous),6832.15
+JOB/2024/0091,Scrap (ferrous),6360.77
+JOB/2024/0091,Serviceable release (wheelset/air spring),25030.48
+JOB/2024/0092,Scrap (ferrous),7048.05
+JOB/2024/0092,Serviceable release (wheelset/air spring),53599.04
+JOB/2024/0093,Scrap (ferrous),10213.87
+JOB/2024/0094,Scrap (ferrous),10324.1
+JOB/2024/0095,Scrap (ferrous),7240.69
+JOB/2024/0096,Scrap (ferrous),15592.23
+JOB/2024/0097,Scrap (ferrous),8546.94
+JOB/2024/0097,Serviceable release (wheelset/air spring),49352.27
+JOB/2024/0098,Scrap (ferrous),12603.85
+JOB/2024/0099,Scrap (ferrous),11377.94
+JOB/2024/0100,Scrap (ferrous),8109.47
+JOB/2024/0101,Scrap (ferrous),6972.66
+JOB/2024/0102,Scrap (ferrous),9952.3
+JOB/2024/0103,Scrap (ferrous),8457.97
+JOB/2024/0104,Scrap (ferrous),10985.85
+JOB/2024/0104,Serviceable release (wheelset/air spring),57908.25
+JOB/2024/0105,Scrap (ferrous),9602.67
+JOB/2024/0105,Serviceable release (wheelset/air spring),33761.48
+JOB/2024/0106,Scrap (ferrous),7891.16
+JOB/2024/0107,Scrap (ferrous),12107.38
+JOB/2024/0107,Serviceable release (wheelset/air spring),55157.41
+JOB/2024/0108,Scrap (ferrous),8691.68
+JOB/2024/0109,Scrap (ferrous),7636.78
+JOB/2024/0110,Scrap (ferrous),11380.57
+JOB/2024/0110,Serviceable release (wheelset/air spring),23850.25
+JOB/2024/0111,Scrap (ferrous),11142.18
+JOB/2024/0112,Scrap (ferrous),9888.82
+JOB/2024/0113,Scrap (ferrous),10710.82
+JOB/2024/0114,Scrap (ferrous),16908.95
+JOB/2024/0114,Serviceable release (wheelset/air spring),30630.09
+JOB/2024/0115,Scrap (ferrous),9631.3
+JOB/2024/0115,Serviceable release (wheelset/air spring),40229.13
+JOB/2024/0116,Scrap (ferrous),5059.38
+JOB/2024/0117,Scrap (ferrous),4556.94
+JOB/2024/0118,Scrap (ferrous),16130.95
+JOB/2024/0119,Scrap (ferrous),8303.4
+JOB/2024/0120,Scrap (ferrous),8723.47
+JOB/2024/0121,Scrap (ferrous),7549.86
+JOB/2024/0122,Scrap (ferrous),6318.2
+JOB/2024/0123,Scrap (ferrous),12840.04
+JOB/2024/0124,Scrap (ferrous),11255.39
+JOB/2024/0125,Scrap (ferrous),4761.12
+JOB/2024/0126,Scrap (ferrous),10365.43
+JOB/2024/0127,Scrap (ferrous),5816.4
+JOB/2024/0128,Scrap (ferrous),17664.25
+JOB/2024/0129,Scrap (ferrous),14003.46
+JOB/2024/0129,Serviceable release (wheelset/air spring),46082.19
+JOB/2024/0130,Scrap (ferrous),10625.85
+JOB/2024/0130,Serviceable release (wheelset/air spring),48059.9
+JOB/2024/0131,Scrap (ferrous),12031.89
+JOB/2024/0131,Serviceable release (wheelset/air spring),50626.21
+JOB/2024/0132,Scrap (ferrous),13236.37
+JOB/2024/0133,Scrap (ferrous),5682.74
+JOB/2024/0134,Scrap (ferrous),11377.9
+JOB/2024/0135,Scrap (ferrous),11026.11
+JOB/2024/0136,Scrap (ferrous),17952.7
+JOB/2024/0137,Scrap (ferrous),11226.44
+JOB/2024/0138,Scrap (ferrous),9601.16
+JOB/2024/0138,Serviceable release (wheelset/air spring),37232.89
+JOB/2024/0139,Scrap (ferrous),7870.63
+JOB/2024/0140,Scrap (ferrous),11364.66
+JOB/2024/0141,Scrap (ferrous),10345.28
+JOB/2024/0142,Scrap (ferrous),8060.43
+JOB/2024/0143,Scrap (ferrous),15545.95
+JOB/2024/0144,Scrap (ferrous),5399.0
+JOB/2024/0145,Scrap (ferrous),13718.49
+JOB/2024/0145,Serviceable release (wheelset/air spring),45791.94
+JOB/2024/0146,Scrap (ferrous),7688.42
+JOB/2024/0147,Scrap (ferrous),5378.49
+JOB/2024/0148,Scrap (ferrous),10817.35
+JOB/2024/0149,Scrap (ferrous),13960.61
+JOB/2024/0149,Serviceable release (wheelset/air spring),33752.57
+JOB/2024/0150,Scrap (ferrous),8496.47
+JOB/2024/0150,Serviceable release (wheelset/air spring),38193.4
+JOB/2024/0151,Scrap (ferrous),13425.77
+JOB/2024/0152,Scrap (ferrous),19497.02
+JOB/2024/0153,Scrap (ferrous),8626.28
+JOB/2024/0154,Scrap (ferrous),14484.58
+JOB/2024/0155,Scrap (ferrous),7781.5
+JOB/2024/0156,Scrap (ferrous),13880.43
+JOB/2024/0156,Serviceable release (wheelset/air spring),58876.69
+JOB/2024/0157,Scrap (ferrous),5096.33
+JOB/2024/0158,Scrap (ferrous),10016.48
+JOB/2024/0159,Scrap (ferrous),10511.69
+JOB/2024/0160,Scrap (ferrous),9114.65
+JOB/2024/0160,Serviceable release (wheelset/air spring),50736.2
+JOB/2024/0161,Scrap (ferrous),13895.18
+JOB/2024/0162,Scrap (ferrous),15067.05
+JOB/2024/0163,Scrap (ferrous),13610.68
+JOB/2024/0164,Scrap (ferrous),12742.4
+JOB/2024/0165,Scrap (ferrous),7608.04
+JOB/2024/0166,Scrap (ferrous),10852.83
+JOB/2024/0167,Scrap (ferrous),18599.78
+JOB/2024/0168,Scrap (ferrous),10897.99
+JOB/2024/0169,Scrap (ferrous),4325.64
+JOB/2024/0169,Serviceable release (wheelset/air spring),40882.22
+JOB/2024/0170,Scrap (ferrous),16488.58
+JOB/2024/0171,Scrap (ferrous),11856.07
+JOB/2024/0172,Scrap (ferrous),12092.39
+JOB/2024/0172,Serviceable release (wheelset/air spring),17580.38
+JOB/2024/0173,Scrap (ferrous),8529.98
+JOB/2024/0174,Scrap (ferrous),11056.06
+JOB/2024/0175,Scrap (ferrous),17108.41
+JOB/2024/0175,Serviceable release (wheelset/air spring),27915.02
+JOB/2024/0176,Scrap (ferrous),15803.93
+JOB/2024/0177,Scrap (ferrous),10460.75
+JOB/2024/0178,Scrap (ferrous),11942.27
+JOB/2024/0179,Scrap (ferrous),10838.23
+JOB/2024/0180,Scrap (ferrous),6626.65
+JOB/2025/0001,Scrap (ferrous),10595.26
+JOB/2025/0001,Serviceable release (wheelset/air spring),48013.63
+JOB/2025/0002,Scrap (ferrous),14036.69
+JOB/2025/0003,Scrap (ferrous),12431.13
+JOB/2025/0004,Scrap (ferrous),9896.96
+JOB/2025/0005,Scrap (ferrous),5230.82
+JOB/2025/0006,Scrap (ferrous),5035.52
+JOB/2025/0007,Scrap (ferrous),11619.87
+JOB/2025/0007,Serviceable release (wheelset/air spring),42947.9
+JOB/2025/0008,Scrap (ferrous),10179.64
+JOB/2025/0009,Scrap (ferrous),8583.73
+JOB/2025/0010,Scrap (ferrous),20325.94
+JOB/2025/0011,Scrap (ferrous),9376.77
+JOB/2025/0011,Serviceable release (wheelset/air spring),59167.17
+JOB/2025/0012,Scrap (ferrous),12859.87
+JOB/2025/0013,Scrap (ferrous),8227.68
+JOB/2025/0013,Serviceable release (wheelset/air spring),19067.89
+JOB/2025/0014,Scrap (ferrous),8319.03
+JOB/2025/0015,Scrap (ferrous),17016.11
+JOB/2025/0016,Scrap (ferrous),13355.12
+JOB/2025/0017,Scrap (ferrous),17850.37
+JOB/2025/0018,Scrap (ferrous),18964.36
+JOB/2025/0019,Scrap (ferrous),7154.23
+JOB/2025/0020,Scrap (ferrous),6670.84
+JOB/2025/0020,Serviceable release (wheelset/air spring),30285.27
+JOB/2025/0021,Scrap (ferrous),8352.87
+JOB/2025/0022,Scrap (ferrous),13370.79
+JOB/2025/0023,Scrap (ferrous),20178.46
+JOB/2025/0024,Scrap (ferrous),5761.28
+JOB/2025/0025,Scrap (ferrous),7302.66
+JOB/2025/0026,Scrap (ferrous),10360.34
+JOB/2025/0027,Scrap (ferrous),6402.12
+JOB/2025/0028,Scrap (ferrous),7694.44
+JOB/2025/0029,Scrap (ferrous),5953.2
+JOB/2025/0030,Scrap (ferrous),14037.37
+JOB/2025/0031,Scrap (ferrous),8630.13
+JOB/2025/0032,Scrap (ferrous),13124.41
+JOB/2025/0033,Scrap (ferrous),7933.65
+JOB/2025/0033,Serviceable release (wheelset/air spring),45052.63
+JOB/2025/0034,Scrap (ferrous),18853.99
+JOB/2025/0035,Scrap (ferrous),16064.59
+JOB/2025/0036,Scrap (ferrous),9699.59
+JOB/2025/0037,Scrap (ferrous),5319.23
+JOB/2025/0037,Serviceable release (wheelset/air spring),16131.75
+JOB/2025/0038,Scrap (ferrous),12998.88
+JOB/2025/0039,Scrap (ferrous),8614.19
+JOB/2025/0040,Scrap (ferrous),12923.58
+JOB/2025/0041,Scrap (ferrous),10424.26
+JOB/2025/0042,Scrap (ferrous),15107.57
+JOB/2025/0043,Scrap (ferrous),14101.18
+JOB/2025/0044,Scrap (ferrous),7894.85
+JOB/2025/0045,Scrap (ferrous),10317.08
+JOB/2025/0046,Scrap (ferrous),6754.3
+JOB/2025/0047,Scrap (ferrous),14218.65
+JOB/2025/0048,Scrap (ferrous),13887.77
+JOB/2025/0049,Scrap (ferrous),9632.99
+JOB/2025/0050,Scrap (ferrous),8468.86
+JOB/2025/0051,Scrap (ferrous),13562.71
+JOB/2025/0052,Scrap (ferrous),8088.44
+JOB/2025/0053,Scrap (ferrous),10925.41
+JOB/2025/0054,Scrap (ferrous),10557.72
+JOB/2025/0055,Scrap (ferrous),10126.95
+JOB/2025/0056,Scrap (ferrous),5266.94
+JOB/2025/0057,Scrap (ferrous),8441.0
+JOB/2025/0058,Scrap (ferrous),12488.2
+JOB/2025/0059,Scrap (ferrous),7666.98
+JOB/2025/0060,Scrap (ferrous),11857.82
+JOB/2025/0061,Scrap (ferrous),6194.37
+JOB/2025/0061,Serviceable release (wheelset/air spring),58218.7
+JOB/2025/0062,Scrap (ferrous),11131.29
+JOB/2025/0063,Scrap (ferrous),14595.78
+JOB/2025/0064,Scrap (ferrous),9297.04
+JOB/2025/0065,Scrap (ferrous),14259.2
+JOB/2025/0066,Scrap (ferrous),15463.14
+JOB/2025/0067,Scrap (ferrous),9497.55
+JOB/2025/0067,Serviceable release (wheelset/air spring),22646.55
+JOB/2025/0068,Scrap (ferrous),14677.88
+JOB/2025/0068,Serviceable release (wheelset/air spring),59874.6
+JOB/2025/0069,Scrap (ferrous),10626.04
+JOB/2025/0070,Scrap (ferrous),8793.47
+JOB/2025/0071,Scrap (ferrous),14631.29
+JOB/2025/0072,Scrap (ferrous),14834.77
+JOB/2025/0073,Scrap (ferrous),5800.87
+JOB/2025/0074,Scrap (ferrous),11431.07
+JOB/2025/0074,Serviceable release (wheelset/air spring),50096.18
+JOB/2025/0075,Scrap (ferrous),5605.0
+JOB/2025/0076,Scrap (ferrous),9754.52
+JOB/2025/0076,Serviceable release (wheelset/air spring),58279.07
+JOB/2025/0077,Scrap (ferrous),10642.4
+JOB/2025/0078,Scrap (ferrous),15583.52
+JOB/2025/0078,Serviceable release (wheelset/air spring),58180.25
+JOB/2025/0079,Scrap (ferrous),15652.86
+JOB/2025/0080,Scrap (ferrous),5629.87
+JOB/2025/0081,Scrap (ferrous),6938.55
+JOB/2025/0081,Serviceable release (wheelset/air spring),45573.27
+JOB/2025/0082,Scrap (ferrous),13221.02
+JOB/2025/0083,Scrap (ferrous),13809.32
+JOB/2025/0083,Serviceable release (wheelset/air spring),20465.57
+JOB/2025/0084,Scrap (ferrous),13697.77
+JOB/2025/0084,Serviceable release (wheelset/air spring),43663.0
+JOB/2025/0085,Scrap (ferrous),8732.09
+JOB/2025/0086,Scrap (ferrous),11337.25
+JOB/2025/0087,Scrap (ferrous),12746.35
+JOB/2025/0088,Scrap (ferrous),10134.09
+JOB/2025/0088,Serviceable release (wheelset/air spring),44097.14
+JOB/2025/0089,Scrap (ferrous),14718.41
+JOB/2025/0090,Scrap (ferrous),15167.13
+JOB/2025/0091,Scrap (ferrous),10611.51
+JOB/2025/0092,Scrap (ferrous),7165.78
+JOB/2025/0093,Scrap (ferrous),8502.95
+JOB/2025/0094,Scrap (ferrous),18108.86
+JOB/2025/0094,Serviceable release (wheelset/air spring),38795.3
+JOB/2025/0095,Scrap (ferrous),10330.14
+JOB/2025/0096,Scrap (ferrous),5496.97
+JOB/2025/0097,Scrap (ferrous),11624.06
+JOB/2025/0098,Scrap (ferrous),10307.81
+JOB/2025/0099,Scrap (ferrous),14857.16
+JOB/2025/0100,Scrap (ferrous),9253.94
+JOB/2025/0101,Scrap (ferrous),7150.79
+JOB/2025/0102,Scrap (ferrous),12482.86
+JOB/2025/0103,Scrap (ferrous),12287.6
+JOB/2025/0104,Scrap (ferrous),13299.81
+JOB/2025/0104,Serviceable release (wheelset/air spring),19631.25
+JOB/2025/0105,Scrap (ferrous),13728.05
+JOB/2025/0106,Scrap (ferrous),12842.3
+JOB/2025/0106,Serviceable release (wheelset/air spring),31537.14
+JOB/2025/0107,Scrap (ferrous),8207.47
+JOB/2025/0107,Serviceable release (wheelset/air spring),15226.43
+JOB/2025/0108,Scrap (ferrous),6380.6
+JOB/2025/0109,Scrap (ferrous),6057.03
+JOB/2025/0109,Serviceable release (wheelset/air spring),29067.69
+JOB/2025/0110,Scrap (ferrous),10796.19
+JOB/2025/0111,Scrap (ferrous),10209.23
+JOB/2025/0112,Scrap (ferrous),13849.74
+JOB/2025/0113,Scrap (ferrous),13063.95
+JOB/2025/0113,Serviceable release (wheelset/air spring),43362.96
+JOB/2025/0114,Scrap (ferrous),15560.33
+JOB/2025/0114,Serviceable release (wheelset/air spring),26419.54
+JOB/2025/0115,Scrap (ferrous),9096.13
+JOB/2025/0115,Serviceable release (wheelset/air spring),44333.57
+JOB/2025/0116,Scrap (ferrous),9189.92
+JOB/2025/0117,Scrap (ferrous),11876.9
+JOB/2025/0118,Scrap (ferrous),4056.25
+JOB/2025/0119,Scrap (ferrous),11823.48
+JOB/2025/0120,Scrap (ferrous),8282.35
+JOB/2025/0120,Serviceable release (wheelset/air spring),43250.17
+JOB/2025/0121,Scrap (ferrous),12287.97
+JOB/2025/0122,Scrap (ferrous),9114.91
+JOB/2025/0123,Scrap (ferrous),6290.01
+JOB/2025/0124,Scrap (ferrous),11207.21
+JOB/2025/0125,Scrap (ferrous),16358.75
+JOB/2025/0126,Scrap (ferrous),10886.74
+JOB/2025/0127,Scrap (ferrous),5525.07
+JOB/2025/0127,Serviceable release (wheelset/air spring),51560.52
+JOB/2025/0128,Scrap (ferrous),8207.72
+JOB/2025/0129,Scrap (ferrous),8461.88
+JOB/2025/0129,Serviceable release (wheelset/air spring),25145.52
+JOB/2025/0130,Scrap (ferrous),9489.25
+JOB/2025/0131,Scrap (ferrous),4718.45
+JOB/2025/0131,Serviceable release (wheelset/air spring),53428.23
+JOB/2025/0132,Scrap (ferrous),12667.89
+JOB/2025/0133,Scrap (ferrous),13865.29
+JOB/2025/0134,Scrap (ferrous),12775.78
+JOB/2025/0135,Scrap (ferrous),14316.42
+JOB/2025/0135,Serviceable release (wheelset/air spring),48529.18
+JOB/2025/0136,Scrap (ferrous),7304.05
+JOB/2025/0137,Scrap (ferrous),12325.38
+JOB/2025/0138,Scrap (ferrous),9839.04
+JOB/2025/0139,Scrap (ferrous),8382.6
+JOB/2025/0140,Scrap (ferrous),12218.59
+JOB/2025/0141,Scrap (ferrous),16914.26
+JOB/2025/0142,Scrap (ferrous),16383.74
+JOB/2025/0143,Scrap (ferrous),11450.97
+JOB/2025/0143,Serviceable release (wheelset/air spring),51037.82
+JOB/2025/0144,Scrap (ferrous),9045.56
+JOB/2025/0144,Serviceable release (wheelset/air spring),22284.63
+JOB/2025/0145,Scrap (ferrous),10905.36
+JOB/2025/0146,Scrap (ferrous),15929.09
+JOB/2025/0147,Scrap (ferrous),13796.35
+JOB/2025/0148,Scrap (ferrous),8698.92
+JOB/2025/0149,Scrap (ferrous),11267.14
+JOB/2025/0150,Scrap (ferrous),10127.03
+JOB/2025/0151,Scrap (ferrous),11541.68
+JOB/2025/0152,Scrap (ferrous),6344.67
+JOB/2025/0152,Serviceable release (wheelset/air spring),44794.18
+JOB/2025/0153,Scrap (ferrous),12899.36
+JOB/2025/0154,Scrap (ferrous),11282.93
+JOB/2025/0155,Scrap (ferrous),8305.46
+JOB/2025/0156,Scrap (ferrous),10187.96
+JOB/2025/0157,Scrap (ferrous),14006.19
+JOB/2025/0158,Scrap (ferrous),10488.23
+JOB/2025/0159,Scrap (ferrous),6312.08
+JOB/2025/0160,Scrap (ferrous),11832.62
+JOB/2025/0161,Scrap (ferrous),9978.92
+JOB/2025/0162,Scrap (ferrous),17496.24
+JOB/2025/0163,Scrap (ferrous),11888.17
+JOB/2025/0164,Scrap (ferrous),8531.32
+JOB/2025/0165,Scrap (ferrous),10321.91
+JOB/2025/0166,Scrap (ferrous),12712.82
+JOB/2025/0167,Scrap (ferrous),7675.85
+JOB/2025/0167,Serviceable release (wheelset/air spring),35887.93
+JOB/2025/0168,Scrap (ferrous),14357.69
+JOB/2025/0169,Scrap (ferrous),7436.21
+JOB/2025/0169,Serviceable release (wheelset/air spring),43200.8
+JOB/2025/0170,Scrap (ferrous),5852.36
+JOB/2025/0171,Scrap (ferrous),6864.22
+JOB/2025/0172,Scrap (ferrous),8769.5
+JOB/2025/0173,Scrap (ferrous),12406.93
+JOB/2025/0174,Scrap (ferrous),11082.79
+JOB/2025/0175,Scrap (ferrous),14579.79
+JOB/2025/0176,Scrap (ferrous),15576.93
+JOB/2025/0176,Serviceable release (wheelset/air spring),47529.87
+JOB/2025/0177,Scrap (ferrous),11139.27
+JOB/2025/0177,Serviceable release (wheelset/air spring),46243.54
+JOB/2025/0178,Scrap (ferrous),7709.97
+JOB/2025/0179,Scrap (ferrous),13850.47
+JOB/2025/0180,Scrap (ferrous),12783.28

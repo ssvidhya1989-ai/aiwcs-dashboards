@@ -1,0 +1,37 @@
+pl_no,description,unit,shop_no,category,indicative_std_qty
+PL10010001,Wheelset complete,No,3,Conditional,0
+PL10010002,Axle box bearing cartridge,No,3,Standard,2
+PL10010003,Secondary air spring assembly,No,3,Conditional,0
+PL10010004,Primary coil spring,No,3,Standard,4
+PL10010005,Vertical damper (primary),No,3,Standard,4
+PL10010006,Lateral damper (secondary),No,3,Standard,2
+PL10010007,Yaw damper,No,3,Conditional,0
+PL10010008,Brake disc (axle mounted),No,3,Conditional,0
+PL10010009,Brake pad set,Set,3,Standard,8
+PL10010010,Bogie frame paint (primer+top),Ltr,3,Standard,24
+PL10020001,Stainless/corten steel sheet 2 mm,Kg,4,Conditional,0
+PL10020002,Trough floor sheet,Kg,4,Conditional,0
+PL10020003,Welding electrode / wire,Kg,4,Standard,18
+PL10020004,Anti-corrosive compound,Ltr,4,Standard,30
+PL10020005,Sole bar repair plate,Kg,4,Conditional,0
+PL10030001,Brake cylinder overhaul kit,Kit,5,Standard,4
+PL10030002,Distributor valve overhaul kit,Kit,5,Standard,1
+PL10030003,Brake hose coupling,No,5,Standard,6
+PL10030004,CBC coupler overhaul kit,Kit,5,Standard,2
+PL10030005,CBC knuckle,No,5,Conditional,0
+PL10040001,LED light fitting,No,6,Standard,10
+PL10040002,Wiring cable 2.5 sq mm,Mtr,6,Standard,120
+PL10040003,Berth / seat cushion,No,6,Conditional,0
+PL10040004,Window glass (sealed unit),No,6,Conditional,0
+PL10040005,Toilet fittings set,Set,6,Standard,1
+PL10040006,AC unit service kit,Kit,6,Variant,0
+PL10040007,Diesel engine / DG set service kit,Kit,6,Variant,0
+PL10040008,Interior panel (FRP),No,6,Conditional,0
+PL10050001,PU paint (exterior),Ltr,7,Standard,60
+PL10050002,Primer (epoxy),Ltr,7,Standard,40
+PL10050003,Thinner,Ltr,7,Standard,35
+PL10050004,Surface prep abrasive,Kg,7,Standard,80
+PL10060001,"Test consumables (gauges, seals)",Set,8,Standard,1
+PL10060002,Number plates & decals,Set,8,Standard,1
+PL10010011,Centre pivot / side bearer kit,Kit,2,Standard,2
+PL10070001,Inspection consumables,Set,1,Standard,1

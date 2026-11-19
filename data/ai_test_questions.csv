@@ -1,0 +1,25 @@
+q_id,question,expected_answer,unit,how_computed
+Q01,How many rolling stock units were received for POH in FY 2023-24?,180,units,count of poh_jobs by fy
+Q02,How many rolling stock units were received for POH in FY 2024-25?,180,units,count of poh_jobs by fy
+Q03,How many rolling stock units were received for POH in FY 2025-26?,180,units,count of poh_jobs by fy
+Q04,What was the average Bogie shop labour cost for LHB AC coaches in FY 2024-25?,187714.0,Rs,"mean labour_cost, Bogie shop"
+Q05,What was the average Bogie shop labour cost for ICF Non-AC coaches in FY 2024-25?,159378.0,Rs,"mean labour_cost, Bogie shop"
+Q06,What was the average total POH cost per unit for ICF Non-AC coach in FY 2024-25?,2050154.0,Rs,mean total_cost_per_coach
+Q07,What was the average total POH cost per unit for ICF AC coach in FY 2024-25?,2273555.0,Rs,mean total_cost_per_coach
+Q08,What was the average total POH cost per unit for LHB Non-AC coach in FY 2024-25?,2271245.0,Rs,mean total_cost_per_coach
+Q09,What was the average total POH cost per unit for LHB AC coach in FY 2024-25?,2584135.0,Rs,mean total_cost_per_coach
+Q10,What was the average total POH cost per unit for Vande Bharat car in FY 2024-25?,3175933.0,Rs,mean total_cost_per_coach
+Q11,What was the average total POH cost per unit for EMU car in FY 2024-25?,2803999.0,Rs,mean total_cost_per_coach
+Q12,What was the average total POH cost per unit for DEMU car in FY 2024-25?,2951832.0,Rs,mean total_cost_per_coach
+Q13,What was the average total POH cost per unit for Freight wagon in FY 2024-25?,892186.0,Rs,mean total_cost_per_coach
+Q14,What was the average total POH cost per unit for Locomotive in FY 2024-25?,5015951.0,Rs,mean total_cost_per_coach
+Q15,"What was the total value of secondary air springs drawn in FY 2024-25 (net of returns, at Book Average Rate)?",4886175.0,Rs,sum value PL10010003
+Q16,How many wheelsets were issued in FY 2023-24?,70,No,sum quantity PL10010001 issues
+Q17,What was the labour on-cost rate of the Paint shop in FY 2024-25?,131.4,% of direct labour,oncost_rates
+Q18,Which shop consumed the most man-hours in FY 2025-26?,Bogie shop,shop,sum man_hours by shop
+Q19,What was the total stores on-cost charged in FY 2024-25?,15654172.0,Rs,sum stores_oncost
+Q20,What were the total approved idle hours in the Bogie shop in FY 2024-25?,30306.0,hours,"sum idle_hours, Bogie shop staff"
+Q21,How many units in FY 2024-25 cost more than Rs 25 lakh?,60,units,count total_cost_per_coach > 2500000
+Q22,"What is the average time on the floor (receipt to dispatch, working days) in FY 2024-25?",28.9,working days,WIDX difference
+Q23,What is the average km run since last POH for units received in FY 2025-26?,477897.0,km,mean km_since_last_poh
+Q24,How many material issue notes have no job number or work order (exception queue)?,30,issue notes,count blank job_no
